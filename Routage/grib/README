@@ -1,0 +1,12 @@
+Avant d'essayer de compiler faire en ligne de commande : export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/src/eccodes/lib
+Se compile avec la commande : gcc -o grib2isoc2 grib2isoc2.c -L/usr/src/eccodes/lib/ -leccodes -lm
+
+Usage : ./grib2isoc2 ./gribfile/06042016.grb 20160406 600 46.2 -12.2 46.5 -11.4 
+Génère le fichier out.isoc qui est la restriction de 06042016.grb à partir de la date 20160406 (format yyyymmdd) et de l'heure 600 (format hhmm) et entre la first latitude 46.2, la first longitude -12.2, la last latitude 46.5 et la last longitude -11.4
+Autre exemple : ./grib2isoc2 ./gribfile/06042016.grb 20160409 0 40.0 -20.0 52.0 -5.0
+
+Peut aussi s'utiliser sans date, heure ni zone géographique -> prend tout le fichier
+./grib2isoc2 ./gribfile/051015.grb
+
+Ou encore avec juste date et heure, pas de restriction géographique 
+./grib2isoc2 ./gribfile/051015.grb 20151006 600
