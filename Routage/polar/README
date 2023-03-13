@@ -1,0 +1,4 @@
+Convertit une opolaire en xml en .dat en ajoutant une polaire pour une vitesse de vent nulle (vitese du bateau nulle également).
+Se compile avec la commande gcc -o xmlToDat xmlToDat.c
+S'utilise avec la commande ./xmlToDat polaire.xml et génère le fichier polar.dat
+
