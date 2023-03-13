@@ -1,0 +1,13 @@
+seed 5 
+start  47.29891 -3.57457
+finish 44.28568 -5.32721
+date 20151005 
+stime 185544
+polar ../gd_surprise.dat 
+weather ../051015.isoc
+noise 0.0 
+gens 4000 
+alpha 100 
+depth 4 
+outputfile output.out
+

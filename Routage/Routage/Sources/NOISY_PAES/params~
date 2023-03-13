@@ -1,0 +1,13 @@
+seed 5 
+start  50.01976 -9.35446
+finish 44.52696 -16.0
+date 20160409 
+stime 000000
+polar ../imoca.dat 
+weather ../06042016.isoc
+noise 0.0 
+gens 4000
+alpha 100 
+depth 4 
+outputfile output.out
+

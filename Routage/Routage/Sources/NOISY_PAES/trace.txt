@@ -1,0 +1,2866 @@
+start (50.01976 -9.35446) finish (44.52696 -16.00000)
+wakesize 45.00 conesize 140.00 endcone 20.00 maxpoints 360 pangle 5.00 ptime 3.00 epsilon 2.00 maxfinishDst 1.00
+relativeStartTime is set to: 0.0000
+running with args:
+start (50.01976 -9.35446) finish (44.52696 -16.00000)
+wakesize 45.00 conesize 140.00 endcone 20.00 maxpoints 360 pangle 5.00 ptime 3.00 epsilon 2.00 maxfinishDst 1.00
+LAURENT erreur de calcul de temps 22724.39258 with speed 7.57475
+LAURENT retry: 22724.39258 with speed 7.57475
+LAURENT erreur de calcul de temps 3.03078 with speed 7.71742
+LAURENT retry: 3.03078 with speed 7.71742
+LAURENT erreur de calcul de temps 3.03172 with speed 7.79281
+LAURENT retry: 3.03172 with speed 7.79281
+LAURENT erreur de calcul de temps 3.03235 with speed 7.86316
+LAURENT retry: 3.03235 with speed 7.86316
+LAURENT erreur de calcul de temps 3.03214 with speed 7.85961
+LAURENT retry: 3.03214 with speed 7.85961
+LAURENT erreur de calcul de temps 3.03224 with speed 7.72135
+LAURENT retry: 3.03224 with speed 7.72135
+LAURENT erreur de calcul de temps 20584.35938 with speed 6.86145
+LAURENT retry: 20584.35938 with speed 6.86145
+LAURENT erreur de calcul de temps 3.03053 with speed 11.68444
+LAURENT retry: 3.03053 with speed 11.68444
+LAURENT erreur de calcul de temps 3.03276 with speed 12.02740
+LAURENT retry: 3.03276 with speed 12.02740
+LAURENT erreur de calcul de temps 3.03182 with speed 12.17882
+LAURENT retry: 3.03182 with speed 12.17882
+LAURENT erreur de calcul de temps 3.03345 with speed 12.59409
+LAURENT retry: 3.03345 with speed 12.59409
+LAURENT erreur de calcul de temps 3.03359 with speed 12.76262
+LAURENT retry: 3.03359 with speed 12.76262
+LAURENT erreur de calcul de temps 3.03147 with speed 13.15147
+LAURENT retry: 3.03147 with speed 13.15147
+LAURENT erreur de calcul de temps 3.03441 with speed 12.90181
+LAURENT retry: 3.03441 with speed 12.90181
+LAURENT erreur de calcul de temps 3.03747 with speed 13.15181
+LAURENT retry: 3.03747 with speed 13.15181
+LAURENT erreur de calcul de temps 3.03758 with speed 13.46240
+LAURENT retry: 3.03758 with speed 13.46240
+LAURENT erreur de calcul de temps 3.03497 with speed 13.21770
+LAURENT retry: 3.03497 with speed 13.21770
+LAURENT erreur de calcul de temps 3.03986 with speed 13.42544
+LAURENT retry: 3.03986 with speed 13.42544
+LAURENT erreur de calcul de temps 3.03950 with speed 13.59780
+LAURENT retry: 3.03950 with speed 13.59780
+LAURENT erreur de calcul de temps 3.04207 with speed 13.84770
+LAURENT retry: 3.04207 with speed 13.84770
+LAURENT erreur de calcul de temps 3.04175 with speed 14.03164
+LAURENT retry: 3.04175 with speed 14.03164
+LAURENT erreur de calcul de temps 3.03523 with speed 14.24053
+LAURENT retry: 3.03523 with speed 14.24053
+LAURENT erreur de calcul de temps 3.03261 with speed 13.00225
+LAURENT retry: 3.03261 with speed 13.00225
+LAURENT erreur de calcul de temps 3.03080 with speed 12.95612
+LAURENT retry: 3.03080 with speed 12.95612
+LAURENT erreur de calcul de temps 3.03136 with speed 12.65141
+LAURENT retry: 3.03136 with speed 12.65141
+LAURENT erreur de calcul de temps 3.03334 with speed 12.51537
+LAURENT retry: 3.03334 with speed 12.51537
+LAURENT erreur de calcul de temps 3.03216 with speed 12.37267
+LAURENT retry: 3.03216 with speed 12.37267
+LAURENT erreur de calcul de temps 3.03071 with speed 12.26408
+LAURENT retry: 3.03071 with speed 12.26408
+LAURENT erreur de calcul de temps 3.03164 with speed 12.22356
+LAURENT retry: 3.03164 with speed 12.22356
+LAURENT erreur de calcul de temps 3.03207 with speed 12.14817
+LAURENT retry: 3.03207 with speed 12.14817
+LAURENT erreur de calcul de temps 3.03338 with speed 12.13511
+LAURENT retry: 3.03338 with speed 12.13511
+LAURENT erreur de calcul de temps 3.03489 with speed 12.15090
+LAURENT retry: 3.03489 with speed 12.15090
+LAURENT erreur de calcul de temps 3.03596 with speed 12.08416
+LAURENT retry: 3.03596 with speed 12.08416
+LAURENT erreur de calcul de temps 3.03424 with speed 11.83746
+LAURENT retry: 3.03424 with speed 11.83746
+LAURENT erreur de calcul de temps 3.03580 with speed 11.82718
+LAURENT retry: 3.03580 with speed 11.82718
+LAURENT erreur de calcul de temps 3.03380 with speed 11.69228
+LAURENT retry: 3.03380 with speed 11.69228
+LAURENT erreur de calcul de temps 3.03266 with speed 11.68808
+LAURENT retry: 3.03266 with speed 11.68808
+LAURENT erreur de calcul de temps 3.03140 with speed 11.63405
+LAURENT retry: 3.03140 with speed 11.63405
+LAURENT erreur de calcul de temps 3.03687 with speed 13.15276
+LAURENT retry: 3.03687 with speed 13.15276
+LAURENT erreur de calcul de temps 3.03113 with speed 12.72316
+LAURENT retry: 3.03113 with speed 12.72316
+LAURENT erreur de calcul de temps 3.03097 with speed 12.96080
+LAURENT retry: 3.03097 with speed 12.96080
+LAURENT erreur de calcul de temps 3.03411 with speed 13.00140
+LAURENT retry: 3.03411 with speed 13.00140
+LAURENT erreur de calcul de temps 3.03393 with speed 13.19919
+LAURENT retry: 3.03393 with speed 13.19919
+LAURENT erreur de calcul de temps 3.03612 with speed 13.12396
+LAURENT retry: 3.03612 with speed 13.12396
+LAURENT erreur de calcul de temps 3.03427 with speed 13.37396
+LAURENT retry: 3.03427 with speed 13.37396
+LAURENT erreur de calcul de temps 3.03278 with speed 13.34358
+LAURENT retry: 3.03278 with speed 13.34358
+LAURENT erreur de calcul de temps 3.03680 with speed 13.49404
+LAURENT retry: 3.03680 with speed 13.49404
+LAURENT erreur de calcul de temps 3.03425 with speed 13.73632
+LAURENT retry: 3.03425 with speed 13.73632
+LAURENT erreur de calcul de temps 3.03308 with speed 13.50440
+LAURENT retry: 3.03308 with speed 13.50440
+LAURENT erreur de calcul de temps 3.03747 with speed 13.73165
+LAURENT retry: 3.03747 with speed 13.73165
+LAURENT erreur de calcul de temps 3.03925 with speed 13.89048
+LAURENT retry: 3.03925 with speed 13.89048
+LAURENT erreur de calcul de temps 3.04129 with speed 14.04937
+LAURENT retry: 3.04129 with speed 14.04937
+LAURENT erreur de calcul de temps 3.03691 with speed 14.05044
+LAURENT retry: 3.03691 with speed 14.05044
+LAURENT erreur de calcul de temps 3.04194 with speed 14.28303
+LAURENT retry: 3.04194 with speed 14.28303
+LAURENT erreur de calcul de temps 3.03726 with speed 14.38319
+LAURENT retry: 3.03726 with speed 14.38319
+LAURENT erreur de calcul de temps 3.04495 with speed 14.53319
+LAURENT retry: 3.04495 with speed 14.53319
+LAURENT erreur de calcul de temps 3.04479 with speed 14.70131
+LAURENT retry: 3.04479 with speed 14.70131
+LAURENT erreur de calcul de temps 3.04374 with speed 14.90762
+LAURENT retry: 3.04374 with speed 14.90762
+LAURENT erreur de calcul de temps 3.04881 with speed 14.95135
+LAURENT retry: 3.04881 with speed 14.95135
+LAURENT erreur de calcul de temps 22777.89258 with speed 7.59263
+LAURENT retry: 22777.89258 with speed 7.59263
+LAURENT erreur de calcul de temps 3.03248 with speed 12.63080
+LAURENT retry: 3.03248 with speed 12.63080
+LAURENT erreur de calcul de temps 3.04574 with speed 11.50143
+LAURENT retry: 3.04574 with speed 11.50143
+LAURENT erreur de calcul de temps 3.03066 with speed 11.47806
+LAURENT retry: 3.03066 with speed 11.47806
+LAURENT erreur de calcul de temps 3.08241 with speed 10.75488
+LAURENT retry: 3.08241 with speed 10.75488
+LAURENT erreur de calcul de temps 3.09622 with speed 10.69024
+LAURENT retry: 3.09622 with speed 10.69024
+LAURENT erreur de calcul de temps 3.06759 with speed 10.82032
+LAURENT retry: 3.06759 with speed 10.82032
+LAURENT erreur de calcul de temps 3.08683 with speed 10.56389
+LAURENT retry: 3.08683 with speed 10.56389
+LAURENT erreur de calcul de temps 3.12137 with speed 10.66389
+LAURENT retry: 3.12137 with speed 10.66389
+LAURENT erreur de calcul de temps 3.08959 with speed 10.68518
+LAURENT retry: 3.08959 with speed 10.68518
+LAURENT erreur de calcul de temps 3.08394 with speed 10.76575
+LAURENT retry: 3.08394 with speed 10.76575
+LAURENT erreur de calcul de temps 3.05632 with speed 10.86939
+LAURENT retry: 3.05632 with speed 10.86939
+LAURENT erreur de calcul de temps 3.08429 with speed 10.95919
+LAURENT retry: 3.08429 with speed 10.95919
+LAURENT erreur de calcul de temps 3.04622 with speed 11.21125
+LAURENT retry: 3.04622 with speed 11.21125
+LAURENT erreur de calcul de temps 3.03640 with speed 11.31125
+LAURENT retry: 3.03640 with speed 11.31125
+LAURENT erreur de calcul de temps 3.04198 with speed 11.45556
+LAURENT retry: 3.04198 with speed 11.45556
+LAURENT erreur de calcul de temps 3.03142 with speed 11.75840
+LAURENT retry: 3.03142 with speed 11.75840
+LAURENT erreur de calcul de temps 3.03367 with speed 11.75698
+LAURENT retry: 3.03367 with speed 11.75698
+LAURENT erreur de calcul de temps 3.03582 with speed 11.97264
+LAURENT retry: 3.03582 with speed 11.97264
+LAURENT erreur de calcul de temps 3.03248 with speed 12.26840
+LAURENT retry: 3.03248 with speed 12.26840
+LAURENT erreur de calcul de temps 3.03345 with speed 12.65352
+LAURENT retry: 3.03345 with speed 12.65352
+LAURENT erreur de calcul de temps 3.03486 with speed 12.57135
+LAURENT retry: 3.03486 with speed 12.57135
+LAURENT erreur de calcul de temps 3.03251 with speed 13.83197
+LAURENT retry: 3.03251 with speed 13.83197
+LAURENT erreur de calcul de temps 3.04195 with speed 14.54004
+LAURENT retry: 3.04195 with speed 14.54004
+LAURENT erreur de calcul de temps 3.04354 with speed 14.89762
+LAURENT retry: 3.04354 with speed 14.89762
+LAURENT erreur de calcul de temps 3.03022 with speed 15.27073
+LAURENT retry: 3.03022 with speed 15.27073
+LAURENT erreur de calcul de temps 3.03471 with speed 15.29065
+LAURENT retry: 3.03471 with speed 15.29065
+LAURENT erreur de calcul de temps 3.03063 with speed 15.75184
+LAURENT retry: 3.03063 with speed 15.75184
+LAURENT erreur de calcul de temps 3.03014 with speed 14.68352
+LAURENT retry: 3.03014 with speed 14.68352
+LAURENT erreur de calcul de temps 3.03199 with speed 15.71460
+LAURENT retry: 3.03199 with speed 15.71460
+LAURENT erreur de calcul de temps 3.03021 with speed 15.28926
+LAURENT retry: 3.03021 with speed 15.28926
+LAURENT erreur de calcul de temps 3.03241 with speed 16.20992
+LAURENT retry: 3.03241 with speed 16.20992
+LAURENT erreur de calcul de temps 3.03189 with speed 15.70175
+LAURENT retry: 3.03189 with speed 15.70175
+LAURENT erreur de calcul de temps 3.04644 with speed 16.30749
+LAURENT retry: 3.04644 with speed 16.30749
+LAURENT erreur de calcul de temps 3.03280 with speed 16.04649
+LAURENT retry: 3.03280 with speed 16.04649
+LAURENT erreur de calcul de temps 3.03173 with speed 15.74572
+LAURENT retry: 3.03173 with speed 15.74572
+LAURENT erreur de calcul de temps 3.03529 with speed 16.89328
+LAURENT retry: 3.03529 with speed 16.89328
+LAURENT erreur de calcul de temps 3.03218 with speed 16.70179
+LAURENT retry: 3.03218 with speed 16.70179
+LAURENT erreur de calcul de temps 3.03407 with speed 15.96352
+LAURENT retry: 3.03407 with speed 15.96352
+LAURENT erreur de calcul de temps 3.03999 with speed 16.94389
+LAURENT retry: 3.03999 with speed 16.94389
+LAURENT erreur de calcul de temps 3.03554 with speed 16.67658
+LAURENT retry: 3.03554 with speed 16.67658
+LAURENT erreur de calcul de temps 3.03636 with speed 17.59389
+LAURENT retry: 3.03636 with speed 17.59389
+LAURENT erreur de calcul de temps 3.03724 with speed 17.12773
+LAURENT retry: 3.03724 with speed 17.12773
+LAURENT erreur de calcul de temps 3.03367 with speed 16.12428
+LAURENT retry: 3.03367 with speed 16.12428
+LAURENT erreur de calcul de temps 3.03694 with speed 13.40279
+LAURENT retry: 3.03694 with speed 13.40279
+LAURENT erreur de calcul de temps 3.03578 with speed 13.65270
+LAURENT retry: 3.03578 with speed 13.65270
+LAURENT erreur de calcul de temps 3.03782 with speed 13.68914
+LAURENT retry: 3.03782 with speed 13.68914
+LAURENT erreur de calcul de temps 3.03922 with speed 13.83441
+LAURENT retry: 3.03922 with speed 13.83441
+LAURENT erreur de calcul de temps 3.03336 with speed 14.02735
+LAURENT retry: 3.03336 with speed 14.02735
+LAURENT erreur de calcul de temps 3.03471 with speed 13.85954
+LAURENT retry: 3.03471 with speed 13.85954
+LAURENT erreur de calcul de temps 3.03971 with speed 14.03584
+LAURENT retry: 3.03971 with speed 14.03584
+LAURENT erreur de calcul de temps 3.04067 with speed 14.28638
+LAURENT retry: 3.04067 with speed 14.28638
+LAURENT erreur de calcul de temps 3.04284 with speed 14.26900
+LAURENT retry: 3.04284 with speed 14.26900
+LAURENT erreur de calcul de temps 3.04188 with speed 14.51900
+LAURENT retry: 3.04188 with speed 14.51900
+LAURENT erreur de calcul de temps 3.04460 with speed 14.67666
+LAURENT retry: 3.04460 with speed 14.67666
+LAURENT erreur de calcul de temps 3.04192 with speed 15.06229
+LAURENT retry: 3.04192 with speed 15.06229
+LAURENT erreur de calcul de temps 3.04048 with speed 15.23107
+LAURENT retry: 3.04048 with speed 15.23107
+LAURENT erreur de calcul de temps 22380.58984 with speed 7.46000
+LAURENT retry: 22380.58984 with speed 7.46000
+LAURENT erreur de calcul de temps 16505.65625 with speed 5.50200
+LAURENT retry: 16505.65625 with speed 5.50200
+LAURENT erreur de calcul de temps 3.03458 with speed 15.01908
+LAURENT retry: 3.03458 with speed 15.01908
+LAURENT erreur de calcul de temps 21946.19531 with speed 7.31509
+LAURENT retry: 21946.19531 with speed 7.31509
+LAURENT erreur de calcul de temps 23504.93164 with speed 7.83511
+LAURENT retry: 23504.93164 with speed 7.83511
+LAURENT erreur de calcul de temps 23459.22461 with speed 7.81973
+LAURENT retry: 23459.22461 with speed 7.81973
+LAURENT erreur de calcul de temps 15911.48047 with speed 5.30365
+LAURENT retry: 15911.48047 with speed 5.30365
+LAURENT erreur de calcul de temps 3.03045 with speed 16.73744
+LAURENT retry: 3.03045 with speed 16.73744
+LAURENT erreur de calcul de temps 3.03105 with speed 17.13198
+LAURENT retry: 3.03105 with speed 17.13198
+LAURENT erreur de calcul de temps 3.03568 with speed 18.98817
+LAURENT retry: 3.03568 with speed 18.98817
+LAURENT erreur de calcul de temps 3.03013 with speed 18.63202
+LAURENT retry: 3.03013 with speed 18.63202
+LAURENT erreur de calcul de temps 3.03004 with speed 20.07911
+LAURENT retry: 3.03004 with speed 20.07911
+LAURENT erreur de calcul de temps 3.03254 with speed 19.54411
+LAURENT retry: 3.03254 with speed 19.54411
+LAURENT erreur de calcul de temps 3.03601 with speed 19.64452
+LAURENT retry: 3.03601 with speed 19.64452
+LAURENT erreur de calcul de temps 3.03142 with speed 19.13631
+LAURENT retry: 3.03142 with speed 19.13631
+LAURENT erreur de calcul de temps 3.03436 with speed 20.51843
+LAURENT retry: 3.03436 with speed 20.51843
+LAURENT erreur de calcul de temps 3.03075 with speed 20.18722
+LAURENT retry: 3.03075 with speed 20.18722
+LAURENT erreur de calcul de temps 3.03521 with speed 20.59906
+LAURENT retry: 3.03521 with speed 20.59906
+LAURENT erreur de calcul de temps 3.03706 with speed 20.21844
+LAURENT retry: 3.03706 with speed 20.21844
+LAURENT erreur de calcul de temps 3.03174 with speed 19.41708
+LAURENT retry: 3.03174 with speed 19.41708
+LAURENT erreur de calcul de temps 3.04152 with speed 21.80073
+LAURENT retry: 3.04152 with speed 21.80073
+LAURENT erreur de calcul de temps 3.03498 with speed 21.26447
+LAURENT retry: 3.03498 with speed 21.26447
+LAURENT erreur de calcul de temps 3.04451 with speed 21.51813
+LAURENT retry: 3.04451 with speed 21.51813
+LAURENT erreur de calcul de temps 3.03845 with speed 20.77179
+LAURENT retry: 3.03845 with speed 20.77179
+LAURENT erreur de calcul de temps 3.03253 with speed 19.82600
+LAURENT retry: 3.03253 with speed 19.82600
+LAURENT erreur de calcul de temps 3.04159 with speed 23.02762
+LAURENT retry: 3.04159 with speed 23.02762
+LAURENT erreur de calcul de temps 3.04682 with speed 22.43177
+LAURENT retry: 3.04682 with speed 22.43177
+LAURENT erreur de calcul de temps 3.04386 with speed 22.63889
+LAURENT retry: 3.04386 with speed 22.63889
+LAURENT erreur de calcul de temps 3.04591 with speed 22.13177
+LAURENT retry: 3.04591 with speed 22.13177
+LAURENT erreur de calcul de temps 3.03920 with speed 21.13833
+LAURENT retry: 3.03920 with speed 21.13833
+LAURENT erreur de calcul de temps 3.03282 with speed 20.04074
+LAURENT retry: 3.03282 with speed 20.04074
+LAURENT erreur de calcul de temps 3.04262 with speed 23.31632
+LAURENT retry: 3.04262 with speed 23.31632
+LAURENT erreur de calcul de temps 3.04883 with speed 22.61573
+LAURENT retry: 3.04883 with speed 22.61573
+LAURENT erreur de calcul de temps 3.04423 with speed 22.94546
+LAURENT retry: 3.04423 with speed 22.94546
+LAURENT erreur de calcul de temps 3.04587 with speed 22.31573
+LAURENT retry: 3.04587 with speed 22.31573
+LAURENT erreur de calcul de temps 3.03897 with speed 21.23490
+LAURENT retry: 3.03897 with speed 21.23490
+LAURENT erreur de calcul de temps 3.03278 with speed 20.15465
+LAURENT retry: 3.03278 with speed 20.15465
+LAURENT erreur de calcul de temps 3.04191 with speed 23.06486
+LAURENT retry: 3.04191 with speed 23.06486
+LAURENT erreur de calcul de temps 3.04643 with speed 22.39409
+LAURENT retry: 3.04643 with speed 22.39409
+LAURENT erreur de calcul de temps 3.04306 with speed 22.71233
+LAURENT retry: 3.04306 with speed 22.71233
+LAURENT erreur de calcul de temps 3.04468 with speed 22.09409
+LAURENT retry: 3.04468 with speed 22.09409
+LAURENT erreur de calcul de temps 3.03811 with speed 21.04095
+LAURENT retry: 3.03811 with speed 21.04095
+LAURENT erreur de calcul de temps 3.03193 with speed 19.95857
+LAURENT retry: 3.03193 with speed 19.95857
+LAURENT erreur de calcul de temps 3.04398 with speed 23.00554
+LAURENT retry: 3.04398 with speed 23.00554
+LAURENT erreur de calcul de temps 3.04609 with speed 22.25335
+LAURENT retry: 3.04609 with speed 22.25335
+LAURENT erreur de calcul de temps 3.04803 with speed 22.70554
+LAURENT retry: 3.04803 with speed 22.70554
+LAURENT erreur de calcul de temps 3.04325 with speed 21.89123
+LAURENT retry: 3.04325 with speed 21.89123
+LAURENT erreur de calcul de temps 3.03683 with speed 20.78905
+LAURENT retry: 3.03683 with speed 20.78905
+LAURENT erreur de calcul de temps 3.03121 with speed 19.71351
+LAURENT retry: 3.03121 with speed 19.71351
+LAURENT erreur de calcul de temps 3.04468 with speed 23.03126
+LAURENT retry: 3.04468 with speed 23.03126
+LAURENT erreur de calcul de temps 3.04226 with speed 22.25185
+LAURENT retry: 3.04226 with speed 22.25185
+LAURENT erreur de calcul de temps 3.04824 with speed 22.73126
+LAURENT retry: 3.04824 with speed 22.73126
+LAURENT erreur de calcul de temps 3.04287 with speed 21.87172
+LAURENT retry: 3.04287 with speed 21.87172
+LAURENT erreur de calcul de temps 3.03684 with speed 20.74230
+LAURENT retry: 3.03684 with speed 20.74230
+LAURENT erreur de calcul de temps 3.03125 with speed 19.66644
+LAURENT retry: 3.03125 with speed 19.66644
+LAURENT erreur de calcul de temps 3.04589 with speed 22.88201
+LAURENT retry: 3.04589 with speed 22.88201
+LAURENT erreur de calcul de temps 3.03658 with speed 22.14643
+LAURENT retry: 3.03658 with speed 22.14643
+LAURENT erreur de calcul de temps 3.04910 with speed 22.58201
+LAURENT retry: 3.04910 with speed 22.58201
+LAURENT erreur de calcul de temps 3.04195 with speed 21.63774
+LAURENT retry: 3.04195 with speed 21.63774
+LAURENT erreur de calcul de temps 3.03616 with speed 20.50795
+LAURENT retry: 3.03616 with speed 20.50795
+LAURENT erreur de calcul de temps 3.03095 with speed 19.47446
+LAURENT retry: 3.03095 with speed 19.47446
+LAURENT erreur de calcul de temps 3.04873 with speed 22.90521
+LAURENT retry: 3.04873 with speed 22.90521
+LAURENT erreur de calcul de temps 3.03627 with speed 22.21569
+LAURENT retry: 3.03627 with speed 22.21569
+LAURENT erreur de calcul de temps 3.04866 with speed 22.60521
+LAURENT retry: 3.04866 with speed 22.60521
+LAURENT erreur de calcul de temps 3.04241 with speed 21.57841
+LAURENT retry: 3.04241 with speed 21.57841
+LAURENT erreur de calcul de temps 3.03629 with speed 20.45049
+LAURENT retry: 3.03629 with speed 20.45049
+LAURENT erreur de calcul de temps 3.03085 with speed 19.43787
+LAURENT retry: 3.03085 with speed 19.43787
+LAURENT erreur de calcul de temps 3.05021 with speed 23.04408
+LAURENT retry: 3.05021 with speed 23.04408
+LAURENT erreur de calcul de temps 3.03630 with speed 22.33132
+LAURENT retry: 3.03630 with speed 22.33132
+LAURENT erreur de calcul de temps 3.04950 with speed 22.74408
+LAURENT retry: 3.04950 with speed 22.74408
+LAURENT erreur de calcul de temps 3.04336 with speed 21.68406
+LAURENT retry: 3.04336 with speed 21.68406
+LAURENT erreur de calcul de temps 3.03688 with speed 20.54658
+LAURENT retry: 3.03688 with speed 20.54658
+LAURENT erreur de calcul de temps 3.03112 with speed 19.50994
+LAURENT retry: 3.03112 with speed 19.50994
+LAURENT erreur de calcul de temps 3.03891 with speed 23.46168
+LAURENT retry: 3.03891 with speed 23.46168
+LAURENT erreur de calcul de temps 3.04808 with speed 22.84565
+LAURENT retry: 3.04808 with speed 22.84565
+LAURENT erreur de calcul de temps 3.04080 with speed 23.07347
+LAURENT retry: 3.04080 with speed 23.07347
+LAURENT erreur de calcul de temps 3.04927 with speed 22.54565
+LAURENT retry: 3.04927 with speed 22.54565
+LAURENT erreur de calcul de temps 3.04309 with speed 21.48457
+LAURENT retry: 3.04309 with speed 21.48457
+LAURENT erreur de calcul de temps 3.03640 with speed 20.37490
+LAURENT retry: 3.03640 with speed 20.37490
+LAURENT erreur de calcul de temps 3.03059 with speed 19.38117
+LAURENT retry: 3.03059 with speed 19.38117
+LAURENT erreur de calcul de temps 343.92075 with speed 15.82699
+LAURENT retry: 343.92075 with speed 15.82699
+LAURENT erreur de calcul de temps 280.25177 with speed 14.91795
+LAURENT retry: 280.25177 with speed 14.91795
+LAURENT erreur de calcul de temps 208.09863 with speed 14.01732
+LAURENT retry: 208.09863 with speed 14.01732
+LAURENT erreur de calcul de temps 161.52016 with speed 13.18540
+LAURENT retry: 161.52016 with speed 13.18540
+LAURENT erreur de calcul de temps 111.28754 with speed 12.52360
+LAURENT retry: 111.28754 with speed 12.52360
+LAURENT erreur de calcul de temps 82.67676 with speed 11.92360
+LAURENT retry: 82.67676 with speed 11.92360
+LAURENT erreur de calcul de temps 3.03919 with speed 23.31953
+LAURENT retry: 3.03919 with speed 23.31953
+LAURENT erreur de calcul de temps 3.04582 with speed 22.64114
+LAURENT retry: 3.04582 with speed 22.64114
+LAURENT erreur de calcul de temps 3.04175 with speed 22.93803
+LAURENT retry: 3.04175 with speed 22.93803
+LAURENT erreur de calcul de temps 3.04923 with speed 22.34114
+LAURENT retry: 3.04923 with speed 22.34114
+LAURENT erreur de calcul de temps 3.04253 with speed 21.27481
+LAURENT retry: 3.04253 with speed 21.27481
+LAURENT erreur de calcul de temps 3.03584 with speed 20.18688
+LAURENT retry: 3.03584 with speed 20.18688
+LAURENT erreur de calcul de temps 520.49457 with speed 18.30112
+LAURENT retry: 520.49457 with speed 18.30112
+LAURENT erreur de calcul de temps 472.14160 with speed 17.45644
+LAURENT retry: 472.14160 with speed 17.45644
+LAURENT erreur de calcul de temps 400.57272 with speed 16.55644
+LAURENT retry: 400.57272 with speed 16.55644
+LAURENT erreur de calcul de temps 335.03964 with speed 15.69123
+LAURENT retry: 335.03964 with speed 15.69123
+LAURENT erreur de calcul de temps 266.19595 with speed 14.78027
+LAURENT retry: 266.19595 with speed 14.78027
+LAURENT erreur de calcul de temps 210.89558 with speed 13.89766
+LAURENT retry: 210.89558 with speed 13.89766
+LAURENT erreur de calcul de temps 154.83087 with speed 13.09451
+LAURENT retry: 154.83087 with speed 13.09451
+LAURENT erreur de calcul de temps 109.55753 with speed 12.45657
+LAURENT retry: 109.55753 with speed 12.45657
+LAURENT erreur de calcul de temps 76.03381 with speed 11.86300
+LAURENT retry: 76.03381 with speed 11.86300
+LAURENT erreur de calcul de temps 49.78630 with speed 11.36300
+LAURENT retry: 49.78630 with speed 11.36300
+LAURENT erreur de calcul de temps 3.03205 with speed 14.74628
+LAURENT retry: 3.03205 with speed 14.74628
+LAURENT erreur de calcul de temps 3.03016 with speed 13.20124
+LAURENT retry: 3.03016 with speed 13.20124
+LAURENT erreur de calcul de temps 22155.83984 with speed 7.38561
+LAURENT retry: 22155.83984 with speed 7.38561
+LAURENT erreur de calcul de temps 22784.18164 with speed 7.59465
+LAURENT retry: 22784.18164 with speed 7.59465
+LAURENT erreur de calcul de temps 23406.09180 with speed 7.80215
+LAURENT retry: 23406.09180 with speed 7.80215
+LAURENT erreur de calcul de temps 23126.31445 with speed 7.70870
+LAURENT retry: 23126.31445 with speed 7.70870
+LAURENT erreur de calcul de temps 3.03004 with speed 18.11832
+LAURENT retry: 3.03004 with speed 18.11832
+LAURENT erreur de calcul de temps 3.03351 with speed 19.35066
+LAURENT retry: 3.03351 with speed 19.35066
+LAURENT erreur de calcul de temps 3.03270 with speed 18.87849
+LAURENT retry: 3.03270 with speed 18.87849
+LAURENT erreur de calcul de temps 3.03632 with speed 19.57784
+LAURENT retry: 3.03632 with speed 19.57784
+LAURENT erreur de calcul de temps 3.03336 with speed 19.07737
+LAURENT retry: 3.03336 with speed 19.07737
+LAURENT erreur de calcul de temps 3.03722 with speed 19.67735
+LAURENT retry: 3.03722 with speed 19.67735
+LAURENT erreur de calcul de temps 3.03344 with speed 19.10414
+LAURENT retry: 3.03344 with speed 19.10414
+LAURENT erreur de calcul de temps 3.03031 with speed 20.47690
+LAURENT retry: 3.03031 with speed 20.47690
+LAURENT erreur de calcul de temps 3.03497 with speed 20.60643
+LAURENT retry: 3.03497 with speed 20.60643
+LAURENT erreur de calcul de temps 3.03799 with speed 20.14270
+LAURENT retry: 3.03799 with speed 20.14270
+LAURENT erreur de calcul de temps 3.03423 with speed 19.29649
+LAURENT retry: 3.03423 with speed 19.29649
+LAURENT erreur de calcul de temps 3.03026 with speed 18.47738
+LAURENT retry: 3.03026 with speed 18.47738
+LAURENT erreur de calcul de temps 3.03020 with speed 21.25085
+LAURENT retry: 3.03020 with speed 21.25085
+LAURENT erreur de calcul de temps 3.04239 with speed 20.99709
+LAURENT retry: 3.04239 with speed 20.99709
+LAURENT erreur de calcul de temps 3.03837 with speed 20.24047
+LAURENT retry: 3.03837 with speed 20.24047
+LAURENT erreur de calcul de temps 3.03425 with speed 19.32507
+LAURENT retry: 3.03425 with speed 19.32507
+LAURENT erreur de calcul de temps 3.03019 with speed 18.51397
+LAURENT retry: 3.03019 with speed 18.51397
+LAURENT erreur de calcul de temps 3.03067 with speed 21.49096
+LAURENT retry: 3.03067 with speed 21.49096
+LAURENT erreur de calcul de temps 3.03745 with speed 21.75880
+LAURENT retry: 3.03745 with speed 21.75880
+LAURENT erreur de calcul de temps 3.04247 with speed 21.21392
+LAURENT retry: 3.04247 with speed 21.21392
+LAURENT erreur de calcul de temps 3.03867 with speed 20.32148
+LAURENT retry: 3.03867 with speed 20.32148
+LAURENT erreur de calcul de temps 3.03415 with speed 19.32484
+LAURENT retry: 3.03415 with speed 19.32484
+LAURENT erreur de calcul de temps 3.03003 with speed 18.42903
+LAURENT retry: 3.03003 with speed 18.42903
+LAURENT erreur de calcul de temps 3.03009 with speed 22.42853
+LAURENT retry: 3.03009 with speed 22.42853
+LAURENT erreur de calcul de temps 3.04202 with speed 22.12853
+LAURENT retry: 3.04202 with speed 22.12853
+LAURENT erreur de calcul de temps 3.04287 with speed 21.32522
+LAURENT retry: 3.04287 with speed 21.32522
+LAURENT erreur de calcul de temps 3.03845 with speed 20.29528
+LAURENT retry: 3.03845 with speed 20.29528
+LAURENT erreur de calcul de temps 3.03410 with speed 19.28386
+LAURENT retry: 3.03410 with speed 19.28386
+LAURENT erreur de calcul de temps 3.03018 with speed 18.43386
+LAURENT retry: 3.03018 with speed 18.43386
+LAURENT erreur de calcul de temps 3.03416 with speed 22.30448
+LAURENT retry: 3.03416 with speed 22.30448
+LAURENT erreur de calcul de temps 3.03718 with speed 22.66973
+LAURENT retry: 3.03718 with speed 22.66973
+LAURENT erreur de calcul de temps 3.04489 with speed 21.98152
+LAURENT retry: 3.04489 with speed 21.98152
+LAURENT erreur de calcul de temps 3.04019 with speed 20.92156
+LAURENT retry: 3.04019 with speed 20.92156
+LAURENT erreur de calcul de temps 3.03550 with speed 19.83889
+LAURENT retry: 3.03550 with speed 19.83889
+LAURENT erreur de calcul de temps 3.03121 with speed 18.91218
+LAURENT retry: 3.03121 with speed 18.91218
+LAURENT erreur de calcul de temps 3.03364 with speed 22.09788
+LAURENT retry: 3.03364 with speed 22.09788
+LAURENT erreur de calcul de temps 3.03550 with speed 22.39094
+LAURENT retry: 3.03550 with speed 22.39094
+LAURENT erreur de calcul de temps 3.04388 with speed 21.77934
+LAURENT retry: 3.04388 with speed 21.77934
+LAURENT erreur de calcul de temps 3.03935 with speed 20.78509
+LAURENT retry: 3.03935 with speed 20.78509
+LAURENT erreur de calcul de temps 3.03471 with speed 19.69085
+LAURENT retry: 3.03471 with speed 19.69085
+LAURENT erreur de calcul de temps 3.03063 with speed 18.79085
+LAURENT retry: 3.03063 with speed 18.79085
+LAURENT erreur de calcul de temps 3.03243 with speed 21.93642
+LAURENT retry: 3.03243 with speed 21.93642
+LAURENT erreur de calcul de temps 3.03667 with speed 22.25458
+LAURENT retry: 3.03667 with speed 22.25458
+LAURENT erreur de calcul de temps 3.04310 with speed 21.61113
+LAURENT retry: 3.04310 with speed 21.61113
+LAURENT erreur de calcul de temps 3.03873 with speed 20.63656
+LAURENT retry: 3.03873 with speed 20.63656
+LAURENT erreur de calcul de temps 3.03411 with speed 19.56199
+LAURENT retry: 3.03411 with speed 19.56199
+LAURENT erreur de calcul de temps 3.03025 with speed 18.66199
+LAURENT retry: 3.03025 with speed 18.66199
+LAURENT erreur de calcul de temps 3.03226 with speed 21.96477
+LAURENT retry: 3.03226 with speed 21.96477
+LAURENT erreur de calcul de temps 3.03295 with speed 22.22524
+LAURENT retry: 3.03295 with speed 22.22524
+LAURENT erreur de calcul de temps 3.04392 with speed 21.67993
+LAURENT retry: 3.04392 with speed 21.67993
+LAURENT erreur de calcul de temps 3.03949 with speed 20.71311
+LAURENT retry: 3.03949 with speed 20.71311
+LAURENT erreur de calcul de temps 3.03465 with speed 19.64630
+LAURENT retry: 3.03465 with speed 19.64630
+LAURENT erreur de calcul de temps 3.03034 with speed 18.74630
+LAURENT retry: 3.03034 with speed 18.74630
+LAURENT erreur de calcul de temps 3.03353 with speed 21.94325
+LAURENT retry: 3.03353 with speed 21.94325
+LAURENT erreur de calcul de temps 3.03228 with speed 22.06879
+LAURENT retry: 3.03228 with speed 22.06879
+LAURENT erreur de calcul de temps 3.04067 with speed 21.68214
+LAURENT retry: 3.04067 with speed 21.68214
+LAURENT erreur de calcul de temps 3.04061 with speed 20.80095
+LAURENT retry: 3.04061 with speed 20.80095
+LAURENT erreur de calcul de temps 3.03571 with speed 19.76177
+LAURENT retry: 3.03571 with speed 19.76177
+LAURENT erreur de calcul de temps 3.03120 with speed 18.86177
+LAURENT retry: 3.03120 with speed 18.86177
+LAURENT erreur de calcul de temps 3.03336 with speed 22.09726
+LAURENT retry: 3.03336 with speed 22.09726
+LAURENT erreur de calcul de temps 3.04235 with speed 21.81157
+LAURENT retry: 3.04235 with speed 21.81157
+LAURENT erreur de calcul de temps 3.04254 with speed 20.96576
+LAURENT retry: 3.04254 with speed 20.96576
+LAURENT erreur de calcul de temps 3.03742 with speed 19.93222
+LAURENT retry: 3.03742 with speed 19.93222
+LAURENT erreur de calcul de temps 3.03271 with speed 19.00878
+LAURENT retry: 3.03271 with speed 19.00878
+LAURENT erreur de calcul de temps 3.03332 with speed 22.05866
+LAURENT retry: 3.03332 with speed 22.05866
+LAURENT erreur de calcul de temps 3.04176 with speed 21.76465
+LAURENT retry: 3.04176 with speed 21.76465
+LAURENT erreur de calcul de temps 3.04304 with speed 20.95984
+LAURENT retry: 3.04304 with speed 20.95984
+LAURENT erreur de calcul de temps 3.03767 with speed 19.95768
+LAURENT retry: 3.03767 with speed 19.95768
+LAURENT erreur de calcul de temps 3.03285 with speed 19.01634
+LAURENT retry: 3.03285 with speed 19.01634
+LAURENT erreur de calcul de temps 3.03126 with speed 22.13675
+LAURENT retry: 3.03126 with speed 22.13675
+LAURENT erreur de calcul de temps 3.04216 with speed 21.83675
+LAURENT retry: 3.04216 with speed 21.83675
+LAURENT erreur de calcul de temps 3.04423 with speed 21.05277
+LAURENT retry: 3.04423 with speed 21.05277
+LAURENT erreur de calcul de temps 3.03879 with speed 20.06403
+LAURENT retry: 3.03879 with speed 20.06403
+LAURENT erreur de calcul de temps 3.03386 with speed 19.09563
+LAURENT retry: 3.03386 with speed 19.09563
+LAURENT erreur de calcul de temps 3.03163 with speed 22.43732
+LAURENT retry: 3.03163 with speed 22.43732
+LAURENT erreur de calcul de temps 3.03003 with speed 21.78281
+LAURENT retry: 3.03003 with speed 21.78281
+LAURENT erreur de calcul de temps 3.04418 with speed 22.13732
+LAURENT retry: 3.04418 with speed 22.13732
+LAURENT erreur de calcul de temps 3.04591 with speed 21.30506
+LAURENT retry: 3.04591 with speed 21.30506
+LAURENT erreur de calcul de temps 3.04084 with speed 20.25437
+LAURENT retry: 3.04084 with speed 20.25437
+LAURENT erreur de calcul de temps 3.03554 with speed 19.26353
+LAURENT retry: 3.03554 with speed 19.26353
+LAURENT erreur de calcul de temps 3.03099 with speed 18.41353
+LAURENT retry: 3.03099 with speed 18.41353
+LAURENT erreur de calcul de temps 3.03297 with speed 22.69351
+LAURENT retry: 3.03297 with speed 22.69351
+LAURENT erreur de calcul de temps 3.03124 with speed 21.98365
+LAURENT retry: 3.03124 with speed 21.98365
+LAURENT erreur de calcul de temps 3.04562 with speed 22.39351
+LAURENT retry: 3.04562 with speed 22.39351
+LAURENT erreur de calcul de temps 3.04832 with speed 21.52955
+LAURENT retry: 3.04832 with speed 21.52955
+LAURENT erreur de calcul de temps 3.04285 with speed 20.43929
+LAURENT retry: 3.04285 with speed 20.43929
+LAURENT erreur de calcul de temps 3.03703 with speed 19.40963
+LAURENT retry: 3.03703 with speed 19.40963
+LAURENT erreur de calcul de temps 3.03218 with speed 18.54618
+LAURENT retry: 3.03218 with speed 18.54618
+LAURENT erreur de calcul de temps 3.03520 with speed 22.91306
+LAURENT retry: 3.03520 with speed 22.91306
+LAURENT erreur de calcul de temps 3.03229 with speed 22.14748
+LAURENT retry: 3.03229 with speed 22.14748
+LAURENT erreur de calcul de temps 3.04872 with speed 22.61306
+LAURENT retry: 3.04872 with speed 22.61306
+LAURENT erreur de calcul de temps 3.05049 with speed 21.72234
+LAURENT retry: 3.05049 with speed 21.72234
+LAURENT erreur de calcul de temps 3.04450 with speed 20.59608
+LAURENT retry: 3.04450 with speed 20.59608
+LAURENT erreur de calcul de temps 3.03823 with speed 19.53129
+LAURENT retry: 3.03823 with speed 19.53129
+LAURENT erreur de calcul de temps 3.03307 with speed 18.65218
+LAURENT retry: 3.03307 with speed 18.65218
+LAURENT erreur de calcul de temps 3.03712 with speed 23.08434
+LAURENT retry: 3.03712 with speed 23.08434
+LAURENT erreur de calcul de temps 3.03303 with speed 22.28152
+LAURENT retry: 3.03303 with speed 22.28152
+LAURENT erreur de calcul de temps 3.05147 with speed 22.78434
+LAURENT retry: 3.05147 with speed 22.78434
+LAURENT erreur de calcul de temps 3.05213 with speed 21.85177
+LAURENT retry: 3.05213 with speed 21.85177
+LAURENT erreur de calcul de temps 3.04532 with speed 20.68934
+LAURENT retry: 3.04532 with speed 20.68934
+LAURENT erreur de calcul de temps 3.03906 with speed 19.61002
+LAURENT retry: 3.03906 with speed 19.61002
+LAURENT erreur de calcul de temps 3.03366 with speed 18.71495
+LAURENT retry: 3.03366 with speed 18.71495
+LAURENT erreur de calcul de temps 3.03783 with speed 23.10246
+LAURENT retry: 3.03783 with speed 23.10246
+LAURENT erreur de calcul de temps 3.03416 with speed 22.29176
+LAURENT retry: 3.03416 with speed 22.29176
+LAURENT erreur de calcul de temps 3.05299 with speed 22.80246
+LAURENT retry: 3.05299 with speed 22.80246
+LAURENT erreur de calcul de temps 3.05404 with speed 21.89769
+LAURENT retry: 3.05404 with speed 21.89769
+LAURENT erreur de calcul de temps 3.04693 with speed 20.73699
+LAURENT retry: 3.04693 with speed 20.73699
+LAURENT erreur de calcul de temps 3.04036 with speed 19.65254
+LAURENT retry: 3.04036 with speed 19.65254
+LAURENT erreur de calcul de temps 3.03476 with speed 18.75921
+LAURENT retry: 3.03476 with speed 18.75921
+LAURENT erreur de calcul de temps 3.03702 with speed 22.99850
+LAURENT retry: 3.03702 with speed 22.99850
+LAURENT erreur de calcul de temps 3.03720 with speed 22.22666
+LAURENT retry: 3.03720 with speed 22.22666
+LAURENT erreur de calcul de temps 3.05214 with speed 22.69850
+LAURENT retry: 3.05214 with speed 22.69850
+LAURENT erreur de calcul de temps 3.05458 with speed 21.84586
+LAURENT retry: 3.05458 with speed 21.84586
+LAURENT erreur de calcul de temps 3.04781 with speed 20.72401
+LAURENT retry: 3.04781 with speed 20.72401
+LAURENT erreur de calcul de temps 3.04098 with speed 19.64857
+LAURENT retry: 3.04098 with speed 19.64857
+LAURENT erreur de calcul de temps 3.03530 with speed 18.75246
+LAURENT retry: 3.03530 with speed 18.75246
+LAURENT erreur de calcul de temps 3.03662 with speed 22.84760
+LAURENT retry: 3.03662 with speed 22.84760
+LAURENT erreur de calcul de temps 3.04166 with speed 22.13994
+LAURENT retry: 3.04166 with speed 22.13994
+LAURENT erreur de calcul de temps 3.05120 with speed 22.54760
+LAURENT retry: 3.05120 with speed 22.54760
+LAURENT erreur de calcul de temps 3.05554 with speed 21.77883
+LAURENT retry: 3.05554 with speed 21.77883
+LAURENT erreur de calcul de temps 3.04917 with speed 20.72117
+LAURENT retry: 3.04917 with speed 20.72117
+LAURENT erreur de calcul de temps 3.04195 with speed 19.63912
+LAURENT retry: 3.04195 with speed 19.63912
+LAURENT erreur de calcul de temps 3.03587 with speed 18.73790
+LAURENT retry: 3.03587 with speed 18.73790
+LAURENT erreur de calcul de temps 3.03029 with speed 17.87557
+LAURENT retry: 3.03029 with speed 17.87557
+LAURENT erreur de calcul de temps 393.52209 with speed 15.28297
+LAURENT retry: 393.52209 with speed 15.28297
+LAURENT erreur de calcul de temps 342.04190 with speed 14.38023
+LAURENT retry: 342.04190 with speed 14.38023
+LAURENT erreur de calcul de temps 262.52881 with speed 13.56669
+LAURENT retry: 262.52881 with speed 13.56669
+LAURENT erreur de calcul de temps 218.52040 with speed 12.81669
+LAURENT retry: 218.52040 with speed 12.81669
+LAURENT erreur de calcul de temps 166.73010 with speed 12.19971
+LAURENT retry: 166.73010 with speed 12.19971
+LAURENT erreur de calcul de temps 131.77142 with speed 11.67779
+LAURENT retry: 131.77142 with speed 11.67779
+LAURENT erreur de calcul de temps 98.49028 with speed 11.18616
+LAURENT retry: 98.49028 with speed 11.18616
+LAURENT erreur de calcul de temps 79.69262 with speed 10.76820
+LAURENT retry: 79.69262 with speed 10.76820
+LAURENT erreur de calcul de temps 58.41022 with speed 10.25314
+LAURENT retry: 58.41022 with speed 10.25314
+LAURENT erreur de calcul de temps 3.03720 with speed 23.15047
+LAURENT retry: 3.03720 with speed 23.15047
+LAURENT erreur de calcul de temps 3.04192 with speed 22.39728
+LAURENT retry: 3.04192 with speed 22.39728
+LAURENT erreur de calcul de temps 3.04979 with speed 22.83423
+LAURENT retry: 3.04979 with speed 22.83423
+LAURENT erreur de calcul de temps 3.05623 with speed 22.06352
+LAURENT retry: 3.05623 with speed 22.06352
+LAURENT erreur de calcul de temps 3.04904 with speed 20.95378
+LAURENT retry: 3.04904 with speed 20.95378
+LAURENT erreur de calcul de temps 3.04218 with speed 19.88364
+LAURENT retry: 3.04218 with speed 19.88364
+LAURENT erreur de calcul de temps 3.03586 with speed 18.94409
+LAURENT retry: 3.03586 with speed 18.94409
+LAURENT erreur de calcul de temps 3.03007 with speed 18.05769
+LAURENT retry: 3.03007 with speed 18.05769
+LAURENT erreur de calcul de temps 402.88586 with speed 15.42466
+LAURENT retry: 402.88586 with speed 15.42466
+LAURENT erreur de calcul de temps 346.40005 with speed 14.52466
+LAURENT retry: 346.40005 with speed 14.52466
+LAURENT erreur de calcul de temps 278.46384 with speed 13.65841
+LAURENT retry: 278.46384 with speed 13.65841
+LAURENT erreur de calcul de temps 218.36996 with speed 12.89871
+LAURENT retry: 218.36996 with speed 12.89871
+LAURENT erreur de calcul de temps 170.54179 with speed 12.29873
+LAURENT retry: 170.54179 with speed 12.29873
+LAURENT erreur de calcul de temps 131.73561 with speed 11.73247
+LAURENT retry: 131.73561 with speed 11.73247
+LAURENT erreur de calcul de temps 104.25130 with speed 11.23247
+LAURENT retry: 104.25130 with speed 11.23247
+LAURENT erreur de calcul de temps 75.01549 with speed 10.79292
+LAURENT retry: 75.01549 with speed 10.79292
+LAURENT erreur de calcul de temps 56.29365 with speed 10.27276
+LAURENT retry: 56.29365 with speed 10.27276
+LAURENT erreur de calcul de temps 3.03668 with speed 22.69793
+LAURENT retry: 3.03668 with speed 22.69793
+LAURENT erreur de calcul de temps 3.04235 with speed 22.05961
+LAURENT retry: 3.04235 with speed 22.05961
+LAURENT erreur de calcul de temps 3.04910 with speed 22.38803
+LAURENT retry: 3.04910 with speed 22.38803
+LAURENT erreur de calcul de temps 3.05673 with speed 21.72165
+LAURENT retry: 3.05673 with speed 21.72165
+LAURENT erreur de calcul de temps 3.05033 with speed 20.72523
+LAURENT retry: 3.05033 with speed 20.72523
+LAURENT erreur de calcul de temps 3.04267 with speed 19.62881
+LAURENT retry: 3.04267 with speed 19.62881
+LAURENT erreur de calcul de temps 3.03646 with speed 18.72882
+LAURENT retry: 3.03646 with speed 18.72882
+LAURENT erreur de calcul de temps 3.03086 with speed 17.87251
+LAURENT retry: 3.03086 with speed 17.87251
+LAURENT erreur de calcul de temps 502.33154 with speed 17.03205
+LAURENT retry: 502.33154 with speed 17.03205
+LAURENT erreur de calcul de temps 428.27472 with speed 16.17465
+LAURENT retry: 428.27472 with speed 16.17465
+LAURENT erreur de calcul de temps 400.48221 with speed 15.33563
+LAURENT retry: 400.48221 with speed 15.33563
+LAURENT erreur de calcul de temps 339.91818 with speed 14.43599
+LAURENT retry: 339.91818 with speed 14.43599
+LAURENT erreur de calcul de temps 260.81400 with speed 13.62609
+LAURENT retry: 260.81400 with speed 13.62609
+LAURENT erreur de calcul de temps 215.43591 with speed 12.87753
+LAURENT retry: 215.43591 with speed 12.87753
+LAURENT erreur de calcul de temps 173.63626 with speed 12.22932
+LAURENT retry: 173.63626 with speed 12.22932
+LAURENT erreur de calcul de temps 128.95944 with speed 11.71978
+LAURENT retry: 128.95944 with speed 11.71978
+LAURENT erreur de calcul de temps 101.80919 with speed 11.21978
+LAURENT retry: 101.80919 with speed 11.21978
+LAURENT erreur de calcul de temps 77.87441 with speed 10.81978
+LAURENT retry: 77.87441 with speed 10.81978
+LAURENT erreur de calcul de temps 56.23980 with speed 10.31979
+LAURENT retry: 56.23980 with speed 10.31979
+LAURENT erreur de calcul de temps 3.03743 with speed 22.74823
+LAURENT retry: 3.03743 with speed 22.74823
+LAURENT erreur de calcul de temps 3.04315 with speed 22.13806
+LAURENT retry: 3.04315 with speed 22.13806
+LAURENT erreur de calcul de temps 3.04558 with speed 22.41054
+LAURENT retry: 3.04558 with speed 22.41054
+LAURENT erreur de calcul de temps 3.05827 with speed 21.82948
+LAURENT retry: 3.05827 with speed 21.82948
+LAURENT erreur de calcul de temps 3.05080 with speed 20.83374
+LAURENT retry: 3.05080 with speed 20.83374
+LAURENT erreur de calcul de temps 3.04348 with speed 19.73800
+LAURENT retry: 3.04348 with speed 19.73800
+LAURENT erreur de calcul de temps 662.69659 with speed 18.83800
+LAURENT retry: 662.69659 with speed 18.83800
+LAURENT erreur de calcul de temps 553.99121 with speed 17.95457
+LAURENT retry: 553.99121 with speed 17.95457
+LAURENT erreur de calcul de temps 525.89496 with speed 17.14065
+LAURENT retry: 525.89496 with speed 17.14065
+LAURENT erreur de calcul de temps 428.17017 with speed 16.25830
+LAURENT retry: 428.17017 with speed 16.25830
+LAURENT erreur de calcul de temps 398.05579 with speed 15.44491
+LAURENT retry: 398.05579 with speed 15.44491
+LAURENT erreur de calcul de temps 340.31970 with speed 14.54652
+LAURENT retry: 340.31970 with speed 14.54652
+LAURENT erreur de calcul de temps 259.25357 with speed 13.70882
+LAURENT retry: 259.25357 with speed 13.70882
+LAURENT erreur de calcul de temps 212.32341 with speed 12.95935
+LAURENT retry: 212.32341 with speed 12.95935
+LAURENT erreur de calcul de temps 173.24306 with speed 12.31148
+LAURENT retry: 173.24306 with speed 12.31148
+LAURENT erreur de calcul de temps 126.34744 with speed 11.77539
+LAURENT retry: 126.34744 with speed 11.77539
+LAURENT erreur de calcul de temps 99.46750 with speed 11.27539
+LAURENT retry: 99.46750 with speed 11.27539
+LAURENT erreur de calcul de temps 75.57399 with speed 10.87539
+LAURENT retry: 75.57399 with speed 10.87539
+LAURENT erreur de calcul de temps 51.75361 with speed 10.37539
+LAURENT retry: 51.75361 with speed 10.37539
+LAURENT erreur de calcul de temps 3.03795 with speed 22.80557
+LAURENT retry: 3.03795 with speed 22.80557
+LAURENT erreur de calcul de temps 3.04383 with speed 22.25879
+LAURENT retry: 3.04383 with speed 22.25879
+LAURENT erreur de calcul de temps 3.04465 with speed 22.41300
+LAURENT retry: 3.04465 with speed 22.41300
+LAURENT erreur de calcul de temps 3.05410 with speed 21.96538
+LAURENT retry: 3.05410 with speed 21.96538
+LAURENT erreur de calcul de temps 3.05146 with speed 21.02434
+LAURENT retry: 3.05146 with speed 21.02434
+LAURENT erreur de calcul de temps 744.32977 with speed 19.93583
+LAURENT retry: 744.32977 with speed 19.93583
+LAURENT erreur de calcul de temps 671.20795 with speed 19.03583
+LAURENT retry: 671.20795 with speed 19.03583
+LAURENT erreur de calcul de temps 595.17578 with speed 18.14243
+LAURENT retry: 595.17578 with speed 18.14243
+LAURENT erreur de calcul de temps 530.44489 with speed 17.33668
+LAURENT retry: 530.44489 with speed 17.33668
+LAURENT erreur de calcul de temps 462.22363 with speed 16.45392
+LAURENT retry: 462.22363 with speed 16.45392
+LAURENT erreur de calcul de temps 401.10101 with speed 15.64817
+LAURENT retry: 401.10101 with speed 15.64817
+LAURENT erreur de calcul de temps 312.28430 with speed 14.71624
+LAURENT retry: 312.28430 with speed 14.71624
+LAURENT erreur de calcul de temps 257.96582 with speed 13.86623
+LAURENT retry: 257.96582 with speed 13.86623
+LAURENT erreur de calcul de temps 213.77338 with speed 13.11624
+LAURENT retry: 213.77338 with speed 13.11624
+LAURENT erreur de calcul de temps 170.64880 with speed 12.46709
+LAURENT retry: 170.64880 with speed 12.46709
+LAURENT erreur de calcul de temps 123.77275 with speed 11.88515
+LAURENT retry: 123.77275 with speed 11.88515
+LAURENT erreur de calcul de temps 97.10959 with speed 11.38515
+LAURENT retry: 97.10959 with speed 11.38515
+LAURENT erreur de calcul de temps 71.19451 with speed 10.98515
+LAURENT retry: 71.19451 with speed 10.98515
+LAURENT erreur de calcul de temps 49.33239 with speed 10.48515
+LAURENT retry: 49.33239 with speed 10.48515
+LAURENT erreur de calcul de temps 3.03112 with speed 13.40071
+LAURENT retry: 3.03112 with speed 13.40071
+LAURENT erreur de calcul de temps 3.03286 with speed 12.75136
+LAURENT retry: 3.03286 with speed 12.75136
+LAURENT erreur de calcul de temps 3.03244 with speed 13.19840
+LAURENT retry: 3.03244 with speed 13.19840
+LAURENT erreur de calcul de temps 3.03277 with speed 13.08019
+LAURENT retry: 3.03277 with speed 13.08019
+LAURENT erreur de calcul de temps 3.03195 with speed 13.00009
+LAURENT retry: 3.03195 with speed 13.00009
+LAURENT erreur de calcul de temps 22742.69336 with speed 7.58082
+LAURENT retry: 22742.69336 with speed 7.58082
+LAURENT erreur de calcul de temps 23494.08984 with speed 7.83106
+LAURENT retry: 23494.08984 with speed 7.83106
+LAURENT erreur de calcul de temps 23400.80078 with speed 7.80029
+LAURENT retry: 23400.80078 with speed 7.80029
+LAURENT erreur de calcul de temps 23085.05273 with speed 7.69495
+LAURENT retry: 23085.05273 with speed 7.69495
+LAURENT erreur de calcul de temps 3.03092 with speed 20.00371
+LAURENT retry: 3.03092 with speed 20.00371
+LAURENT erreur de calcul de temps 3.03241 with speed 20.18509
+LAURENT retry: 3.03241 with speed 20.18509
+LAURENT erreur de calcul de temps 3.03118 with speed 19.35971
+LAURENT retry: 3.03118 with speed 19.35971
+LAURENT erreur de calcul de temps 3.03219 with speed 19.57266
+LAURENT retry: 3.03219 with speed 19.57266
+LAURENT erreur de calcul de temps 3.03053 with speed 18.70449
+LAURENT retry: 3.03053 with speed 18.70449
+LAURENT erreur de calcul de temps 3.03014 with speed 20.60995
+LAURENT retry: 3.03014 with speed 20.60995
+LAURENT erreur de calcul de temps 3.03438 with speed 19.93819
+LAURENT retry: 3.03438 with speed 19.93819
+LAURENT erreur de calcul de temps 3.03240 with speed 19.05234
+LAURENT retry: 3.03240 with speed 19.05234
+LAURENT erreur de calcul de temps 3.03017 with speed 18.23802
+LAURENT retry: 3.03017 with speed 18.23802
+LAURENT erreur de calcul de temps 3.03346 with speed 23.07730
+LAURENT retry: 3.03346 with speed 23.07730
+LAURENT erreur de calcul de temps 3.03990 with speed 22.22489
+LAURENT retry: 3.03990 with speed 22.22489
+LAURENT erreur de calcul de temps 3.03707 with speed 21.04683
+LAURENT retry: 3.03707 with speed 21.04683
+LAURENT erreur de calcul de temps 3.03482 with speed 19.99431
+LAURENT retry: 3.03482 with speed 19.99431
+LAURENT erreur de calcul de temps 3.03162 with speed 19.03495
+LAURENT retry: 3.03162 with speed 19.03495
+LAURENT erreur de calcul de temps 3.03655 with speed 21.05773
+LAURENT retry: 3.03655 with speed 21.05773
+LAURENT erreur de calcul de temps 3.03380 with speed 20.15773
+LAURENT retry: 3.03380 with speed 20.15773
+LAURENT erreur de calcul de temps 3.03113 with speed 19.15773
+LAURENT retry: 3.03113 with speed 19.15773
+LAURENT erreur de calcul de temps 3.03363 with speed 20.96019
+LAURENT retry: 3.03363 with speed 20.96019
+LAURENT erreur de calcul de temps 3.03339 with speed 20.04692
+LAURENT retry: 3.03339 with speed 20.04692
+LAURENT erreur de calcul de temps 3.03091 with speed 19.06019
+LAURENT retry: 3.03091 with speed 19.06019
+LAURENT erreur de calcul de temps 3.03369 with speed 20.99565
+LAURENT retry: 3.03369 with speed 20.99565
+LAURENT erreur de calcul de temps 3.03392 with speed 20.09420
+LAURENT retry: 3.03392 with speed 20.09420
+LAURENT erreur de calcul de temps 3.03178 with speed 19.09565
+LAURENT retry: 3.03178 with speed 19.09565
+LAURENT erreur de calcul de temps 3.03447 with speed 21.01599
+LAURENT retry: 3.03447 with speed 21.01599
+LAURENT erreur de calcul de temps 3.03450 with speed 20.11598
+LAURENT retry: 3.03450 with speed 20.11598
+LAURENT erreur de calcul de temps 3.03223 with speed 19.11599
+LAURENT retry: 3.03223 with speed 19.11599
+LAURENT erreur de calcul de temps 3.03388 with speed 20.98975
+LAURENT retry: 3.03388 with speed 20.98975
+LAURENT erreur de calcul de temps 3.03493 with speed 20.08633
+LAURENT retry: 3.03493 with speed 20.08633
+LAURENT erreur de calcul de temps 3.03258 with speed 19.08975
+LAURENT retry: 3.03258 with speed 19.08975
+LAURENT erreur de calcul de temps 3.03000 with speed 18.23975
+LAURENT retry: 3.03000 with speed 18.23975
+LAURENT erreur de calcul de temps 3.03397 with speed 20.89206
+LAURENT retry: 3.03397 with speed 20.89206
+LAURENT erreur de calcul de temps 3.03428 with speed 19.95608
+LAURENT retry: 3.03428 with speed 19.95608
+LAURENT erreur de calcul de temps 3.03195 with speed 18.99206
+LAURENT retry: 3.03195 with speed 18.99206
+LAURENT erreur de calcul de temps 3.03411 with speed 20.83286
+LAURENT retry: 3.03411 with speed 20.83286
+LAURENT erreur de calcul de temps 3.03436 with speed 19.87715
+LAURENT retry: 3.03436 with speed 19.87715
+LAURENT erreur de calcul de temps 3.03188 with speed 18.93286
+LAURENT retry: 3.03188 with speed 18.93286
+LAURENT erreur de calcul de temps 3.03678 with speed 20.73725
+LAURENT retry: 3.03678 with speed 20.73725
+LAURENT erreur de calcul de temps 3.03376 with speed 19.74966
+LAURENT retry: 3.03376 with speed 19.74966
+LAURENT erreur de calcul de temps 3.03120 with speed 18.83725
+LAURENT retry: 3.03120 with speed 18.83725
+LAURENT erreur de calcul de temps 596.53333 with speed 21.50392
+LAURENT retry: 596.53333 with speed 21.50392
+LAURENT erreur de calcul de temps 642.77112 with speed 20.70588
+LAURENT retry: 642.77112 with speed 20.70588
+LAURENT erreur de calcul de temps 621.30511 with speed 19.70784
+LAURENT retry: 621.30511 with speed 19.70784
+LAURENT erreur de calcul de temps 593.06464 with speed 18.80588
+LAURENT retry: 593.06464 with speed 18.80588
+LAURENT erreur de calcul de temps 530.28400 with speed 17.95588
+LAURENT retry: 530.28400 with speed 17.95588
+LAURENT erreur de calcul de temps 499.22266 with speed 17.10784
+LAURENT retry: 499.22266 with speed 17.10784
+LAURENT erreur de calcul de temps 20741.20898 with speed 6.91371
+LAURENT retry: 20741.20898 with speed 6.91371
+LAURENT erreur de calcul de temps 610.88287 with speed 21.55519
+LAURENT retry: 610.88287 with speed 21.55519
+LAURENT erreur de calcul de temps 627.12817 with speed 20.78278
+LAURENT retry: 627.12817 with speed 20.78278
+LAURENT erreur de calcul de temps 635.05103 with speed 19.81038
+LAURENT retry: 635.05103 with speed 19.81038
+LAURENT erreur de calcul de temps 570.59467 with speed 18.88278
+LAURENT retry: 570.59467 with speed 18.88278
+LAURENT erreur de calcul de temps 540.51642 with speed 18.03278
+LAURENT retry: 540.51642 with speed 18.03278
+LAURENT erreur de calcul de temps 543.24811 with speed 17.21038
+LAURENT retry: 543.24811 with speed 17.21038
+LAURENT erreur de calcul de temps 472.11215 with speed 16.43278
+LAURENT retry: 472.11215 with speed 16.43278
+LAURENT erreur de calcul de temps 431.05725 with speed 15.58278
+LAURENT retry: 431.05725 with speed 15.58278
+LAURENT erreur de calcul de temps 622.55469 with speed 21.60547
+LAURENT retry: 622.55469 with speed 21.60547
+LAURENT erreur de calcul de temps 638.36304 with speed 20.85821
+LAURENT retry: 638.36304 with speed 20.85821
+LAURENT erreur de calcul de temps 647.93683 with speed 19.91094
+LAURENT retry: 647.93683 with speed 19.91094
+LAURENT erreur de calcul de temps 580.53326 with speed 18.95821
+LAURENT retry: 580.53326 with speed 18.95821
+LAURENT erreur de calcul de temps 547.64459 with speed 18.10821
+LAURENT retry: 547.64459 with speed 18.10821
+LAURENT erreur de calcul de temps 552.53418 with speed 17.31094
+LAURENT retry: 552.53418 with speed 17.31094
+LAURENT erreur de calcul de temps 478.46390 with speed 16.50821
+LAURENT retry: 478.46390 with speed 16.50821
+LAURENT erreur de calcul de temps 436.82004 with speed 15.65821
+LAURENT retry: 436.82004 with speed 15.65821
+LAURENT erreur de calcul de temps 398.11115 with speed 14.81094
+LAURENT retry: 398.11115 with speed 14.81094
+LAURENT erreur de calcul de temps 480.19360 with speed 21.47897
+LAURENT retry: 480.19360 with speed 21.47897
+LAURENT erreur de calcul de temps 637.17944 with speed 21.76825
+LAURENT retry: 637.17944 with speed 21.76825
+LAURENT erreur de calcul de temps 657.31970 with speed 21.00527
+LAURENT retry: 657.31970 with speed 21.00527
+LAURENT erreur de calcul de temps 663.48792 with speed 20.03850
+LAURENT retry: 663.48792 with speed 20.03850
+LAURENT erreur de calcul de temps 588.90265 with speed 19.06785
+LAURENT retry: 588.90265 with speed 19.06785
+LAURENT erreur de calcul de temps 559.02289 with speed 18.21785
+LAURENT retry: 559.02289 with speed 18.21785
+LAURENT erreur de calcul de temps 550.90088 with speed 17.41972
+LAURENT retry: 550.90088 with speed 17.41972
+LAURENT erreur de calcul de temps 486.33463 with speed 16.59543
+LAURENT retry: 486.33463 with speed 16.59543
+LAURENT erreur de calcul de temps 442.08188 with speed 15.74543
+LAURENT retry: 442.08188 with speed 15.74543
+LAURENT erreur de calcul de temps 426.02621 with speed 14.88987
+LAURENT retry: 426.02621 with speed 14.88987
+LAURENT erreur de calcul de temps 355.05371 with speed 14.02301
+LAURENT retry: 355.05371 with speed 14.02301
+LAURENT erreur de calcul de temps 490.14600 with speed 22.46580
+LAURENT retry: 490.14600 with speed 22.46580
+LAURENT erreur de calcul de temps 502.18280 with speed 21.79900
+LAURENT retry: 502.18280 with speed 21.79900
+LAURENT erreur de calcul de temps 665.34106 with speed 22.16580
+LAURENT retry: 665.34106 with speed 22.16580
+LAURENT erreur de calcul de temps 705.72205 with speed 21.35302
+LAURENT retry: 705.72205 with speed 21.35302
+LAURENT erreur de calcul de temps 715.71277 with speed 20.31220
+LAURENT retry: 715.71277 with speed 20.31220
+LAURENT erreur de calcul de temps 606.09961 with speed 19.30041
+LAURENT retry: 606.09961 with speed 19.30041
+LAURENT erreur de calcul de temps 572.68292 with speed 18.45041
+LAURENT retry: 572.68292 with speed 18.45041
+LAURENT erreur de calcul de temps 540.78912 with speed 17.61461
+LAURENT retry: 540.78912 with speed 17.61461
+LAURENT erreur de calcul de temps 494.02893 with speed 16.76736
+LAURENT retry: 494.02893 with speed 16.76736
+LAURENT erreur de calcul de temps 451.71292 with speed 15.91736
+LAURENT retry: 451.71292 with speed 15.91736
+LAURENT erreur de calcul de temps 441.54315 with speed 15.01807
+LAURENT retry: 441.54315 with speed 15.01807
+LAURENT erreur de calcul de temps 360.25778 with speed 14.13431
+LAURENT retry: 360.25778 with speed 14.13431
+LAURENT erreur de calcul de temps 321.23514 with speed 13.38432
+LAURENT retry: 321.23514 with speed 13.38432
+LAURENT erreur de calcul de temps 495.54968 with speed 22.51992
+LAURENT retry: 495.54968 with speed 22.51992
+LAURENT erreur de calcul de temps 507.37408 with speed 21.84155
+LAURENT retry: 507.37408 with speed 21.84155
+LAURENT erreur de calcul de temps 671.51251 with speed 22.21992
+LAURENT retry: 671.51251 with speed 22.21992
+LAURENT erreur de calcul de temps 714.03876 with speed 21.40540
+LAURENT retry: 714.03876 with speed 21.40540
+LAURENT erreur de calcul de temps 724.38892 with speed 20.35678
+LAURENT retry: 724.38892 with speed 20.35678
+LAURENT erreur de calcul de temps 610.21442 with speed 19.33509
+LAURENT retry: 610.21442 with speed 19.33509
+LAURENT erreur de calcul de temps 575.56885 with speed 18.48510
+LAURENT retry: 575.56885 with speed 18.48510
+LAURENT erreur de calcul de temps 540.95197 with speed 17.64316
+LAURENT retry: 540.95197 with speed 17.64316
+LAURENT erreur de calcul de temps 496.83151 with speed 16.79430
+LAURENT retry: 496.83151 with speed 16.79430
+LAURENT erreur de calcul de temps 453.55447 with speed 15.94430
+LAURENT retry: 453.55447 with speed 15.94430
+LAURENT erreur de calcul de temps 443.07526 with speed 15.04107
+LAURENT retry: 443.07526 with speed 15.04107
+LAURENT erreur de calcul de temps 360.16141 with speed 14.15350
+LAURENT retry: 360.16141 with speed 14.15350
+LAURENT erreur de calcul de temps 320.94745 with speed 13.40350
+LAURENT retry: 320.94745 with speed 13.40350
+LAURENT erreur de calcul de temps 531.41809 with speed 22.91896
+LAURENT retry: 531.41809 with speed 22.91896
+LAURENT erreur de calcul de temps 535.36047 with speed 22.14994
+LAURENT retry: 535.36047 with speed 22.14994
+LAURENT erreur de calcul de temps 713.51904 with speed 22.61896
+LAURENT retry: 713.51904 with speed 22.61896
+LAURENT erreur de calcul de temps 762.50616 with speed 21.75412
+LAURENT retry: 762.50616 with speed 21.75412
+LAURENT erreur de calcul de temps 730.41351 with speed 20.63510
+LAURENT retry: 730.41351 with speed 20.63510
+LAURENT erreur de calcul de temps 635.36035 with speed 19.56115
+LAURENT retry: 635.36035 with speed 19.56115
+LAURENT erreur de calcul de temps 607.62939 with speed 18.68323
+LAURENT retry: 607.62939 with speed 18.68323
+LAURENT erreur de calcul de temps 551.84711 with speed 17.80949
+LAURENT retry: 551.84711 with speed 17.80949
+LAURENT erreur de calcul de temps 506.68619 with speed 16.95750
+LAURENT retry: 506.68619 with speed 16.95750
+LAURENT erreur de calcul de temps 475.73444 with speed 16.10750
+LAURENT retry: 475.73444 with speed 16.10750
+LAURENT erreur de calcul de temps 431.99908 with speed 15.18596
+LAURENT retry: 431.99908 with speed 15.18596
+LAURENT erreur de calcul de temps 373.11392 with speed 14.26421
+LAURENT retry: 373.11392 with speed 14.26421
+LAURENT erreur de calcul de temps 323.13080 with speed 13.46255
+LAURENT retry: 323.13080 with speed 13.46255
+LAURENT erreur de calcul de temps 263.23126 with speed 12.71255
+LAURENT retry: 263.23126 with speed 12.71255
+LAURENT erreur de calcul de temps 571.43237 with speed 23.30047
+LAURENT retry: 571.43237 with speed 23.30047
+LAURENT erreur de calcul de temps 586.70221 with speed 22.45446
+LAURENT retry: 586.70221 with speed 22.45446
+LAURENT erreur de calcul de temps 759.69836 with speed 23.00047
+LAURENT retry: 759.69836 with speed 23.00047
+LAURENT erreur de calcul de temps 784.90308 with speed 22.07648
+LAURENT retry: 784.90308 with speed 22.07648
+LAURENT erreur de calcul de temps 730.09784 with speed 20.88046
+LAURENT retry: 730.09784 with speed 20.88046
+LAURENT erreur de calcul de temps 708.00598 with speed 19.80262
+LAURENT retry: 708.00598 with speed 19.80262
+LAURENT erreur de calcul de temps 642.00623 with speed 18.88176
+LAURENT retry: 642.00623 with speed 18.88176
+LAURENT erreur de calcul de temps 591.54956 with speed 17.98292
+LAURENT retry: 591.54956 with speed 17.98292
+LAURENT erreur de calcul de temps 516.38110 with speed 17.11141
+LAURENT retry: 516.38110 with speed 17.11141
+LAURENT erreur de calcul de temps 474.34152 with speed 16.26141
+LAURENT retry: 474.34152 with speed 16.26141
+LAURENT erreur de calcul de temps 420.61752 with speed 15.31308
+LAURENT retry: 420.61752 with speed 15.31308
+LAURENT erreur de calcul de temps 405.68405 with speed 14.38574
+LAURENT retry: 405.68405 with speed 14.38574
+LAURENT erreur de calcul de temps 324.85883 with speed 13.51605
+LAURENT retry: 324.85883 with speed 13.51605
+LAURENT erreur de calcul de temps 285.65787 with speed 12.76605
+LAURENT retry: 285.65787 with speed 12.76605
+LAURENT erreur de calcul de temps 574.05792 with speed 23.18744
+LAURENT retry: 574.05792 with speed 23.18744
+LAURENT erreur de calcul de temps 597.12170 with speed 22.38675
+LAURENT retry: 597.12170 with speed 22.38675
+LAURENT erreur de calcul de temps 755.91821 with speed 22.88744
+LAURENT retry: 755.91821 with speed 22.88744
+LAURENT erreur de calcul de temps 780.60681 with speed 22.02581
+LAURENT retry: 780.60681 with speed 22.02581
+LAURENT erreur de calcul de temps 747.06580 with speed 20.87512
+LAURENT retry: 747.06580 with speed 20.87512
+LAURENT erreur de calcul de temps 724.73291 with speed 19.80684
+LAURENT retry: 724.73291 with speed 19.80684
+LAURENT erreur de calcul de temps 636.57678 with speed 18.88083
+LAURENT retry: 636.57678 with speed 18.88083
+LAURENT erreur de calcul de temps 593.38458 with speed 17.99387
+LAURENT retry: 593.38458 with speed 17.99387
+LAURENT erreur de calcul de temps 519.79358 with speed 17.11500
+LAURENT retry: 519.79358 with speed 17.11500
+LAURENT erreur de calcul de temps 473.00092 with speed 16.26500
+LAURENT retry: 473.00092 with speed 16.26500
+LAURENT erreur de calcul de temps 430.52563 with speed 15.33823
+LAURENT retry: 430.52563 with speed 15.33823
+LAURENT erreur de calcul de temps 408.16678 with speed 14.43014
+LAURENT retry: 408.16678 with speed 14.43014
+LAURENT erreur de calcul de temps 326.04459 with speed 13.56717
+LAURENT retry: 326.04459 with speed 13.56717
+LAURENT erreur de calcul de temps 285.50055 with speed 12.81717
+LAURENT retry: 285.50055 with speed 12.81717
+LAURENT erreur de calcul de temps 246.10506 with speed 12.24394
+LAURENT retry: 246.10506 with speed 12.24394
+LAURENT erreur de calcul de temps 580.45819 with speed 23.22784
+LAURENT retry: 580.45819 with speed 23.22784
+LAURENT erreur de calcul de temps 603.29242 with speed 22.42071
+LAURENT retry: 603.29242 with speed 22.42071
+LAURENT erreur de calcul de temps 762.61694 with speed 22.92784
+LAURENT retry: 762.61694 with speed 22.92784
+LAURENT erreur de calcul de temps 785.20410 with speed 22.06449
+LAURENT retry: 785.20410 with speed 22.06449
+LAURENT erreur de calcul de temps 749.88446 with speed 20.90737
+LAURENT retry: 749.88446 with speed 20.90737
+LAURENT erreur de calcul de temps 729.34137 with speed 19.84283
+LAURENT retry: 729.34137 with speed 19.84283
+LAURENT erreur de calcul de temps 642.36200 with speed 18.91012
+LAURENT retry: 642.36200 with speed 18.91012
+LAURENT erreur de calcul de temps 597.45782 with speed 18.02118
+LAURENT retry: 597.45782 with speed 18.02118
+LAURENT erreur de calcul de temps 521.10840 with speed 17.13709
+LAURENT retry: 521.10840 with speed 17.13709
+LAURENT erreur de calcul de temps 473.99973 with speed 16.28709
+LAURENT retry: 473.99973 with speed 16.28709
+LAURENT erreur de calcul de temps 430.39099 with speed 15.35783
+LAURENT retry: 430.39099 with speed 15.35783
+LAURENT erreur de calcul de temps 409.49417 with speed 14.45299
+LAURENT retry: 409.49417 with speed 14.45299
+LAURENT erreur de calcul de temps 327.07629 with speed 13.58134
+LAURENT retry: 327.07629 with speed 13.58134
+LAURENT erreur de calcul de temps 286.92792 with speed 12.83134
+LAURENT retry: 286.92792 with speed 12.83134
+LAURENT erreur de calcul de temps 563.09521 with speed 22.85024
+LAURENT retry: 563.09521 with speed 22.85024
+LAURENT erreur de calcul de temps 603.35046 with speed 22.18121
+LAURENT retry: 603.35046 with speed 22.18121
+LAURENT erreur de calcul de temps 721.27057 with speed 22.53504
+LAURENT retry: 721.27057 with speed 22.53504
+LAURENT erreur de calcul de temps 780.19360 with speed 21.84641
+LAURENT retry: 780.19360 with speed 21.84641
+LAURENT erreur de calcul de temps 762.78607 with speed 20.81478
+LAURENT retry: 762.78607 with speed 20.81478
+LAURENT erreur de calcul de temps 699.99493 with speed 19.72334
+LAURENT retry: 699.99493 with speed 19.72334
+LAURENT erreur de calcul de temps 634.25562 with speed 18.81218
+LAURENT retry: 634.25562 with speed 18.81218
+LAURENT erreur de calcul de temps 572.52631 with speed 17.94102
+LAURENT retry: 572.52631 with speed 17.94102
+LAURENT erreur de calcul de temps 542.11292 with speed 17.09506
+LAURENT retry: 542.11292 with speed 17.09506
+LAURENT erreur de calcul de temps 472.53717 with speed 16.22985
+LAURENT retry: 472.53717 with speed 16.22985
+LAURENT erreur de calcul de temps 459.14838 with speed 15.37794
+LAURENT retry: 459.14838 with speed 15.37794
+LAURENT erreur de calcul de temps 409.64041 with speed 14.47794
+LAURENT retry: 409.64041 with speed 14.47794
+LAURENT erreur de calcul de temps 332.57394 with speed 13.64822
+LAURENT retry: 332.57394 with speed 13.64822
+LAURENT erreur de calcul de temps 286.81735 with speed 12.89562
+LAURENT retry: 286.81735 with speed 12.89562
+LAURENT erreur de calcul de temps 246.54927 with speed 12.26013
+LAURENT retry: 246.54927 with speed 12.26013
+LAURENT erreur de calcul de temps 563.48633 with speed 22.68734
+LAURENT retry: 563.48633 with speed 22.68734
+LAURENT erreur de calcul de temps 605.00183 with speed 22.07676
+LAURENT retry: 605.00183 with speed 22.07676
+LAURENT erreur de calcul de temps 709.25006 with speed 22.35416
+LAURENT retry: 709.25006 with speed 22.35416
+LAURENT erreur de calcul de temps 784.20581 with speed 21.77031
+LAURENT retry: 784.20581 with speed 21.77031
+LAURENT erreur de calcul de temps 746.19330 with speed 20.78279
+LAURENT retry: 746.19330 with speed 20.78279
+LAURENT erreur de calcul de temps 696.04834 with speed 19.69527
+LAURENT retry: 696.04834 with speed 19.69527
+LAURENT erreur de calcul de temps 652.11316 with speed 18.79527
+LAURENT retry: 652.11316 with speed 18.79527
+LAURENT erreur de calcul de temps 567.68634 with speed 17.92457
+LAURENT retry: 567.68634 with speed 17.92457
+LAURENT erreur de calcul de temps 556.61395 with speed 17.10361
+LAURENT retry: 556.61395 with speed 17.10361
+LAURENT erreur de calcul de temps 477.56680 with speed 16.23495
+LAURENT retry: 477.56680 with speed 16.23495
+LAURENT erreur de calcul de temps 456.91730 with speed 15.41608
+LAURENT retry: 456.91730 with speed 15.41608
+LAURENT erreur de calcul de temps 410.70862 with speed 14.52022
+LAURENT retry: 410.70862 with speed 14.52022
+LAURENT erreur de calcul de temps 328.35248 with speed 13.68705
+LAURENT retry: 328.35248 with speed 13.68705
+LAURENT erreur de calcul de temps 284.12460 with speed 12.93915
+LAURENT retry: 284.12460 with speed 12.93915
+LAURENT erreur de calcul de temps 248.32158 with speed 12.29539
+LAURENT retry: 248.32158 with speed 12.29539
+LAURENT erreur de calcul de temps 562.89392 with speed 22.63333
+LAURENT retry: 562.89392 with speed 22.63333
+LAURENT erreur de calcul de temps 603.78912 with speed 22.03265
+LAURENT retry: 603.78912 with speed 22.03265
+LAURENT erreur de calcul de temps 706.95056 with speed 22.29520
+LAURENT retry: 706.95056 with speed 22.29520
+LAURENT erreur de calcul de temps 783.37598 with speed 21.74051
+LAURENT retry: 783.37598 with speed 21.74051
+LAURENT erreur de calcul de temps 745.81195 with speed 20.76290
+LAURENT retry: 745.81195 with speed 20.76290
+LAURENT erreur de calcul de temps 695.89935 with speed 19.68530
+LAURENT retry: 695.89935 with speed 19.68530
+LAURENT erreur de calcul de temps 653.53589 with speed 18.78530
+LAURENT retry: 653.53589 with speed 18.78530
+LAURENT erreur de calcul de temps 568.34436 with speed 17.91957
+LAURENT retry: 568.34436 with speed 17.91957
+LAURENT erreur de calcul de temps 553.19470 with speed 17.09916
+LAURENT retry: 553.19470 with speed 17.09916
+LAURENT erreur de calcul de temps 481.83850 with speed 16.23931
+LAURENT retry: 481.83850 with speed 16.23931
+LAURENT erreur de calcul de temps 453.65753 with speed 15.42155
+LAURENT retry: 453.65753 with speed 15.42155
+LAURENT erreur de calcul de temps 411.70279 with speed 14.53009
+LAURENT retry: 411.70279 with speed 14.53009
+LAURENT erreur de calcul de temps 329.45450 with speed 13.69197
+LAURENT retry: 329.45450 with speed 13.69197
+LAURENT erreur de calcul de temps 280.85214 with speed 12.94463
+LAURENT retry: 280.85214 with speed 12.94463
+LAURENT erreur de calcul de temps 246.65424 with speed 12.30583
+LAURENT retry: 246.65424 with speed 12.30583
+LAURENT erreur de calcul de temps 561.27191 with speed 22.40578
+LAURENT retry: 561.27191 with speed 22.40578
+LAURENT erreur de calcul de temps 603.92438 with speed 21.85537
+LAURENT retry: 603.92438 with speed 21.85537
+LAURENT erreur de calcul de temps 699.21295 with speed 22.04467
+LAURENT retry: 699.21295 with speed 22.04467
+LAURENT erreur de calcul de temps 761.14465 with speed 21.61136
+LAURENT retry: 761.14465 with speed 21.61136
+LAURENT erreur de calcul de temps 749.15857 with speed 20.69245
+LAURENT retry: 749.15857 with speed 20.69245
+LAURENT erreur de calcul de temps 699.58887 with speed 19.65544
+LAURENT retry: 699.58887 with speed 19.65544
+LAURENT erreur de calcul de temps 655.16510 with speed 18.75544
+LAURENT retry: 655.16510 with speed 18.75544
+LAURENT erreur de calcul de temps 576.71802 with speed 17.91143
+LAURENT retry: 576.71802 with speed 17.91143
+LAURENT erreur de calcul de temps 536.02277 with speed 17.07994
+LAURENT retry: 536.02277 with speed 17.07994
+LAURENT erreur de calcul de temps 494.82391 with speed 16.27443
+LAURENT retry: 494.82391 with speed 16.27443
+LAURENT erreur de calcul de temps 440.43655 with speed 15.44293
+LAURENT retry: 440.43655 with speed 15.44293
+LAURENT erreur de calcul de temps 393.49661 with speed 14.57032
+LAURENT retry: 393.49661 with speed 14.57032
+LAURENT erreur de calcul de temps 329.97440 with speed 13.72032
+LAURENT retry: 329.97440 with speed 13.72032
+LAURENT erreur de calcul de temps 282.06305 with speed 12.97032
+LAURENT retry: 282.06305 with speed 12.97032
+LAURENT erreur de calcul de temps 236.49696 with speed 12.34482
+LAURENT retry: 236.49696 with speed 12.34482
+LAURENT erreur de calcul de temps 199.19969 with speed 11.82220
+LAURENT retry: 199.19969 with speed 11.82220
+LAURENT erreur de calcul de temps 561.00458 with speed 22.25331
+LAURENT retry: 561.00458 with speed 22.25331
+LAURENT erreur de calcul de temps 617.52612 with speed 21.75492
+LAURENT retry: 617.52612 with speed 21.75492
+LAURENT erreur de calcul de temps 695.22430 with speed 21.87319
+LAURENT retry: 695.22430 with speed 21.87319
+LAURENT erreur de calcul de temps 723.74072 with speed 21.51728
+LAURENT retry: 723.74072 with speed 21.51728
+LAURENT erreur de calcul de temps 752.59338 with speed 20.66352
+LAURENT retry: 752.59338 with speed 20.66352
+LAURENT erreur de calcul de temps 703.72882 with speed 19.65275
+LAURENT retry: 703.72882 with speed 19.65275
+LAURENT erreur de calcul de temps 657.50146 with speed 18.75275
+LAURENT retry: 657.50146 with speed 18.75275
+LAURENT erreur de calcul de temps 576.95123 with speed 17.91511
+LAURENT retry: 576.95123 with speed 17.91511
+LAURENT erreur de calcul de temps 528.67041 with speed 17.07049
+LAURENT retry: 528.67041 with speed 17.07049
+LAURENT erreur de calcul de temps 481.84149 with speed 16.30435
+LAURENT retry: 481.84149 with speed 16.30435
+LAURENT erreur de calcul de temps 430.83047 with speed 15.45973
+LAURENT retry: 430.83047 with speed 15.45973
+LAURENT erreur de calcul de temps 377.22379 with speed 14.60111
+LAURENT retry: 377.22379 with speed 14.60111
+LAURENT erreur de calcul de temps 329.13098 with speed 13.75111
+LAURENT retry: 329.13098 with speed 13.75111
+LAURENT erreur de calcul de temps 287.21719 with speed 13.00111
+LAURENT retry: 287.21719 with speed 13.00111
+LAURENT erreur de calcul de temps 229.90048 with speed 12.36885
+LAURENT retry: 229.90048 with speed 12.36885
+LAURENT erreur de calcul de temps 197.86841 with speed 11.86023
+LAURENT retry: 197.86841 with speed 11.86023
+LAURENT erreur de calcul de temps 561.86011 with speed 22.23067
+LAURENT retry: 561.86011 with speed 22.23067
+LAURENT erreur de calcul de temps 618.85236 with speed 21.74103
+LAURENT retry: 618.85236 with speed 21.74103
+LAURENT erreur de calcul de temps 694.59344 with speed 21.84760
+LAURENT retry: 694.59344 with speed 21.84760
+LAURENT erreur de calcul de temps 722.13208 with speed 21.50329
+LAURENT retry: 722.13208 with speed 21.50329
+LAURENT erreur de calcul de temps 754.43512 with speed 20.66017
+LAURENT retry: 754.43512 with speed 20.66017
+LAURENT erreur de calcul de temps 706.21039 with speed 19.65320
+LAURENT retry: 706.21039 with speed 19.65320
+LAURENT erreur de calcul de temps 659.43665 with speed 18.75320
+LAURENT retry: 659.43665 with speed 18.75320
+LAURENT erreur de calcul de temps 575.75732 with speed 17.91546
+LAURENT retry: 575.75732 with speed 17.91546
+LAURENT erreur de calcul de temps 526.22095 with speed 17.06895
+LAURENT retry: 526.22095 with speed 17.06895
+LAURENT erreur de calcul de temps 481.73740 with speed 16.30849
+LAURENT retry: 481.73740 with speed 16.30849
+LAURENT erreur de calcul de temps 430.90405 with speed 15.46198
+LAURENT retry: 430.90405 with speed 15.46198
+LAURENT erreur de calcul de temps 378.64584 with speed 14.60619
+LAURENT retry: 378.64584 with speed 14.60619
+LAURENT erreur de calcul de temps 328.93671 with speed 13.75619
+LAURENT retry: 328.93671 with speed 13.75619
+LAURENT erreur de calcul de temps 286.85547 with speed 13.00619
+LAURENT retry: 286.85547 with speed 13.00619
+LAURENT erreur de calcul de temps 228.45412 with speed 12.37193
+LAURENT retry: 228.45412 with speed 12.37193
+LAURENT erreur de calcul de temps 197.55193 with speed 11.86615
+LAURENT retry: 197.55193 with speed 11.86615
+LAURENT erreur de calcul de temps 549.09155 with speed 21.81396
+LAURENT retry: 549.09155 with speed 21.81396
+LAURENT erreur de calcul de temps 601.71326 with speed 21.45835
+LAURENT retry: 601.71326 with speed 21.45835
+LAURENT erreur de calcul de temps 586.92987 with speed 20.97854
+LAURENT retry: 586.92987 with speed 20.97854
+LAURENT erreur de calcul de temps 722.96899 with speed 21.20860
+LAURENT retry: 722.96899 with speed 21.20860
+LAURENT erreur de calcul de temps 723.81799 with speed 20.43866
+LAURENT retry: 723.81799 with speed 20.43866
+LAURENT erreur de calcul de temps 700.29865 with speed 19.49430
+LAURENT retry: 700.29865 with speed 19.49430
+LAURENT erreur de calcul de temps 652.55011 with speed 18.64572
+LAURENT retry: 652.55011 with speed 18.64572
+LAURENT erreur de calcul de temps 568.70337 with speed 17.79572
+LAURENT retry: 568.70337 with speed 17.79572
+LAURENT erreur de calcul de temps 523.71051 with speed 17.00137
+LAURENT retry: 523.71051 with speed 17.00137
+LAURENT erreur de calcul de temps 476.39258 with speed 16.25005
+LAURENT retry: 476.39258 with speed 16.25005
+LAURENT erreur de calcul de temps 444.40485 with speed 15.45437
+LAURENT retry: 444.40485 with speed 15.45437
+LAURENT erreur de calcul de temps 378.15067 with speed 14.60437
+LAURENT retry: 378.15067 with speed 14.60437
+LAURENT erreur de calcul de temps 327.43683 with speed 13.75437
+LAURENT retry: 327.43683 with speed 13.75437
+LAURENT erreur de calcul de temps 271.38394 with speed 13.02995
+LAURENT retry: 271.38394 with speed 13.02995
+LAURENT erreur de calcul de temps 227.77325 with speed 12.40711
+LAURENT retry: 227.77325 with speed 12.40711
+LAURENT erreur de calcul de temps 197.94492 with speed 11.90579
+LAURENT retry: 197.94492 with speed 11.90579
+LAURENT erreur de calcul de temps 168.77750 with speed 11.40579
+LAURENT retry: 168.77750 with speed 11.40579
+LAURENT erreur de calcul de temps 585.24030 with speed 21.10284
+LAURENT retry: 585.24030 with speed 21.10284
+LAURENT erreur de calcul de temps 588.90228 with speed 20.60284
+LAURENT retry: 588.90228 with speed 20.60284
+LAURENT erreur de calcul de temps 704.20227 with speed 20.83438
+LAURENT retry: 704.20227 with speed 20.83438
+LAURENT erreur de calcul de temps 714.63501 with speed 20.16578
+LAURENT retry: 714.63501 with speed 20.16578
+LAURENT erreur de calcul de temps 681.45190 with speed 19.27959
+LAURENT retry: 681.45190 with speed 19.27959
+LAURENT erreur de calcul de temps 620.90381 with speed 18.45661
+LAURENT retry: 620.90381 with speed 18.45661
+LAURENT erreur de calcul de temps 563.94415 with speed 17.65620
+LAURENT retry: 563.94415 with speed 17.65620
+LAURENT erreur de calcul de temps 518.16345 with speed 16.90620
+LAURENT retry: 518.16345 with speed 16.90620
+LAURENT erreur de calcul de temps 472.48242 with speed 16.15620
+LAURENT retry: 472.48242 with speed 16.15620
+LAURENT erreur de calcul de temps 428.08676 with speed 15.40620
+LAURENT retry: 428.08676 with speed 15.40620
+LAURENT erreur de calcul de temps 374.27765 with speed 14.55620
+LAURENT retry: 374.27765 with speed 14.55620
+LAURENT erreur de calcul de temps 326.86896 with speed 13.73383
+LAURENT retry: 326.86896 with speed 13.73383
+LAURENT erreur de calcul de temps 259.33240 with speed 13.01334
+LAURENT retry: 259.33240 with speed 13.01334
+LAURENT erreur de calcul de temps 231.00076 with speed 12.41900
+LAURENT retry: 231.00076 with speed 12.41900
+LAURENT erreur de calcul de temps 190.86292 with speed 11.92150
+LAURENT retry: 190.86292 with speed 11.92150
+LAURENT erreur de calcul de temps 167.22093 with speed 11.44097
+LAURENT retry: 167.22093 with speed 11.44097
+LAURENT erreur de calcul de temps 592.41730 with speed 21.09217
+LAURENT retry: 592.41730 with speed 21.09217
+LAURENT erreur de calcul de temps 601.88513 with speed 20.59218
+LAURENT retry: 601.88513 with speed 20.59218
+LAURENT erreur de calcul de temps 704.01703 with speed 20.81663
+LAURENT retry: 704.01703 with speed 20.81663
+LAURENT erreur de calcul de temps 725.88794 with speed 20.18571
+LAURENT retry: 725.88794 with speed 20.18571
+LAURENT erreur de calcul de temps 682.48352 with speed 19.30354
+LAURENT retry: 682.48352 with speed 19.30354
+LAURENT erreur de calcul de temps 624.97632 with speed 18.47561
+LAURENT retry: 624.97632 with speed 18.47561
+LAURENT erreur de calcul de temps 565.98480 with speed 17.68435
+LAURENT retry: 565.98480 with speed 17.68435
+LAURENT erreur de calcul de temps 521.36420 with speed 16.93435
+LAURENT retry: 521.36420 with speed 16.93435
+LAURENT erreur de calcul de temps 474.28629 with speed 16.18435
+LAURENT retry: 474.28629 with speed 16.18435
+LAURENT erreur de calcul de temps 424.87451 with speed 15.43435
+LAURENT retry: 424.87451 with speed 15.43435
+LAURENT erreur de calcul de temps 375.34775 with speed 14.58435
+LAURENT retry: 375.34775 with speed 14.58435
+LAURENT erreur de calcul de temps 326.79544 with speed 13.77001
+LAURENT retry: 326.79544 with speed 13.77001
+LAURENT erreur de calcul de temps 258.91754 with speed 13.03479
+LAURENT retry: 258.91754 with speed 13.03479
+LAURENT erreur de calcul de temps 232.40787 with speed 12.44734
+LAURENT retry: 232.40787 with speed 12.44734
+LAURENT erreur de calcul de temps 188.35233 with speed 11.94006
+LAURENT retry: 188.35233 with speed 11.94006
+LAURENT erreur de calcul de temps 581.09637 with speed 20.85546
+LAURENT retry: 581.09637 with speed 20.85546
+LAURENT erreur de calcul de temps 589.69495 with speed 20.35546
+LAURENT retry: 589.69495 with speed 20.35546
+LAURENT erreur de calcul de temps 664.33032 with speed 20.49721
+LAURENT retry: 664.33032 with speed 20.49721
+LAURENT erreur de calcul de temps 695.97900 with speed 19.98178
+LAURENT retry: 695.97900 with speed 19.98178
+LAURENT erreur de calcul de temps 653.09247 with speed 19.12357
+LAURENT retry: 653.09247 with speed 19.12357
+LAURENT erreur de calcul de temps 634.59631 with speed 18.30644
+LAURENT retry: 634.59631 with speed 18.30644
+LAURENT erreur de calcul de temps 561.60706 with speed 17.59294
+LAURENT retry: 561.60706 with speed 17.59294
+LAURENT erreur de calcul de temps 515.78113 with speed 16.84294
+LAURENT retry: 515.78113 with speed 16.84294
+LAURENT erreur de calcul de temps 468.94412 with speed 16.09294
+LAURENT retry: 468.94412 with speed 16.09294
+LAURENT erreur de calcul de temps 421.50238 with speed 15.34293
+LAURENT retry: 421.50238 with speed 15.34293
+LAURENT erreur de calcul de temps 369.64230 with speed 14.49294
+LAURENT retry: 369.64230 with speed 14.49294
+LAURENT erreur de calcul de temps 325.52078 with speed 13.72653
+LAURENT retry: 325.52078 with speed 13.72653
+LAURENT erreur de calcul de temps 258.02448 with speed 12.98982
+LAURENT retry: 258.02448 with speed 12.98982
+LAURENT erreur de calcul de temps 241.93216 with speed 12.42050
+LAURENT retry: 241.93216 with speed 12.42050
+LAURENT erreur de calcul de temps 180.45384 with speed 11.90093
+LAURENT retry: 180.45384 with speed 11.90093
+LAURENT erreur de calcul de temps 166.22099 with speed 11.47341
+LAURENT retry: 166.22099 with speed 11.47341
+LAURENT erreur de calcul de temps 572.64880 with speed 20.69636
+LAURENT retry: 572.64880 with speed 20.69636
+LAURENT erreur de calcul de temps 593.95819 with speed 20.23177
+LAURENT retry: 593.95819 with speed 20.23177
+LAURENT erreur de calcul de temps 578.89044 with speed 19.88421
+LAURENT retry: 578.89044 with speed 19.88421
+LAURENT erreur de calcul de temps 652.02667 with speed 20.29997
+LAURENT retry: 652.02667 with speed 20.29997
+LAURENT erreur de calcul de temps 681.59802 with speed 19.86736
+LAURENT retry: 681.59802 with speed 19.86736
+LAURENT erreur de calcul de temps 656.56500 with speed 19.06491
+LAURENT retry: 656.56500 with speed 19.06491
+LAURENT erreur de calcul de temps 635.06323 with speed 18.25627
+LAURENT retry: 635.06323 with speed 18.25627
+LAURENT erreur de calcul de temps 560.63080 with speed 17.56054
+LAURENT retry: 560.63080 with speed 17.56054
+LAURENT erreur de calcul de temps 515.08240 with speed 16.81129
+LAURENT retry: 515.08240 with speed 16.81129
+LAURENT erreur de calcul de temps 467.92422 with speed 16.07857
+LAURENT retry: 467.92422 with speed 16.07857
+LAURENT erreur de calcul de temps 420.81186 with speed 15.32857
+LAURENT retry: 420.81186 with speed 15.32857
+LAURENT erreur de calcul de temps 374.68457 with speed 14.49946
+LAURENT retry: 374.68457 with speed 14.49946
+LAURENT erreur de calcul de temps 323.07855 with speed 13.74584
+LAURENT retry: 323.07855 with speed 13.74584
+LAURENT erreur de calcul de temps 264.17108 with speed 13.01236
+LAURENT retry: 264.17108 with speed 13.01236
+LAURENT erreur de calcul de temps 240.45561 with speed 12.45372
+LAURENT retry: 240.45561 with speed 12.45372
+LAURENT erreur de calcul de temps 182.57750 with speed 11.90874
+LAURENT retry: 182.57750 with speed 11.90874
+LAURENT erreur de calcul de temps 165.17700 with speed 11.50874
+LAURENT retry: 165.17700 with speed 11.50874
+LAURENT erreur de calcul de temps 608.05200 with speed 20.10095
+LAURENT retry: 608.05200 with speed 20.10095
+LAURENT erreur de calcul de temps 585.25623 with speed 19.61251
+LAURENT retry: 585.25623 with speed 19.61251
+LAURENT erreur de calcul de temps 637.88391 with speed 20.03552
+LAURENT retry: 637.88391 with speed 20.03552
+LAURENT erreur de calcul de temps 661.01196 with speed 19.68019
+LAURENT retry: 661.01196 with speed 19.68019
+LAURENT erreur de calcul de temps 662.87305 with speed 19.01862
+LAURENT retry: 662.87305 with speed 19.01862
+LAURENT erreur de calcul de temps 614.67621 with speed 18.18727
+LAURENT retry: 614.67621 with speed 18.18727
+LAURENT erreur de calcul de temps 538.89471 with speed 17.48697
+LAURENT retry: 538.89471 with speed 17.48697
+LAURENT erreur de calcul de temps 513.04602 with speed 16.75682
+LAURENT retry: 513.04602 with speed 16.75682
+LAURENT erreur de calcul de temps 466.60538 with speed 16.06953
+LAURENT retry: 466.60538 with speed 16.06953
+LAURENT erreur de calcul de temps 418.69098 with speed 15.31954
+LAURENT retry: 418.69098 with speed 15.31954
+LAURENT erreur de calcul de temps 382.91833 with speed 14.54405
+LAURENT retry: 382.91833 with speed 14.54405
+LAURENT erreur de calcul de temps 323.45493 with speed 13.78225
+LAURENT retry: 323.45493 with speed 13.78225
+LAURENT erreur de calcul de temps 263.21344 with speed 13.07511
+LAURENT retry: 263.21344 with speed 13.07511
+LAURENT erreur de calcul de temps 230.02263 with speed 12.49375
+LAURENT retry: 230.02263 with speed 12.49375
+LAURENT erreur de calcul de temps 190.83951 with speed 11.96331
+LAURENT retry: 190.83951 with speed 11.96331
+LAURENT erreur de calcul de temps 611.36206 with speed 20.16895
+LAURENT retry: 611.36206 with speed 20.16895
+LAURENT erreur de calcul de temps 590.58923 with speed 19.70168
+LAURENT retry: 590.58923 with speed 19.70168
+LAURENT erreur de calcul de temps 644.96625 with speed 20.11248
+LAURENT retry: 644.96625 with speed 20.11248
+LAURENT erreur de calcul de temps 671.14294 with speed 19.76692
+LAURENT retry: 671.14294 with speed 19.76692
+LAURENT erreur de calcul de temps 672.04022 with speed 19.08419
+LAURENT retry: 672.04022 with speed 19.08419
+LAURENT erreur de calcul de temps 623.84351 with speed 18.25863
+LAURENT retry: 623.84351 with speed 18.25863
+LAURENT erreur de calcul de temps 545.07410 with speed 17.54475
+LAURENT retry: 545.07410 with speed 17.54475
+LAURENT erreur de calcul de temps 515.43811 with speed 16.81492
+LAURENT retry: 515.43811 with speed 16.81492
+LAURENT erreur de calcul de temps 469.84720 with speed 16.11605
+LAURENT retry: 469.84720 with speed 16.11605
+LAURENT erreur de calcul de temps 420.10889 with speed 15.36605
+LAURENT retry: 420.10889 with speed 15.36605
+LAURENT erreur de calcul de temps 386.68399 with speed 14.58646
+LAURENT retry: 386.68399 with speed 14.58646
+LAURENT erreur de calcul de temps 324.74637 with speed 13.81719
+LAURENT retry: 324.74637 with speed 13.81719
+LAURENT erreur de calcul de temps 266.87808 with speed 13.09815
+LAURENT retry: 266.87808 with speed 13.09815
+LAURENT erreur de calcul de temps 232.57739 with speed 12.52259
+LAURENT retry: 232.57739 with speed 12.52259
+LAURENT erreur de calcul de temps 190.37318 with speed 11.97888
+LAURENT retry: 190.37318 with speed 11.97888
+LAURENT erreur de calcul de temps 598.24005 with speed 19.98520
+LAURENT retry: 598.24005 with speed 19.98520
+LAURENT erreur de calcul de temps 587.58057 with speed 19.39163
+LAURENT retry: 587.58057 with speed 19.39163
+LAURENT erreur de calcul de temps 644.38623 with speed 19.49631
+LAURENT retry: 644.38623 with speed 19.49631
+LAURENT erreur de calcul de temps 646.08716 with speed 18.96070
+LAURENT retry: 646.08716 with speed 18.96070
+LAURENT erreur de calcul de temps 599.33594 with speed 18.11928
+LAURENT retry: 599.33594 with speed 18.11928
+LAURENT erreur de calcul de temps 525.29797 with speed 17.40755
+LAURENT retry: 525.29797 with speed 17.40755
+LAURENT erreur de calcul de temps 510.99518 with speed 16.71928
+LAURENT retry: 510.99518 with speed 16.71928
+LAURENT erreur de calcul de temps 467.60767 with speed 16.06928
+LAURENT retry: 467.60767 with speed 16.06928
+LAURENT erreur de calcul de temps 418.52615 with speed 15.32459
+LAURENT retry: 418.52615 with speed 15.32459
+LAURENT erreur de calcul de temps 369.32339 with speed 14.57459
+LAURENT retry: 369.32339 with speed 14.57459
+LAURENT erreur de calcul de temps 322.70935 with speed 13.82927
+LAURENT retry: 322.70935 with speed 13.82927
+LAURENT erreur de calcul de temps 255.92740 with speed 13.11816
+LAURENT retry: 255.92740 with speed 13.11816
+LAURENT erreur de calcul de temps 219.79437 with speed 12.51816
+LAURENT retry: 219.79437 with speed 12.51816
+LAURENT erreur de calcul de temps 187.44669 with speed 12.02019
+LAURENT retry: 187.44669 with speed 12.02019
+LAURENT erreur de calcul de temps 149.89030 with speed 11.60705
+LAURENT retry: 149.89030 with speed 11.60705
+LAURENT erreur de calcul de temps 134.70898 with speed 11.12347
+LAURENT retry: 134.70898 with speed 11.12347
+LAURENT erreur de calcul de temps 108.91919 with speed 10.72285
+LAURENT retry: 108.91919 with speed 10.72285
+LAURENT erreur de calcul de temps 86.58541 with speed 10.22347
+LAURENT retry: 86.58541 with speed 10.22347
+LAURENT erreur de calcul de temps 64.92188 with speed 9.72347
+LAURENT retry: 64.92188 with speed 9.72347
+LAURENT erreur de calcul de temps 45.66616 with speed 9.12674
+LAURENT retry: 45.66616 with speed 9.12674
+LAURENT erreur de calcul de temps 583.55261 with speed 19.92337
+LAURENT retry: 583.55261 with speed 19.92337
+LAURENT erreur de calcul de temps 590.92657 with speed 19.33956
+LAURENT retry: 590.92657 with speed 19.33956
+LAURENT erreur de calcul de temps 640.36127 with speed 19.45363
+LAURENT retry: 640.36127 with speed 19.45363
+LAURENT erreur de calcul de temps 642.52118 with speed 18.95463
+LAURENT retry: 642.52118 with speed 18.95463
+LAURENT erreur de calcul de temps 603.30463 with speed 18.14859
+LAURENT retry: 603.30463 with speed 18.14859
+LAURENT erreur de calcul de temps 526.33746 with speed 17.40919
+LAURENT retry: 526.33746 with speed 17.40919
+LAURENT erreur de calcul de temps 512.85248 with speed 16.74859
+LAURENT retry: 512.85248 with speed 16.74859
+LAURENT erreur de calcul de temps 468.20862 with speed 16.09859
+LAURENT retry: 468.20862 with speed 16.09859
+LAURENT erreur de calcul de temps 418.91324 with speed 15.37179
+LAURENT retry: 418.91324 with speed 15.37179
+LAURENT erreur de calcul de temps 369.92480 with speed 14.62179
+LAURENT retry: 369.92480 with speed 14.62179
+LAURENT erreur de calcul de temps 317.06061 with speed 13.88586
+LAURENT retry: 317.06061 with speed 13.88586
+LAURENT erreur de calcul de temps 255.60216 with speed 13.15560
+LAURENT retry: 255.60216 with speed 13.15560
+LAURENT erreur de calcul de temps 217.82574 with speed 12.55560
+LAURENT retry: 217.82574 with speed 12.55560
+LAURENT erreur de calcul de temps 183.58766 with speed 12.05806
+LAURENT retry: 183.58766 with speed 12.05806
+LAURENT erreur de calcul de temps 148.63600 with speed 11.62534
+LAURENT retry: 148.63600 with speed 11.62534
+LAURENT erreur de calcul de temps 131.97200 with speed 11.17881
+LAURENT retry: 131.97200 with speed 11.17881
+LAURENT erreur de calcul de temps 104.26224 with speed 10.76966
+LAURENT retry: 104.26224 with speed 10.76966
+LAURENT erreur de calcul de temps 84.27519 with speed 10.27881
+LAURENT retry: 84.27519 with speed 10.27881
+LAURENT erreur de calcul de temps 62.64511 with speed 9.77881
+LAURENT retry: 62.64511 with speed 9.77881
+LAURENT erreur de calcul de temps 43.98671 with speed 9.19955
+LAURENT retry: 43.98671 with speed 9.19955
+LAURENT erreur de calcul de temps 594.67853 with speed 19.99040
+LAURENT retry: 594.67853 with speed 19.99040
+LAURENT erreur de calcul de temps 606.73749 with speed 19.44638
+LAURENT retry: 606.73749 with speed 19.44638
+LAURENT erreur de calcul de temps 651.91077 with speed 19.54835
+LAURENT retry: 651.91077 with speed 19.54835
+LAURENT erreur de calcul de temps 638.33636 with speed 19.05911
+LAURENT retry: 638.33636 with speed 19.05911
+LAURENT erreur de calcul de temps 611.43579 with speed 18.25915
+LAURENT retry: 611.43579 with speed 18.25915
+LAURENT erreur de calcul de temps 552.02441 with speed 17.50915
+LAURENT retry: 552.02441 with speed 17.50915
+LAURENT erreur de calcul de temps 518.35974 with speed 16.85915
+LAURENT retry: 518.35974 with speed 16.85915
+LAURENT erreur de calcul de temps 452.95938 with speed 16.19337
+LAURENT retry: 452.95938 with speed 16.19337
+LAURENT erreur de calcul de temps 423.72211 with speed 15.47481
+LAURENT retry: 423.72211 with speed 15.47481
+LAURENT erreur de calcul de temps 373.53406 with speed 14.72481
+LAURENT retry: 373.53406 with speed 14.72481
+LAURENT erreur de calcul de temps 319.90656 with speed 13.97971
+LAURENT retry: 319.90656 with speed 13.97971
+LAURENT erreur de calcul de temps 279.73712 with speed 13.24048
+LAURENT retry: 279.73712 with speed 13.24048
+LAURENT erreur de calcul de temps 218.24695 with speed 12.62176
+LAURENT retry: 218.24695 with speed 12.62176
+LAURENT erreur de calcul de temps 186.47372 with speed 12.12176
+LAURENT retry: 186.47372 with speed 12.12176
+LAURENT erreur de calcul de temps 147.90147 with speed 11.66381
+LAURENT retry: 147.90147 with speed 11.66381
+LAURENT erreur de calcul de temps 131.43124 with speed 11.23743
+LAURENT retry: 131.43124 with speed 11.23743
+LAURENT erreur de calcul de temps 103.89573 with speed 10.82666
+LAURENT retry: 103.89573 with speed 10.82666
+LAURENT erreur de calcul de temps 81.93850 with speed 10.33743
+LAURENT retry: 81.93850 with speed 10.33743
+LAURENT erreur de calcul de temps 60.46166 with speed 9.83743
+LAURENT retry: 60.46166 with speed 9.83743
+LAURENT erreur de calcul de temps 46.31114 with speed 9.26887
+LAURENT retry: 46.31114 with speed 9.26887
+LAURENT erreur de calcul de temps 590.96429 with speed 19.89715
+LAURENT retry: 590.96429 with speed 19.89715
+LAURENT erreur de calcul de temps 607.03009 with speed 19.34504
+LAURENT retry: 607.03009 with speed 19.34504
+LAURENT erreur de calcul de temps 642.19934 with speed 19.44530
+LAURENT retry: 642.19934 with speed 19.44530
+LAURENT erreur de calcul de temps 627.35577 with speed 18.97179
+LAURENT retry: 627.35577 with speed 18.97179
+LAURENT erreur de calcul de temps 609.86560 with speed 18.21743
+LAURENT retry: 609.86560 with speed 18.21743
+LAURENT erreur de calcul de temps 556.88776 with speed 17.46743
+LAURENT retry: 556.88776 with speed 17.46743
+LAURENT erreur de calcul de temps 516.02344 with speed 16.81743
+LAURENT retry: 516.02344 with speed 16.81743
+LAURENT erreur de calcul de temps 450.93384 with speed 16.15154
+LAURENT retry: 450.93384 with speed 16.15154
+LAURENT erreur de calcul de temps 420.91650 with speed 15.45292
+LAURENT retry: 420.91650 with speed 15.45292
+LAURENT erreur de calcul de temps 372.45734 with speed 14.70292
+LAURENT retry: 372.45734 with speed 14.70292
+LAURENT erreur de calcul de temps 314.10309 with speed 13.96193
+LAURENT retry: 314.10309 with speed 13.96193
+LAURENT erreur de calcul de temps 279.20078 with speed 13.23842
+LAURENT retry: 279.20078 with speed 13.23842
+LAURENT erreur de calcul de temps 217.84865 with speed 12.61378
+LAURENT retry: 217.84865 with speed 12.61378
+LAURENT erreur de calcul de temps 186.20102 with speed 12.11378
+LAURENT retry: 186.20102 with speed 12.11378
+LAURENT erreur de calcul de temps 148.01266 with speed 11.66564
+LAURENT retry: 148.01266 with speed 11.66564
+LAURENT erreur de calcul de temps 131.36406 with speed 11.24928
+LAURENT retry: 131.36406 with speed 11.24928
+LAURENT erreur de calcul de temps 101.83928 with speed 10.82278
+LAURENT retry: 101.83928 with speed 10.82278
+LAURENT erreur de calcul de temps 81.91904 with speed 10.34928
+LAURENT retry: 81.91904 with speed 10.34928
+LAURENT erreur de calcul de temps 60.41611 with speed 9.84928
+LAURENT retry: 60.41611 with speed 9.84928
+LAURENT erreur de calcul de temps 42.97223 with speed 9.30067
+LAURENT retry: 42.97223 with speed 9.30067
+LAURENT erreur de calcul de temps 602.02844 with speed 19.98903
+LAURENT retry: 602.02844 with speed 19.98903
+LAURENT erreur de calcul de temps 619.49469 with speed 19.48619
+LAURENT retry: 619.49469 with speed 19.48619
+LAURENT erreur de calcul de temps 651.81635 with speed 19.56593
+LAURENT retry: 651.81635 with speed 19.56593
+LAURENT erreur de calcul de temps 635.17291 with speed 19.09637
+LAURENT retry: 635.17291 with speed 19.09637
+LAURENT erreur de calcul de temps 624.44348 with speed 18.35313
+LAURENT retry: 624.44348 with speed 18.35313
+LAURENT erreur de calcul de temps 568.69971 with speed 17.59855
+LAURENT retry: 568.69971 with speed 17.59855
+LAURENT erreur de calcul de temps 523.36597 with speed 16.94855
+LAURENT retry: 523.36597 with speed 16.94855
+LAURENT erreur de calcul de temps 450.78378 with speed 16.25552
+LAURENT retry: 450.78378 with speed 16.25552
+LAURENT erreur de calcul de temps 423.47690 with speed 15.57028
+LAURENT retry: 423.47690 with speed 15.57028
+LAURENT erreur de calcul de temps 374.32098 with speed 14.82166
+LAURENT retry: 374.32098 with speed 14.82166
+LAURENT erreur de calcul de temps 321.10754 with speed 14.07166
+LAURENT retry: 321.10754 with speed 14.07166
+LAURENT erreur de calcul de temps 279.82593 with speed 13.34477
+LAURENT retry: 279.82593 with speed 13.34477
+LAURENT erreur de calcul de temps 224.57996 with speed 12.69477
+LAURENT retry: 224.57996 with speed 12.69477
+LAURENT erreur de calcul de temps 184.93439 with speed 12.18881
+LAURENT retry: 184.93439 with speed 12.18881
+LAURENT erreur de calcul de temps 150.94699 with speed 11.71192
+LAURENT retry: 150.94699 with speed 11.71192
+LAURENT erreur de calcul de temps 128.61389 with speed 11.31192
+LAURENT retry: 128.61389 with speed 11.31192
+LAURENT erreur de calcul de temps 97.56287 with speed 10.88423
+LAURENT retry: 97.56287 with speed 10.88423
+LAURENT erreur de calcul de temps 79.61167 with speed 10.41192
+LAURENT retry: 79.61167 with speed 10.41192
+LAURENT erreur de calcul de temps 58.11882 with speed 9.91192
+LAURENT retry: 58.11882 with speed 9.91192
+LAURENT erreur de calcul de temps 620.12061 with speed 20.14184
+LAURENT retry: 620.12061 with speed 20.14184
+LAURENT erreur de calcul de temps 632.59924 with speed 19.68411
+LAURENT retry: 632.59924 with speed 19.68411
+LAURENT erreur de calcul de temps 657.61853 with speed 19.74176
+LAURENT retry: 657.61853 with speed 19.74176
+LAURENT erreur de calcul de temps 649.88831 with speed 19.28411
+LAURENT retry: 649.88831 with speed 19.28411
+LAURENT erreur de calcul de temps 674.22266 with speed 18.56871
+LAURENT retry: 674.22266 with speed 18.56871
+LAURENT erreur de calcul de temps 580.20776 with speed 17.77650
+LAURENT retry: 580.20776 with speed 17.77650
+LAURENT erreur de calcul de temps 532.97833 with speed 17.12650
+LAURENT retry: 532.97833 with speed 17.12650
+LAURENT erreur de calcul de temps 451.32040 with speed 16.38433
+LAURENT retry: 451.32040 with speed 16.38433
+LAURENT erreur de calcul de temps 431.58838 with speed 15.72655
+LAURENT retry: 431.58838 with speed 15.72655
+LAURENT erreur de calcul de temps 379.79996 with speed 14.97658
+LAURENT retry: 379.79996 with speed 14.97658
+LAURENT erreur de calcul de temps 329.15762 with speed 14.22658
+LAURENT retry: 329.15762 with speed 14.22658
+LAURENT erreur de calcul de temps 282.30280 with speed 13.47665
+LAURENT retry: 282.30280 with speed 13.47665
+LAURENT erreur de calcul de temps 240.11890 with speed 12.82665
+LAURENT retry: 240.11890 with speed 12.82665
+LAURENT erreur de calcul de temps 183.78148 with speed 12.28441
+LAURENT retry: 183.78148 with speed 12.28441
+LAURENT erreur de calcul de temps 154.54048 with speed 11.78448
+LAURENT retry: 154.54048 with speed 11.78448
+LAURENT erreur de calcul de temps 125.94999 with speed 11.38448
+LAURENT retry: 125.94999 with speed 11.38448
+LAURENT erreur de calcul de temps 93.76376 with speed 10.94220
+LAURENT retry: 93.76376 with speed 10.94220
+LAURENT erreur de calcul de temps 77.40488 with speed 10.48448
+LAURENT retry: 77.40488 with speed 10.48448
+LAURENT erreur de calcul de temps 53.67955 with speed 9.98448
+LAURENT retry: 53.67955 with speed 9.98448
+LAURENT erreur de calcul de temps 179.91119 with speed 11.70346
+LAURENT retry: 179.91119 with speed 11.70346
+LAURENT erreur de calcul de temps 151.87775 with speed 11.05605
+LAURENT retry: 151.87775 with speed 11.05605
+LAURENT erreur de calcul de temps 179.91309 with speed 11.70025
+LAURENT retry: 179.91309 with speed 11.70025
+LAURENT erreur de calcul de temps 175.82899 with speed 11.58743
+LAURENT retry: 175.82899 with speed 11.58743
+LAURENT erreur de calcul de temps 180.94917 with speed 11.70209
+LAURENT retry: 180.94917 with speed 11.70209
+LAURENT erreur de calcul de temps 3.03966 with speed 14.14363
+LAURENT retry: 3.03966 with speed 14.14363
+LAURENT erreur de calcul de temps 3.03130 with speed 14.65360
+LAURENT retry: 3.03130 with speed 14.65360
+LAURENT erreur de calcul de temps 3.03129 with speed 14.52932
+LAURENT retry: 3.03129 with speed 14.52932
+LAURENT erreur de calcul de temps 3.04165 with speed 14.82952
+LAURENT retry: 3.04165 with speed 14.82952
+LAURENT erreur de calcul de temps 3.03663 with speed 14.63922
+LAURENT retry: 3.03663 with speed 14.63922
+LAURENT erreur de calcul de temps 3.03431 with speed 14.75309
+LAURENT retry: 3.03431 with speed 14.75309
+LAURENT erreur de calcul de temps 3.03434 with speed 14.95903
+LAURENT retry: 3.03434 with speed 14.95903
+LAURENT erreur de calcul de temps 3.03586 with speed 15.09517
+LAURENT retry: 3.03586 with speed 15.09517
+LAURENT erreur de calcul de temps 3.03107 with speed 14.86062
+LAURENT retry: 3.03107 with speed 14.86062
+LAURENT erreur de calcul de temps 3.03856 with speed 15.09448
+LAURENT retry: 3.03856 with speed 15.09448
+LAURENT erreur de calcul de temps 3.03397 with speed 15.23720
+LAURENT retry: 3.03397 with speed 15.23720
+LAURENT erreur de calcul de temps 3.03084 with speed 14.93328
+LAURENT retry: 3.03084 with speed 14.93328
+LAURENT erreur de calcul de temps 3.03572 with speed 15.21734
+LAURENT retry: 3.03572 with speed 15.21734
+LAURENT erreur de calcul de temps 23448.39844 with speed 7.81635
+LAURENT retry: 23448.39844 with speed 7.81635
+LAURENT erreur de calcul de temps 3.03105 with speed 14.87203
+LAURENT retry: 3.03105 with speed 14.87203
+LAURENT erreur de calcul de temps 3.03852 with speed 15.12236
+LAURENT retry: 3.03852 with speed 15.12236
+LAURENT erreur de calcul de temps 3.03299 with speed 15.30112
+LAURENT retry: 3.03299 with speed 15.30112
+LAURENT erreur de calcul de temps 3.03335 with speed 14.81334
+LAURENT retry: 3.03335 with speed 14.81334
+LAURENT erreur de calcul de temps 3.04143 with speed 15.03235
+LAURENT retry: 3.04143 with speed 15.03235
+LAURENT erreur de calcul de temps 3.03332 with speed 15.18038
+LAURENT retry: 3.03332 with speed 15.18038
+LAURENT erreur de calcul de temps 3.03601 with speed 14.76411
+LAURENT retry: 3.03601 with speed 14.76411
+LAURENT erreur de calcul de temps 3.03946 with speed 14.96344
+LAURENT retry: 3.03946 with speed 14.96344
+LAURENT erreur de calcul de temps 3.03340 with speed 15.11406
+LAURENT retry: 3.03340 with speed 15.11406
+LAURENT erreur de calcul de temps 3.04112 with speed 14.58830
+LAURENT retry: 3.04112 with speed 14.58830
+LAURENT erreur de calcul de temps 3.04122 with speed 14.68229
+LAURENT retry: 3.04122 with speed 14.68229
+LAURENT erreur de calcul de temps 3.04120 with speed 14.87919
+LAURENT retry: 3.04120 with speed 14.87919
+LAURENT erreur de calcul de temps 3.03355 with speed 15.03520
+LAURENT retry: 3.03355 with speed 15.03520
+LAURENT erreur de calcul de temps 3.03147 with speed 14.65593
+LAURENT retry: 3.03147 with speed 14.65593
+LAURENT erreur de calcul de temps 3.04088 with speed 14.84297
+LAURENT retry: 3.04088 with speed 14.84297
+LAURENT erreur de calcul de temps 3.03113 with speed 14.50345
+LAURENT retry: 3.03113 with speed 14.50345
+LAURENT erreur de calcul de temps 3.03810 with speed 14.78644
+LAURENT retry: 3.03810 with speed 14.78644
+LAURENT erreur de calcul de temps 3.03117 with speed 14.45296
+LAURENT retry: 3.03117 with speed 14.45296
+LAURENT erreur de calcul de temps 3.03963 with speed 14.57014
+LAURENT retry: 3.03963 with speed 14.57014
+LAURENT erreur de calcul de temps 3.03848 with speed 14.73549
+LAURENT retry: 3.03848 with speed 14.73549
+LAURENT erreur de calcul de temps 3.03876 with speed 14.68264
+LAURENT retry: 3.03876 with speed 14.68264
+LAURENT erreur de calcul de temps 3.03784 with speed 14.66050
+LAURENT retry: 3.03784 with speed 14.66050
+LAURENT erreur de calcul de temps 3.03785 with speed 14.16643
+LAURENT retry: 3.03785 with speed 14.16643
+LAURENT erreur de calcul de temps 3.03004 with speed 14.61343
+LAURENT retry: 3.03004 with speed 14.61343
+LAURENT erreur de calcul de temps 3.03121 with speed 14.69410
+LAURENT retry: 3.03121 with speed 14.69410
+LAURENT erreur de calcul de temps 3.03940 with speed 14.76823
+LAURENT retry: 3.03940 with speed 14.76823
+LAURENT erreur de calcul de temps 3.03823 with speed 14.83426
+LAURENT retry: 3.03823 with speed 14.83426
+LAURENT erreur de calcul de temps 3.03050 with speed 14.71358
+LAURENT retry: 3.03050 with speed 14.71358
+LAURENT erreur de calcul de temps 3.03704 with speed 14.91650
+LAURENT retry: 3.03704 with speed 14.91650
+LAURENT erreur de calcul de temps 3.03170 with speed 14.78933
+LAURENT retry: 3.03170 with speed 14.78933
+LAURENT erreur de calcul de temps 3.03587 with speed 14.97104
+LAURENT retry: 3.03587 with speed 14.97104
+LAURENT erreur de calcul de temps 3.03295 with speed 14.86788
+LAURENT retry: 3.03295 with speed 14.86788
+LAURENT erreur de calcul de temps 3.03360 with speed 15.02349
+LAURENT retry: 3.03360 with speed 15.02349
+LAURENT erreur de calcul de temps 3.04132 with speed 14.93366
+LAURENT retry: 3.04132 with speed 14.93366
+LAURENT erreur de calcul de temps 3.03159 with speed 15.06554
+LAURENT retry: 3.03159 with speed 15.06554
+LAURENT erreur de calcul de temps 3.04079 with speed 15.01596
+LAURENT retry: 3.04079 with speed 15.01596
+LAURENT erreur de calcul de temps 3.03075 with speed 15.12094
+LAURENT retry: 3.03075 with speed 15.12094
+LAURENT erreur de calcul de temps 3.04107 with speed 15.09491
+LAURENT retry: 3.04107 with speed 15.09491
+LAURENT erreur de calcul de temps 3.04135 with speed 15.17247
+LAURENT retry: 3.04135 with speed 15.17247
+LAURENT erreur de calcul de temps 3.04149 with speed 15.24838
+LAURENT retry: 3.04149 with speed 15.24838
+LAURENT erreur de calcul de temps 3.04107 with speed 15.32178
+LAURENT retry: 3.04107 with speed 15.32178
+LAURENT erreur de calcul de temps 3.04026 with speed 15.21928
+LAURENT retry: 3.04026 with speed 15.21928
+LAURENT erreur de calcul de temps 3.03922 with speed 15.04241
+LAURENT retry: 3.03922 with speed 15.04241
+LAURENT erreur de calcul de temps 3.03868 with speed 14.84756
+LAURENT retry: 3.03868 with speed 14.84756
+LAURENT erreur de calcul de temps 3.03741 with speed 14.63465
+LAURENT retry: 3.03741 with speed 14.63465
+LAURENT erreur de calcul de temps 3.03573 with speed 14.45483
+LAURENT retry: 3.03573 with speed 14.45483
+LAURENT erreur de calcul de temps 3.03404 with speed 14.16404
+LAURENT retry: 3.03404 with speed 14.16404
+LAURENT erreur de calcul de temps 3.03312 with speed 13.98428
+LAURENT retry: 3.03312 with speed 13.98428
+LAURENT erreur de calcul de temps 3.03211 with speed 13.80111
+LAURENT retry: 3.03211 with speed 13.80111
+LAURENT erreur de calcul de temps 3.03060 with speed 13.49105
+LAURENT retry: 3.03060 with speed 13.49105
+LAURENT erreur de calcul de temps 22382.97852 with speed 7.46110
+LAURENT retry: 22382.97852 with speed 7.46110
+LAURENT erreur de calcul de temps 20844.48047 with speed 6.94798
+LAURENT retry: 20844.48047 with speed 6.94798
+LAURENT erreur de calcul de temps 459.08783 with speed 21.92644
+LAURENT retry: 459.08783 with speed 21.92644
+LAURENT erreur de calcul de temps 524.71674 with speed 21.28781
+LAURENT retry: 524.71674 with speed 21.28781
+LAURENT erreur de calcul de temps 534.09924 with speed 20.36246
+LAURENT retry: 534.09924 with speed 20.36246
+LAURENT erreur de calcul de temps 518.28864 with speed 19.34065
+LAURENT retry: 518.28864 with speed 19.34065
+LAURENT erreur de calcul de temps 475.79053 with speed 18.44817
+LAURENT retry: 475.79053 with speed 18.44817
+LAURENT erreur de calcul de temps 462.42410 with speed 17.67459
+LAURENT retry: 462.42410 with speed 17.67459
+LAURENT erreur de calcul de temps 438.94067 with speed 16.82459
+LAURENT retry: 438.94067 with speed 16.82459
+LAURENT erreur de calcul de temps 440.35880 with speed 16.00705
+LAURENT retry: 440.35880 with speed 16.00705
+LAURENT erreur de calcul de temps 421.19943 with speed 15.19348
+LAURENT retry: 421.19943 with speed 15.19348
+LAURENT erreur de calcul de temps 387.98074 with speed 14.29348
+LAURENT retry: 387.98074 with speed 14.29348
+LAURENT erreur de calcul de temps 321.40134 with speed 13.50101
+LAURENT retry: 321.40134 with speed 13.50101
+LAURENT erreur de calcul de temps 531.27765 with speed 21.40643
+LAURENT retry: 531.27765 with speed 21.40643
+LAURENT erreur de calcul de temps 535.53180 with speed 20.48065
+LAURENT retry: 535.53180 with speed 20.48065
+LAURENT erreur de calcul de temps 525.21442 with speed 19.45486
+LAURENT retry: 525.21442 with speed 19.45486
+LAURENT erreur de calcul de temps 508.73111 with speed 18.55486
+LAURENT retry: 508.73111 with speed 18.55486
+LAURENT erreur de calcul de temps 467.75128 with speed 17.75970
+LAURENT retry: 467.75128 with speed 17.75970
+LAURENT erreur de calcul de temps 451.97562 with speed 16.91470
+LAURENT retry: 451.97562 with speed 16.91470
+LAURENT erreur de calcul de temps 445.41754 with speed 16.11119
+LAURENT retry: 445.41754 with speed 16.11119
+LAURENT erreur de calcul de temps 402.57452 with speed 15.28891
+LAURENT retry: 402.57452 with speed 15.28891
+LAURENT erreur de calcul de temps 393.01941 with speed 14.40329
+LAURENT retry: 393.01941 with speed 14.40329
+LAURENT erreur de calcul de temps 458.05661 with speed 21.94204
+LAURENT retry: 458.05661 with speed 21.94204
+LAURENT erreur de calcul de temps 541.57196 with speed 21.44490
+LAURENT retry: 541.57196 with speed 21.44490
+LAURENT erreur de calcul de temps 544.73340 with speed 20.52247
+LAURENT retry: 544.73340 with speed 20.52247
+LAURENT erreur de calcul de temps 533.50354 with speed 19.50004
+LAURENT retry: 533.50354 with speed 19.50004
+LAURENT erreur de calcul de temps 521.09338 with speed 18.60004
+LAURENT retry: 521.09338 with speed 18.60004
+LAURENT erreur de calcul de temps 473.05362 with speed 17.79442
+LAURENT retry: 473.05362 with speed 17.79442
+LAURENT erreur de calcul de temps 456.24005 with speed 16.95186
+LAURENT retry: 456.24005 with speed 16.95186
+LAURENT erreur de calcul de temps 452.03763 with speed 16.15895
+LAURENT retry: 452.03763 with speed 16.15895
+LAURENT erreur de calcul de temps 403.06506 with speed 15.32943
+LAURENT retry: 403.06506 with speed 15.32943
+LAURENT erreur de calcul de temps 397.31183 with speed 14.45517
+LAURENT retry: 397.31183 with speed 14.45517
+LAURENT erreur de calcul de temps 328.70486 with speed 13.62199
+LAURENT retry: 328.70486 with speed 13.62199
+LAURENT erreur de calcul de temps 277.09924 with speed 12.88503
+LAURENT retry: 277.09924 with speed 12.88503
+LAURENT erreur de calcul de temps 250.63623 with speed 12.27381
+LAURENT retry: 250.63623 with speed 12.27381
+LAURENT erreur de calcul de temps 225.29741 with speed 11.76637
+LAURENT retry: 225.29741 with speed 11.76637
+LAURENT erreur de calcul de temps 202.53819 with speed 11.26637
+LAURENT retry: 202.53819 with speed 11.26637
+LAURENT erreur de calcul de temps 182.98077 with speed 10.86637
+LAURENT retry: 182.98077 with speed 10.86637
+LAURENT erreur de calcul de temps 305.72827 with speed 21.68199
+LAURENT retry: 305.72827 with speed 21.68199
+LAURENT erreur de calcul de temps 459.60464 with speed 21.93856
+LAURENT retry: 459.60464 with speed 21.93856
+LAURENT erreur de calcul de temps 543.15527 with speed 21.41940
+LAURENT retry: 543.15527 with speed 21.41940
+LAURENT erreur de calcul de temps 545.12915 with speed 20.49731
+LAURENT retry: 545.12915 with speed 20.49731
+LAURENT erreur de calcul de temps 533.48541 with speed 19.47522
+LAURENT retry: 533.48541 with speed 19.47522
+LAURENT erreur de calcul de temps 520.68365 with speed 18.57522
+LAURENT retry: 520.68365 with speed 18.57522
+LAURENT erreur de calcul de temps 473.26456 with speed 17.77589
+LAURENT retry: 473.26456 with speed 17.77589
+LAURENT erreur de calcul de temps 456.36926 with speed 16.93191
+LAURENT retry: 456.36926 with speed 16.93191
+LAURENT erreur de calcul de temps 450.27499 with speed 16.13606
+LAURENT retry: 450.27499 with speed 16.13606
+LAURENT erreur de calcul de temps 402.09293 with speed 15.30982
+LAURENT retry: 402.09293 with speed 15.30982
+LAURENT erreur de calcul de temps 394.57907 with speed 14.43104
+LAURENT retry: 394.57907 with speed 14.43104
+LAURENT erreur de calcul de temps 327.81131 with speed 13.60380
+LAURENT retry: 327.81131 with speed 13.60380
+LAURENT erreur de calcul de temps 276.20081 with speed 12.87154
+LAURENT retry: 276.20081 with speed 12.87154
+LAURENT erreur de calcul de temps 251.08290 with speed 12.26049
+LAURENT retry: 251.08290 with speed 12.26049
+LAURENT erreur de calcul de temps 224.65228 with speed 11.75447
+LAURENT retry: 224.65228 with speed 11.75447
+LAURENT erreur de calcul de temps 201.71524 with speed 11.25447
+LAURENT retry: 201.71524 with speed 11.25447
+LAURENT erreur de calcul de temps 182.45114 with speed 10.85447
+LAURENT retry: 182.45114 with speed 10.85447
+LAURENT erreur de calcul de temps 160.94275 with speed 10.35447
+LAURENT retry: 160.94275 with speed 10.35447
+LAURENT erreur de calcul de temps 143.48039 with speed 9.84944
+LAURENT retry: 143.48039 with speed 9.84944
+LAURENT erreur de calcul de temps 264.35297 with speed 22.36988
+LAURENT retry: 264.35297 with speed 22.36988
+LAURENT erreur de calcul de temps 318.16696 with speed 21.80064
+LAURENT retry: 318.16696 with speed 21.80064
+LAURENT erreur de calcul de temps 470.59937 with speed 22.02200
+LAURENT retry: 470.59937 with speed 22.02200
+LAURENT erreur de calcul de temps 557.96417 with speed 21.56287
+LAURENT retry: 557.96417 with speed 21.56287
+LAURENT erreur de calcul de temps 558.49127 with speed 20.62861
+LAURENT retry: 558.49127 with speed 20.62861
+LAURENT erreur de calcul de temps 545.11505 with speed 19.59434
+LAURENT retry: 545.11505 with speed 19.59434
+LAURENT erreur de calcul de temps 530.63049 with speed 18.69434
+LAURENT retry: 530.63049 with speed 18.69434
+LAURENT erreur de calcul de temps 480.69058 with speed 17.86219
+LAURENT retry: 480.69058 with speed 17.86219
+LAURENT erreur de calcul de temps 467.70587 with speed 17.02860
+LAURENT retry: 467.70587 with speed 17.02860
+LAURENT erreur de calcul de temps 453.70944 with speed 16.22654
+LAURENT retry: 453.70944 with speed 16.22654
+LAURENT erreur de calcul de temps 412.26157 with speed 15.39433
+LAURENT retry: 412.26157 with speed 15.39433
+LAURENT erreur de calcul de temps 402.14658 with speed 14.52581
+LAURENT retry: 402.14658 with speed 14.52581
+LAURENT erreur de calcul de temps 331.60641 with speed 13.67792
+LAURENT retry: 331.60641 with speed 13.67792
+LAURENT erreur de calcul de temps 281.31918 with speed 12.92931
+LAURENT retry: 281.31918 with speed 12.92931
+LAURENT erreur de calcul de temps 256.01895 with speed 12.31218
+LAURENT retry: 256.01895 with speed 12.31218
+LAURENT erreur de calcul de temps 225.58514 with speed 11.79577
+LAURENT retry: 225.58514 with speed 11.79577
+LAURENT erreur de calcul de temps 202.71098 with speed 11.29577
+LAURENT retry: 202.71098 with speed 11.29577
+LAURENT erreur de calcul de temps 183.27609 with speed 10.89577
+LAURENT retry: 183.27609 with speed 10.89577
+LAURENT erreur de calcul de temps 162.24629 with speed 10.39577
+LAURENT retry: 162.24629 with speed 10.39577
+LAURENT erreur de calcul de temps 146.50983 with speed 9.89505
+LAURENT retry: 146.50983 with speed 9.89505
+LAURENT erreur de calcul de temps 135.80826 with speed 9.24366
+LAURENT retry: 135.80826 with speed 9.24366
+LAURENT erreur de calcul de temps 277.67084 with speed 22.50154
+LAURENT retry: 277.67084 with speed 22.50154
+LAURENT erreur de calcul de temps 338.52502 with speed 21.94468
+LAURENT retry: 338.52502 with speed 21.94468
+LAURENT erreur de calcul de temps 484.25601 with speed 22.13896
+LAURENT retry: 484.25601 with speed 22.13896
+LAURENT erreur de calcul de temps 547.01044 with speed 21.68737
+LAURENT retry: 547.01044 with speed 21.68737
+LAURENT erreur de calcul de temps 570.86206 with speed 20.75493
+LAURENT retry: 570.86206 with speed 20.75493
+LAURENT erreur de calcul de temps 556.84082 with speed 19.70378
+LAURENT retry: 556.84082 with speed 19.70378
+LAURENT erreur de calcul de temps 540.81702 with speed 18.80378
+LAURENT retry: 540.81702 with speed 18.80378
+LAURENT erreur de calcul de temps 496.86270 with speed 17.94648
+LAURENT retry: 496.86270 with speed 17.94648
+LAURENT erreur de calcul de temps 480.77429 with speed 17.12205
+LAURENT retry: 480.77429 with speed 17.12205
+LAURENT erreur de calcul de temps 453.34290 with speed 16.29532
+LAURENT retry: 453.34290 with speed 16.29532
+LAURENT erreur de calcul de temps 423.35928 with speed 15.47089
+LAURENT retry: 423.35928 with speed 15.47089
+LAURENT erreur de calcul de temps 384.47336 with speed 14.58888
+LAURENT retry: 384.47336 with speed 14.58888
+LAURENT erreur de calcul de temps 334.94440 with speed 13.73888
+LAURENT retry: 334.94440 with speed 13.73888
+LAURENT erreur de calcul de temps 297.37854 with speed 12.98888
+LAURENT retry: 297.37854 with speed 12.98888
+LAURENT erreur de calcul de temps 261.88913 with speed 12.35716
+LAURENT retry: 261.88913 with speed 12.35716
+LAURENT erreur de calcul de temps 226.12192 with speed 11.82515
+LAURENT retry: 226.12192 with speed 11.82515
+LAURENT erreur de calcul de temps 203.50183 with speed 11.32515
+LAURENT retry: 203.50183 with speed 11.32515
+LAURENT erreur de calcul de temps 184.55072 with speed 10.92515
+LAURENT retry: 184.55072 with speed 10.92515
+LAURENT erreur de calcul de temps 161.33986 with speed 10.42515
+LAURENT retry: 161.33986 with speed 10.42515
+LAURENT erreur de calcul de temps 141.62534 with speed 9.92515
+LAURENT retry: 141.62534 with speed 9.92515
+LAURENT erreur de calcul de temps 135.47597 with speed 9.28772
+LAURENT retry: 135.47597 with speed 9.28772
+LAURENT erreur de calcul de temps 156.94075 with speed 8.26699
+LAURENT retry: 156.94075 with speed 8.26699
+LAURENT erreur de calcul de temps 288.36053 with speed 22.62761
+LAURENT retry: 288.36053 with speed 22.62761
+LAURENT erreur de calcul de temps 351.01758 with speed 22.07166
+LAURENT retry: 351.01758 with speed 22.07166
+LAURENT erreur de calcul de temps 495.73572 with speed 22.25636
+LAURENT retry: 495.73572 with speed 22.25636
+LAURENT erreur de calcul de temps 548.97485 with speed 21.79688
+LAURENT retry: 548.97485 with speed 21.79688
+LAURENT erreur de calcul de temps 581.93842 with speed 20.85694
+LAURENT retry: 581.93842 with speed 20.85694
+LAURENT erreur de calcul de temps 564.39862 with speed 19.78895
+LAURENT retry: 564.39862 with speed 19.78895
+LAURENT erreur de calcul de temps 549.41022 with speed 18.88895
+LAURENT retry: 549.41022 with speed 18.88895
+LAURENT erreur de calcul de temps 515.03601 with speed 18.01416
+LAURENT retry: 515.03601 with speed 18.01416
+LAURENT erreur de calcul de temps 493.48126 with speed 17.19815
+LAURENT retry: 493.48126 with speed 17.19815
+LAURENT erreur de calcul de temps 464.06543 with speed 16.34617
+LAURENT retry: 464.06543 with speed 16.34617
+LAURENT erreur de calcul de temps 432.89719 with speed 15.53017
+LAURENT retry: 432.89719 with speed 15.53017
+LAURENT erreur de calcul de temps 372.57358 with speed 14.63173
+LAURENT retry: 372.57358 with speed 14.63173
+LAURENT erreur de calcul de temps 337.99207 with speed 13.78173
+LAURENT retry: 337.99207 with speed 13.78173
+LAURENT erreur de calcul de temps 305.63760 with speed 13.03173
+LAURENT retry: 305.63760 with speed 13.03173
+LAURENT erreur de calcul de temps 268.32996 with speed 12.39093
+LAURENT retry: 268.32996 with speed 12.39093
+LAURENT erreur de calcul de temps 227.16121 with speed 11.84249
+LAURENT retry: 227.16121 with speed 11.84249
+LAURENT erreur de calcul de temps 203.08928 with speed 11.34249
+LAURENT retry: 203.08928 with speed 11.34249
+LAURENT erreur de calcul de temps 183.55719 with speed 10.94249
+LAURENT retry: 183.55719 with speed 10.94249
+LAURENT erreur de calcul de temps 162.56499 with speed 10.44249
+LAURENT retry: 162.56499 with speed 10.44249
+LAURENT erreur de calcul de temps 141.13431 with speed 9.94249
+LAURENT retry: 141.13431 with speed 9.94249
+LAURENT erreur de calcul de temps 135.18896 with speed 9.31374
+LAURENT retry: 135.18896 with speed 9.31374
+LAURENT erreur de calcul de temps 158.17828 with speed 8.28470
+LAURENT retry: 158.17828 with speed 8.28470
+LAURENT erreur de calcul de temps 300.44116 with speed 22.75774
+LAURENT retry: 300.44116 with speed 22.75774
+LAURENT erreur de calcul de temps 360.63821 with speed 22.18202
+LAURENT retry: 360.63821 with speed 22.18202
+LAURENT erreur de calcul de temps 508.86176 with speed 22.39103
+LAURENT retry: 508.86176 with speed 22.39103
+LAURENT erreur de calcul de temps 570.35022 with speed 21.89148
+LAURENT retry: 570.35022 with speed 21.89148
+LAURENT erreur de calcul de temps 589.39050 with speed 20.92143
+LAURENT retry: 589.39050 with speed 20.92143
+LAURENT erreur de calcul de temps 571.46442 with speed 19.83278
+LAURENT retry: 571.46442 with speed 19.83278
+LAURENT erreur de calcul de temps 555.36993 with speed 18.93278
+LAURENT retry: 555.36993 with speed 18.93278
+LAURENT erreur de calcul de temps 519.03345 with speed 18.04224
+LAURENT retry: 519.03345 with speed 18.04224
+LAURENT erreur de calcul de temps 505.44165 with speed 17.23656
+LAURENT retry: 505.44165 with speed 17.23656
+LAURENT erreur de calcul de temps 466.18387 with speed 16.35359
+LAURENT retry: 466.18387 with speed 16.35359
+LAURENT erreur de calcul de temps 443.64008 with speed 15.54791
+LAURENT retry: 443.64008 with speed 15.54791
+LAURENT erreur de calcul de temps 381.73083 with speed 14.63877
+LAURENT retry: 381.73083 with speed 14.63877
+LAURENT erreur de calcul de temps 338.15176 with speed 13.78877
+LAURENT retry: 338.15176 with speed 13.78877
+LAURENT erreur de calcul de temps 305.95117 with speed 13.03877
+LAURENT retry: 305.95117 with speed 13.03877
+LAURENT erreur de calcul de temps 273.79373 with speed 12.39255
+LAURENT retry: 273.79373 with speed 12.39255
+LAURENT erreur de calcul de temps 225.67815 with speed 11.83342
+LAURENT retry: 225.67815 with speed 11.83342
+LAURENT erreur de calcul de temps 203.39668 with speed 11.33342
+LAURENT retry: 203.39668 with speed 11.33342
+LAURENT erreur de calcul de temps 184.06630 with speed 10.93342
+LAURENT retry: 184.06630 with speed 10.93342
+LAURENT erreur de calcul de temps 161.71777 with speed 10.43342
+LAURENT retry: 161.71777 with speed 10.43342
+LAURENT erreur de calcul de temps 140.29288 with speed 9.93342
+LAURENT retry: 140.29288 with speed 9.93342
+LAURENT erreur de calcul de temps 134.93907 with speed 9.30013
+LAURENT retry: 134.93907 with speed 9.30013
+LAURENT erreur de calcul de temps 161.71983 with speed 8.22106
+LAURENT retry: 161.71983 with speed 8.22106
+LAURENT erreur de calcul de temps 304.88416 with speed 22.80266
+LAURENT retry: 304.88416 with speed 22.80266
+LAURENT erreur de calcul de temps 363.02017 with speed 22.22505
+LAURENT retry: 363.02017 with speed 22.22505
+LAURENT erreur de calcul de temps 513.53442 with speed 22.43386
+LAURENT retry: 513.53442 with speed 22.43386
+LAURENT erreur de calcul de temps 572.89423 with speed 21.92929
+LAURENT retry: 572.89423 with speed 21.92929
+LAURENT erreur de calcul de temps 592.20221 with speed 20.95429
+LAURENT retry: 592.20221 with speed 20.95429
+LAURENT erreur de calcul de temps 574.12341 with speed 19.85951
+LAURENT retry: 574.12341 with speed 19.85951
+LAURENT erreur de calcul de temps 557.21454 with speed 18.95951
+LAURENT retry: 557.21454 with speed 18.95951
+LAURENT erreur de calcul de temps 525.94037 with speed 18.06375
+LAURENT retry: 525.94037 with speed 18.06375
+LAURENT erreur de calcul de temps 509.24329 with speed 17.26114
+LAURENT retry: 509.24329 with speed 17.26114
+LAURENT erreur de calcul de temps 472.19775 with speed 16.36897
+LAURENT retry: 472.19775 with speed 16.36897
+LAURENT erreur de calcul de temps 446.89731 with speed 15.56636
+LAURENT retry: 446.89731 with speed 15.56636
+LAURENT erreur de calcul de temps 379.49710 with speed 14.65116
+LAURENT retry: 379.49710 with speed 14.65116
+LAURENT erreur de calcul de temps 338.48782 with speed 13.80116
+LAURENT retry: 338.48782 with speed 13.80116
+LAURENT erreur de calcul de temps 306.05664 with speed 13.05116
+LAURENT retry: 306.05664 with speed 13.05116
+LAURENT erreur de calcul de temps 275.04968 with speed 12.40279
+LAURENT retry: 275.04968 with speed 12.40279
+LAURENT erreur de calcul de temps 226.78546 with speed 11.83759
+LAURENT retry: 226.78546 with speed 11.83759
+LAURENT erreur de calcul de temps 202.94818 with speed 11.33759
+LAURENT retry: 202.94818 with speed 11.33759
+LAURENT erreur de calcul de temps 184.25465 with speed 10.93759
+LAURENT retry: 184.25465 with speed 10.93759
+LAURENT erreur de calcul de temps 161.47188 with speed 10.43759
+LAURENT retry: 161.47188 with speed 10.43759
+LAURENT erreur de calcul de temps 140.30960 with speed 9.93759
+LAURENT retry: 140.30960 with speed 9.93759
+LAURENT erreur de calcul de temps 134.83492 with speed 9.30638
+LAURENT retry: 134.83492 with speed 9.30638
+LAURENT erreur de calcul de temps 162.33917 with speed 8.22223
+LAURENT retry: 162.33917 with speed 8.22223
+LAURENT erreur de calcul de temps 312.80353 with speed 22.80993
+LAURENT retry: 312.80353 with speed 22.80993
+LAURENT erreur de calcul de temps 370.75693 with speed 22.23194
+LAURENT retry: 370.75693 with speed 22.23194
+LAURENT erreur de calcul de temps 519.44836 with speed 22.44084
+LAURENT retry: 519.44836 with speed 22.44084
+LAURENT erreur de calcul de temps 578.68451 with speed 21.93535
+LAURENT retry: 578.68451 with speed 21.93535
+LAURENT erreur de calcul de temps 597.88171 with speed 20.95947
+LAURENT retry: 597.88171 with speed 20.95947
+LAURENT erreur de calcul de temps 579.50201 with speed 19.86369
+LAURENT retry: 579.50201 with speed 19.86369
+LAURENT erreur de calcul de temps 561.93372 with speed 18.96370
+LAURENT retry: 561.93372 with speed 18.96370
+LAURENT erreur de calcul de temps 529.58240 with speed 18.06711
+LAURENT retry: 529.58240 with speed 18.06711
+LAURENT erreur de calcul de temps 513.30774 with speed 17.26500
+LAURENT retry: 513.30774 with speed 17.26500
+LAURENT erreur de calcul de temps 474.05484 with speed 16.37133
+LAURENT retry: 474.05484 with speed 16.37133
+LAURENT erreur de calcul de temps 448.71750 with speed 15.56922
+LAURENT retry: 448.71750 with speed 15.56922
+LAURENT erreur de calcul de temps 379.68790 with speed 14.65305
+LAURENT retry: 379.68790 with speed 14.65305
+LAURENT erreur de calcul de temps 338.82709 with speed 13.80305
+LAURENT retry: 338.82709 with speed 13.80305
+LAURENT erreur de calcul de temps 307.81763 with speed 13.05305
+LAURENT retry: 307.81763 with speed 13.05305
+LAURENT erreur de calcul de temps 275.21460 with speed 12.40435
+LAURENT retry: 275.21460 with speed 12.40435
+LAURENT erreur de calcul de temps 225.80670 with speed 11.83818
+LAURENT retry: 225.80670 with speed 11.83818
+LAURENT erreur de calcul de temps 201.81769 with speed 11.33818
+LAURENT retry: 201.81769 with speed 11.33818
+LAURENT erreur de calcul de temps 182.70128 with speed 10.93818
+LAURENT retry: 182.70128 with speed 10.93818
+LAURENT erreur de calcul de temps 160.43735 with speed 10.43818
+LAURENT retry: 160.43735 with speed 10.43818
+LAURENT erreur de calcul de temps 139.69711 with speed 9.93818
+LAURENT retry: 139.69711 with speed 9.93818
+LAURENT erreur de calcul de temps 134.57794 with speed 9.30727
+LAURENT retry: 134.57794 with speed 9.30727
+LAURENT erreur de calcul de temps 162.55673 with speed 8.22218
+LAURENT retry: 162.55673 with speed 8.22218
+LAURENT erreur de calcul de temps 169.91786 with speed 11.30213
+LAURENT retry: 169.91786 with speed 11.30213
+LAURENT erreur de calcul de temps 181.20976 with speed 11.65213
+LAURENT retry: 181.20976 with speed 11.65213
+LAURENT erreur de calcul de temps 179.91231 with speed 11.81024
+LAURENT retry: 179.91231 with speed 11.81024
+LAURENT erreur de calcul de temps 186.48749 with speed 11.95126
+LAURENT retry: 186.48749 with speed 11.95126
+LAURENT erreur de calcul de temps 145.71663 with speed 11.94918
+LAURENT retry: 145.71663 with speed 11.94918
+LAURENT erreur de calcul de temps 169.07962 with speed 11.28480
+LAURENT retry: 169.07962 with speed 11.28480
+LAURENT erreur de calcul de temps 180.17755 with speed 11.63480
+LAURENT retry: 180.17755 with speed 11.63480
+LAURENT erreur de calcul de temps 180.11717 with speed 11.83123
+LAURENT retry: 180.11717 with speed 11.83123
+LAURENT erreur de calcul de temps 181.37802 with speed 11.93480
+LAURENT retry: 181.37802 with speed 11.93480
+LAURENT erreur de calcul de temps 163.83853 with speed 11.82081
+LAURENT retry: 163.83853 with speed 11.82081
+LAURENT erreur de calcul de temps 157.14726 with speed 11.82775
+LAURENT retry: 157.14726 with speed 11.82775
+LAURENT erreur de calcul de temps 150.17566 with speed 11.92775
+LAURENT retry: 150.17566 with speed 11.92775
+LAURENT erreur de calcul de temps 141.60832 with speed 11.92786
+LAURENT retry: 141.60832 with speed 11.92786
+LAURENT erreur de calcul de temps 130.19455 with speed 11.92775
+LAURENT retry: 130.19455 with speed 11.92775
+LAURENT erreur de calcul de temps 169.67549 with speed 11.30470
+LAURENT retry: 169.67549 with speed 11.30470
+LAURENT erreur de calcul de temps 180.37555 with speed 11.65470
+LAURENT retry: 180.37555 with speed 11.65470
+LAURENT erreur de calcul de temps 181.34363 with speed 11.86685
+LAURENT retry: 181.34363 with speed 11.86685
+LAURENT erreur de calcul de temps 182.18761 with speed 11.97469
+LAURENT retry: 182.18761 with speed 11.97469
+LAURENT erreur de calcul de temps 172.25235 with speed 11.94704
+LAURENT retry: 172.25235 with speed 11.94704
+LAURENT erreur de calcul de temps 163.28691 with speed 11.84704
+LAURENT retry: 163.28691 with speed 11.84704
+LAURENT erreur de calcul de temps 156.76598 with speed 11.85901
+LAURENT retry: 156.76598 with speed 11.85901
+LAURENT erreur de calcul de temps 184.84148 with speed 11.38338
+LAURENT retry: 184.84148 with speed 11.38338
+LAURENT erreur de calcul de temps 182.21805 with speed 11.73338
+LAURENT retry: 182.21805 with speed 11.73338
+LAURENT erreur de calcul de temps 184.92278 with speed 11.94659
+LAURENT retry: 184.92278 with speed 11.94659
+LAURENT erreur de calcul de temps 184.95160 with speed 12.06491
+LAURENT retry: 184.95160 with speed 12.06491
+LAURENT erreur de calcul de temps 157.25009 with speed 11.92828
+LAURENT retry: 157.25009 with speed 11.92828
+LAURENT erreur de calcul de temps 155.21867 with speed 12.04650
+LAURENT retry: 155.21867 with speed 12.04650
+LAURENT erreur de calcul de temps 140.27988 with speed 12.04650
+LAURENT retry: 140.27988 with speed 12.04650
+LAURENT erreur de calcul de temps 184.68468 with speed 11.44341
+LAURENT retry: 184.68468 with speed 11.44341
+LAURENT erreur de calcul de temps 184.22943 with speed 11.79341
+LAURENT retry: 184.22943 with speed 11.79341
+LAURENT erreur de calcul de temps 185.58994 with speed 11.99368
+LAURENT retry: 185.58994 with speed 11.99368
+LAURENT erreur de calcul de temps 186.50044 with speed 12.11769
+LAURENT retry: 186.50044 with speed 12.11769
+LAURENT erreur de calcul de temps 157.77165 with speed 11.96967
+LAURENT retry: 157.77165 with speed 11.96967
+LAURENT erreur de calcul de temps 154.17133 with speed 12.09210
+LAURENT retry: 154.17133 with speed 12.09210
+LAURENT erreur de calcul de temps 184.35062 with speed 11.49598
+LAURENT retry: 184.35062 with speed 11.49598
+LAURENT erreur de calcul de temps 185.83348 with speed 11.84598
+LAURENT retry: 185.83348 with speed 11.84598
+LAURENT erreur de calcul de temps 186.20461 with speed 12.03597
+LAURENT retry: 186.20461 with speed 12.03597
+LAURENT erreur de calcul de temps 188.09209 with speed 12.16519
+LAURENT retry: 188.09209 with speed 12.16519
+LAURENT erreur de calcul de temps 159.27948 with speed 12.00675
+LAURENT retry: 159.27948 with speed 12.00675
+LAURENT erreur de calcul de temps 153.05640 with speed 12.13375
+LAURENT retry: 153.05640 with speed 12.13375
+LAURENT erreur de calcul de temps 179.73242 with speed 11.65435
+LAURENT retry: 179.73242 with speed 11.65435
+LAURENT erreur de calcul de temps 190.36292 with speed 12.00435
+LAURENT retry: 190.36292 with speed 12.00435
+LAURENT erreur de calcul de temps 192.01225 with speed 12.16496
+LAURENT retry: 192.01225 with speed 12.16496
+LAURENT erreur de calcul de temps 193.43045 with speed 12.30757
+LAURENT retry: 193.43045 with speed 12.30757
+LAURENT erreur de calcul de temps 3.05473 with speed 21.67782
+LAURENT retry: 3.05473 with speed 21.67782
+LAURENT erreur de calcul de temps 3.05565 with speed 21.71037
+LAURENT retry: 3.05565 with speed 21.71037
+LAURENT erreur de calcul de temps 588.24707 with speed 21.44773
+LAURENT retry: 588.24707 with speed 21.44773
+LAURENT erreur de calcul de temps 604.47717 with speed 21.79774
+LAURENT retry: 604.47717 with speed 21.79774
+LAURENT erreur de calcul de temps 20747.78906 with speed 6.91585
+LAURENT retry: 20747.78906 with speed 6.91585
+LAURENT erreur de calcul de temps 589.67029 with speed 21.47966
+LAURENT retry: 589.67029 with speed 21.47966
+LAURENT erreur de calcul de temps 3.05758 with speed 21.73287
+LAURENT retry: 3.05758 with speed 21.73287
+LAURENT erreur de calcul de temps 3.05819 with speed 21.77109
+LAURENT retry: 3.05819 with speed 21.77109
+LAURENT erreur de calcul de temps 601.10760 with speed 21.53589
+LAURENT retry: 601.10760 with speed 21.53589
+LAURENT erreur de calcul de temps 3.05843 with speed 21.79264
+LAURENT retry: 3.05843 with speed 21.79264
+LAURENT erreur de calcul de temps 608.86981 with speed 21.58282
+LAURENT retry: 608.86981 with speed 21.58282
+LAURENT erreur de calcul de temps 3.06090 with speed 21.80000
+LAURENT retry: 3.06090 with speed 21.80000
+LAURENT erreur de calcul de temps 3.05448 with speed 21.63790
+LAURENT retry: 3.05448 with speed 21.63790
+LAURENT erreur de calcul de temps 20701.57031 with speed 6.90058
+LAURENT retry: 20701.57031 with speed 6.90058
+LAURENT erreur de calcul de temps 21083.02930 with speed 7.02781
+LAURENT retry: 21083.02930 with speed 7.02781
+LAURENT erreur de calcul de temps 3.04570 with speed 16.89507
+LAURENT retry: 3.04570 with speed 16.89507
+LAURENT erreur de calcul de temps 3.03487 with speed 16.32003
+LAURENT retry: 3.03487 with speed 16.32003
+LAURENT erreur de calcul de temps 3.03749 with speed 15.39307
+LAURENT retry: 3.03749 with speed 15.39307
+LAURENT erreur de calcul de temps 3.03360 with speed 15.22577
+LAURENT retry: 3.03360 with speed 15.22577
+LAURENT erreur de calcul de temps 3.03012 with speed 14.10245
+LAURENT retry: 3.03012 with speed 14.10245
+LAURENT erreur de calcul de temps 23397.02930 with speed 7.79923
+LAURENT retry: 23397.02930 with speed 7.79923
+LAURENT erreur de calcul de temps 3.03146 with speed 18.02198
+LAURENT retry: 3.03146 with speed 18.02198
+LAURENT erreur de calcul de temps 3.03032 with speed 19.19830
+LAURENT retry: 3.03032 with speed 19.19830
+LAURENT erreur de calcul de temps 3.03887 with speed 19.30480
+LAURENT retry: 3.03887 with speed 19.30480
+LAURENT erreur de calcul de temps 3.03701 with speed 19.45518
+LAURENT retry: 3.03701 with speed 19.45518
+LAURENT erreur de calcul de temps 3.03642 with speed 19.45443
+LAURENT retry: 3.03642 with speed 19.45443
+LAURENT erreur de calcul de temps 3.03559 with speed 19.46153
+LAURENT retry: 3.03559 with speed 19.46153
+LAURENT erreur de calcul de temps 3.03383 with speed 19.48827
+LAURENT retry: 3.03383 with speed 19.48827
+LAURENT erreur de calcul de temps 3.03299 with speed 19.51975
+LAURENT retry: 3.03299 with speed 19.51975
+LAURENT erreur de calcul de temps 3.03223 with speed 19.56472
+LAURENT retry: 3.03223 with speed 19.56472
+LAURENT erreur de calcul de temps 3.03148 with speed 19.61613
+LAURENT retry: 3.03148 with speed 19.61613
+LAURENT erreur de calcul de temps 3.03073 with speed 19.66652
+LAURENT retry: 3.03073 with speed 19.66652
+LAURENT erreur de calcul de temps 3.03149 with speed 21.05891
+LAURENT retry: 3.03149 with speed 21.05891
+LAURENT erreur de calcul de temps 3.03096 with speed 21.05078
+LAURENT retry: 3.03096 with speed 21.05078
+LAURENT erreur de calcul de temps 3.03034 with speed 21.07000
+LAURENT retry: 3.03034 with speed 21.07000
+LAURENT erreur de calcul de temps 329.99667 with speed 17.06135
+LAURENT retry: 329.99667 with speed 17.06135
+LAURENT erreur de calcul de temps 331.71710 with speed 16.27545
+LAURENT retry: 331.71710 with speed 16.27545
+LAURENT erreur de calcul de temps 323.41977 with speed 15.43741
+LAURENT retry: 323.41977 with speed 15.43741
+LAURENT erreur de calcul de temps 305.45120 with speed 14.57164
+LAURENT retry: 305.45120 with speed 14.57164
+LAURENT erreur de calcul de temps 286.32535 with speed 13.72164
+LAURENT retry: 286.32535 with speed 13.72164
+LAURENT erreur de calcul de temps 269.83847 with speed 12.97164
+LAURENT retry: 269.83847 with speed 12.97164
+LAURENT erreur de calcul de temps 237.89548 with speed 12.34758
+LAURENT retry: 237.89548 with speed 12.34758
+LAURENT erreur de calcul de temps 219.61835 with speed 11.83180
+LAURENT retry: 219.61835 with speed 11.83180
+LAURENT erreur de calcul de temps 337.20264 with speed 18.00400
+LAURENT retry: 337.20264 with speed 18.00400
+LAURENT erreur de calcul de temps 341.87781 with speed 17.17362
+LAURENT retry: 341.87781 with speed 17.17362
+LAURENT erreur de calcul de temps 340.28351 with speed 16.36478
+LAURENT retry: 340.28351 with speed 16.36478
+LAURENT erreur de calcul de temps 332.88745 with speed 15.53439
+LAURENT retry: 332.88745 with speed 15.53439
+LAURENT erreur de calcul de temps 309.13879 with speed 14.65026
+LAURENT retry: 309.13879 with speed 14.65026
+LAURENT erreur de calcul de temps 291.07526 with speed 13.80026
+LAURENT retry: 291.07526 with speed 13.80026
+LAURENT erreur de calcul de temps 274.92715 with speed 13.05026
+LAURENT retry: 274.92715 with speed 13.05026
+LAURENT erreur de calcul de temps 244.25302 with speed 12.40815
+LAURENT retry: 244.25302 with speed 12.40815
+LAURENT erreur de calcul de temps 221.80759 with speed 11.87402
+LAURENT retry: 221.80759 with speed 11.87402
+LAURENT erreur de calcul de temps 209.00018 with speed 11.37402
+LAURENT retry: 209.00018 with speed 11.37402
+LAURENT erreur de calcul de temps 195.47365 with speed 10.97402
+LAURENT retry: 195.47365 with speed 10.97402
+LAURENT erreur de calcul de temps 328.25806 with speed 19.86455
+LAURENT retry: 328.25806 with speed 19.86455
+LAURENT erreur de calcul de temps 325.47379 with speed 18.94050
+LAURENT retry: 325.47379 with speed 18.94050
+LAURENT erreur de calcul de temps 340.21609 with speed 18.08458
+LAURENT retry: 340.21609 with speed 18.08458
+LAURENT erreur de calcul de temps 356.81644 with speed 17.25907
+LAURENT retry: 356.81644 with speed 17.25907
+LAURENT erreur de calcul de temps 343.38507 with speed 16.46180
+LAURENT retry: 343.38507 with speed 16.46180
+LAURENT erreur de calcul de temps 328.01898 with speed 15.61771
+LAURENT retry: 328.01898 with speed 15.61771
+LAURENT erreur de calcul de temps 313.44220 with speed 14.74493
+LAURENT retry: 313.44220 with speed 14.74493
+LAURENT erreur de calcul de temps 296.03522 with speed 13.89493
+LAURENT retry: 296.03522 with speed 13.89493
+LAURENT erreur de calcul de temps 279.86499 with speed 13.14493
+LAURENT retry: 279.86499 with speed 13.14493
+LAURENT erreur de calcul de temps 257.29114 with speed 12.48945
+LAURENT retry: 257.29114 with speed 12.48945
+LAURENT erreur de calcul de temps 225.02553 with speed 11.94810
+LAURENT retry: 225.02553 with speed 11.94810
+LAURENT erreur de calcul de temps 210.88449 with speed 11.44810
+LAURENT retry: 210.88449 with speed 11.44810
+LAURENT erreur de calcul de temps 199.36586 with speed 11.04810
+LAURENT retry: 199.36586 with speed 11.04810
+LAURENT erreur de calcul de temps 182.42677 with speed 10.54810
+LAURENT retry: 182.42677 with speed 10.54810
+LAURENT erreur de calcul de temps 166.94667 with speed 10.04810
+LAURENT retry: 166.94667 with speed 10.04810
+LAURENT erreur de calcul de temps 164.47823 with speed 9.46667
+LAURENT retry: 164.47823 with speed 9.46667
+LAURENT erreur de calcul de temps 244.02139 with speed 21.58131
+LAURENT retry: 244.02139 with speed 21.58131
+LAURENT erreur de calcul de temps 293.37357 with speed 20.86543
+LAURENT retry: 293.37357 with speed 20.86543
+LAURENT erreur de calcul de temps 334.85330 with speed 19.94131
+LAURENT retry: 334.85330 with speed 19.94131
+LAURENT erreur de calcul de temps 330.44055 with speed 18.98098
+LAURENT retry: 330.44055 with speed 18.98098
+LAURENT erreur de calcul de temps 339.40994 with speed 18.13099
+LAURENT retry: 339.40994 with speed 18.13099
+LAURENT erreur de calcul de temps 367.14359 with speed 17.35686
+LAURENT retry: 367.14359 with speed 17.35686
+LAURENT erreur de calcul de temps 341.93460 with speed 16.54319
+LAURENT retry: 341.93460 with speed 16.54319
+LAURENT erreur de calcul de temps 333.30780 with speed 15.70539
+LAURENT retry: 333.30780 with speed 15.70539
+LAURENT erreur de calcul de temps 346.07523 with speed 14.87517
+LAURENT retry: 346.07523 with speed 14.87517
+LAURENT erreur de calcul de temps 301.62656 with speed 14.00539
+LAURENT retry: 301.62656 with speed 14.00539
+LAURENT erreur de calcul de temps 283.84778 with speed 13.25539
+LAURENT retry: 283.84778 with speed 13.25539
+LAURENT erreur de calcul de temps 265.04926 with speed 12.60874
+LAURENT retry: 265.04926 with speed 12.60874
+LAURENT erreur de calcul de temps 229.92149 with speed 12.04506
+LAURENT retry: 229.92149 with speed 12.04506
+LAURENT erreur de calcul de temps 214.62872 with speed 11.54506
+LAURENT retry: 214.62872 with speed 11.54506
+LAURENT erreur de calcul de temps 185.55922 with speed 11.12253
+LAURENT retry: 185.55922 with speed 11.12253
+LAURENT erreur de calcul de temps 186.67381 with speed 10.64506
+LAURENT retry: 186.67381 with speed 10.64506
+LAURENT erreur de calcul de temps 169.93950 with speed 10.14506
+LAURENT retry: 169.93950 with speed 10.14506
+LAURENT erreur de calcul de temps 169.41096 with speed 9.62094
+LAURENT retry: 169.41096 with speed 9.62094
+LAURENT erreur de calcul de temps 151.53738 with speed 8.87033
+LAURENT retry: 151.53738 with speed 8.87033
+LAURENT erreur de calcul de temps 211.04877 with speed 7.42875
+LAURENT retry: 211.04877 with speed 7.42875
+LAURENT erreur de calcul de temps 249.93790 with speed 21.70966
+LAURENT retry: 249.93790 with speed 21.70966
+LAURENT erreur de calcul de temps 299.71866 with speed 20.95545
+LAURENT retry: 299.71866 with speed 20.95545
+LAURENT erreur de calcul de temps 342.10986 with speed 19.99932
+LAURENT retry: 342.10986 with speed 19.99932
+LAURENT erreur de calcul de temps 333.22128 with speed 19.03321
+LAURENT retry: 333.22128 with speed 19.03321
+LAURENT erreur de calcul de temps 344.02655 with speed 18.18321
+LAURENT retry: 344.02655 with speed 18.18321
+LAURENT erreur de calcul de temps 369.33929 with speed 17.38870
+LAURENT retry: 369.33929 with speed 17.38870
+LAURENT erreur de calcul de temps 344.41992 with speed 16.56966
+LAURENT retry: 344.41992 with speed 16.56966
+LAURENT erreur de calcul de temps 334.48456 with speed 15.71966
+LAURENT retry: 334.48456 with speed 15.71966
+LAURENT erreur de calcul de temps 343.22375 with speed 14.87030
+LAURENT retry: 343.22375 with speed 14.87030
+LAURENT erreur de calcul de temps 301.82663 with speed 14.00611
+LAURENT retry: 301.82663 with speed 14.00611
+LAURENT erreur de calcul de temps 285.01816 with speed 13.25611
+LAURENT retry: 285.01816 with speed 13.25611
+LAURENT erreur de calcul de temps 264.44839 with speed 12.59742
+LAURENT retry: 264.44839 with speed 12.59742
+LAURENT erreur de calcul de temps 228.42722 with speed 12.02838
+LAURENT retry: 228.42722 with speed 12.02838
+LAURENT erreur de calcul de temps 215.00923 with speed 11.52838
+LAURENT retry: 215.00923 with speed 11.52838
+LAURENT erreur de calcul de temps 185.81082 with speed 11.11419
+LAURENT retry: 185.81082 with speed 11.11419
+LAURENT erreur de calcul de temps 184.77089 with speed 10.62838
+LAURENT retry: 184.77089 with speed 10.62838
+LAURENT erreur de calcul de temps 167.81712 with speed 10.12838
+LAURENT retry: 167.81712 with speed 10.12838
+LAURENT erreur de calcul de temps 168.53532 with speed 9.58387
+LAURENT retry: 168.53532 with speed 9.58387
+LAURENT erreur de calcul de temps 150.89137 with speed 8.83094
+LAURENT retry: 150.89137 with speed 8.83094
+LAURENT erreur de calcul de temps 256.54449 with speed 21.70017
+LAURENT retry: 256.54449 with speed 21.70017
+LAURENT erreur de calcul de temps 317.32233 with speed 21.02541
+LAURENT retry: 317.32233 with speed 21.02541
+LAURENT erreur de calcul de temps 348.97717 with speed 20.12613
+LAURENT retry: 348.97717 with speed 20.12613
+LAURENT erreur de calcul de temps 355.79446 with speed 19.12935
+LAURENT retry: 355.79446 with speed 19.12935
+LAURENT erreur de calcul de temps 351.18533 with speed 18.26960
+LAURENT retry: 351.18533 with speed 18.26960
+LAURENT erreur de calcul de temps 365.36002 with speed 17.51960
+LAURENT retry: 365.36002 with speed 17.51960
+LAURENT erreur de calcul de temps 351.83319 with speed 16.67318
+LAURENT retry: 351.83319 with speed 16.67318
+LAURENT erreur de calcul de temps 356.13248 with speed 15.83652
+LAURENT retry: 356.13248 with speed 15.83652
+LAURENT erreur de calcul de temps 356.89490 with speed 15.03473
+LAURENT retry: 356.89490 with speed 15.03473
+LAURENT erreur de calcul de temps 324.58087 with speed 14.13688
+LAURENT retry: 324.58087 with speed 14.13688
+LAURENT erreur de calcul de temps 290.97327 with speed 13.37677
+LAURENT retry: 290.97327 with speed 13.37677
+LAURENT erreur de calcul de temps 258.14874 with speed 12.71701
+LAURENT retry: 258.14874 with speed 12.71701
+LAURENT erreur de calcul de temps 233.15840 with speed 12.12023
+LAURENT retry: 233.15840 with speed 12.12023
+LAURENT erreur de calcul de temps 218.40076 with speed 11.62023
+LAURENT retry: 218.40076 with speed 11.62023
+LAURENT erreur de calcul de temps 187.66504 with speed 11.16012
+LAURENT retry: 187.66504 with speed 11.16012
+LAURENT erreur de calcul de temps 188.83334 with speed 10.72023
+LAURENT retry: 188.83334 with speed 10.72023
+LAURENT erreur de calcul de temps 170.25194 with speed 10.22023
+LAURENT retry: 170.25194 with speed 10.22023
+LAURENT erreur de calcul de temps 158.12320 with speed 9.72023
+LAURENT retry: 158.12320 with speed 9.72023
+LAURENT erreur de calcul de temps 151.68053 with speed 8.98250
+LAURENT retry: 151.68053 with speed 8.98250
+LAURENT erreur de calcul de temps 213.00845 with speed 7.67761
+LAURENT retry: 213.00845 with speed 7.67761
+LAURENT erreur de calcul de temps 81.37746 with speed 21.35359
+LAURENT retry: 81.37746 with speed 21.35359
+LAURENT erreur de calcul de temps 255.40320 with speed 21.62492
+LAURENT retry: 255.40320 with speed 21.62492
+LAURENT erreur de calcul de temps 315.45834 with speed 21.05234
+LAURENT retry: 315.45834 with speed 21.05234
+LAURENT erreur de calcul de temps 353.08734 with speed 20.18075
+LAURENT retry: 353.08734 with speed 20.18075
+LAURENT erreur de calcul de temps 361.79797 with speed 19.19547
+LAURENT retry: 361.79797 with speed 19.19547
+LAURENT erreur de calcul de temps 354.34036 with speed 18.31056
+LAURENT retry: 354.34036 with speed 18.31056
+LAURENT erreur de calcul de temps 359.30637 with speed 17.56056
+LAURENT retry: 359.30637 with speed 17.56056
+LAURENT erreur de calcul de temps 356.16333 with speed 16.73949
+LAURENT retry: 356.16333 with speed 16.73949
+LAURENT erreur de calcul de temps 368.15048 with speed 15.95333
+LAURENT retry: 368.15048 with speed 15.95333
+LAURENT erreur de calcul de temps 354.00690 with speed 15.13886
+LAURENT retry: 354.00690 with speed 15.13886
+LAURENT erreur de calcul de temps 345.21497 with speed 14.26754
+LAURENT retry: 345.21497 with speed 14.26754
+LAURENT erreur de calcul de temps 295.33530 with speed 13.46842
+LAURENT retry: 295.33530 with speed 13.46842
+LAURENT erreur de calcul de temps 257.94720 with speed 12.78351
+LAURENT retry: 257.94720 with speed 12.78351
+LAURENT erreur de calcul de temps 236.60495 with speed 12.19823
+LAURENT retry: 236.60495 with speed 12.19823
+LAURENT erreur de calcul de temps 220.65855 with speed 11.69823
+LAURENT retry: 220.65855 with speed 11.69823
+LAURENT erreur de calcul de temps 187.96693 with speed 11.19912
+LAURENT retry: 187.96693 with speed 11.19912
+LAURENT erreur de calcul de temps 190.33484 with speed 10.79823
+LAURENT retry: 190.33484 with speed 10.79823
+LAURENT erreur de calcul de temps 174.40617 with speed 10.29823
+LAURENT retry: 174.40617 with speed 10.29823
+LAURENT erreur de calcul de temps 156.61012 with speed 9.79823
+LAURENT retry: 156.61012 with speed 9.79823
+LAURENT erreur de calcul de temps 162.47241 with speed 9.12602
+LAURENT retry: 162.47241 with speed 9.12602
+LAURENT erreur de calcul de temps 217.44209 with speed 7.98746
+LAURENT retry: 217.44209 with speed 7.98746
+LAURENT erreur de calcul de temps 84.31527 with speed 21.33165
+LAURENT retry: 84.31527 with speed 21.33165
+LAURENT erreur de calcul de temps 313.95184 with speed 21.06759
+LAURENT retry: 313.95184 with speed 21.06759
+LAURENT erreur de calcul de temps 348.14877 with speed 20.23104
+LAURENT retry: 348.14877 with speed 20.23104
+LAURENT erreur de calcul de temps 361.99448 with speed 19.25470
+LAURENT retry: 361.99448 with speed 19.25470
+LAURENT erreur de calcul de temps 383.41776 with speed 18.39450
+LAURENT retry: 383.41776 with speed 18.39450
+LAURENT erreur de calcul de temps 363.36664 with speed 17.61039
+LAURENT retry: 363.36664 with speed 17.61039
+LAURENT erreur de calcul de temps 360.04724 with speed 16.80770
+LAURENT retry: 360.04724 with speed 16.80770
+LAURENT erreur de calcul de temps 367.35672 with speed 16.04933
+LAURENT retry: 367.35672 with speed 16.04933
+LAURENT erreur de calcul de temps 352.42584 with speed 15.22384
+LAURENT retry: 352.42584 with speed 15.22384
+LAURENT erreur de calcul de temps 351.20734 with speed 14.38912
+LAURENT retry: 351.20734 with speed 14.38912
+LAURENT erreur de calcul de temps 298.11093 with speed 13.55501
+LAURENT retry: 298.11093 with speed 13.55501
+LAURENT erreur de calcul de temps 266.20956 with speed 12.86070
+LAURENT retry: 266.20956 with speed 12.86070
+LAURENT erreur de calcul de temps 238.77185 with speed 12.26822
+LAURENT retry: 238.77185 with speed 12.26822
+LAURENT erreur de calcul de temps 222.53868 with speed 11.76822
+LAURENT retry: 222.53868 with speed 11.76822
+LAURENT erreur de calcul de temps 207.08777 with speed 11.26822
+LAURENT retry: 207.08777 with speed 11.26822
+LAURENT erreur de calcul de temps 192.90208 with speed 10.86822
+LAURENT retry: 192.90208 with speed 10.86822
+LAURENT erreur de calcul de temps 175.50284 with speed 10.36822
+LAURENT retry: 175.50284 with speed 10.36822
+LAURENT erreur de calcul de temps 157.41290 with speed 9.86822
+LAURENT retry: 157.41290 with speed 9.86822
+LAURENT erreur de calcul de temps 157.72144 with speed 9.24964
+LAURENT retry: 157.72144 with speed 9.24964
+LAURENT erreur de calcul de temps 219.67279 with speed 8.24360
+LAURENT retry: 219.67279 with speed 8.24360
+arrived at point 144 : -15.7/45.4 t=39.00 dd=31.4 so=141 td=2.77 st=0.00
+iso arrival point 144 : -15.7/45.4 t=39.00 dd=31.4 so=141 td=2.77 st=0.00
+final point : -16.0/44.9 t=41.77 dd=0.0 so=0 td=0.00 st=0.00
+COMPUTED ISOCHRONE PATH IN computeFullIsoPathAndKeep
+||||||||||||||||||||||||||||||||||||||||||||||||||||
+## #iso #point x y time dist2dest source time2dest lat lon
+## iso -2 points 15 
+-2 0 -575.45 2300.76 0.00 403.76 -1 284687.91 50.01976 -9.35446
+-2 1 -610.76 2267.76 3.00 370.00 0 284684.91 49.37075 -10.10763
+-2 2 -644.31 2236.01 6.00 337.54 14 284713.78 49.13036 -10.44308
+-2 3 -673.89 2202.02 9.00 305.33 13 305332.81 48.47200 -11.13890
+-2 4 -694.34 2171.27 12.00 278.85 24 278854.69 48.23743 -11.34336
+-2 5 -737.64 2166.37 15.00 257.44 37 257442.94 48.19999 -12.17637
+-2 6 -782.40 2159.57 18.00 236.08 49 236083.78 48.14798 -13.02402
+-2 7 -824.39 2159.79 21.00 222.70 64 20.94 48.14964 -13.44392
+-2 8 -839.00 2125.05 24.00 194.47 81 17.86 47.48326 -13.58997
+-2 9 -861.23 2092.26 27.00 165.21 89 14.86 47.23072 -14.21233
+-2 10 -881.72 2058.55 30.00 135.71 96 11.85 46.57006 -14.41715
+-2 11 -901.00 2023.30 33.00 105.31 108 8.84 46.29613 -15.01003
+-2 12 -923.99 1985.93 36.00 72.29 130 5.81 46.00431 -15.23994
+-2 13 -941.04 1935.92 39.00 31.42 141 2.77 45.21127 -15.41038
+-2 14 -960.00 1899.97 41.77 0.00 0 0.00 44.52696 -16.00000
+
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||
+all paths and isochrones set stored in all_path_and_iso.dat -- see sol.c
+to draw it: 
+ gnuplot -e 'set size ratio -1; plot "all_path_and_iso.dat" u 3:4 title "isochones" with lines linecolor rgb "black", "all_path_and_iso.dat" i 0 u 3:4 title "isochrone route (TdD)" with lines lw 5 linecolor rgb "red", "noisy_iso.dat" u 3:4 title "PAES best TdD route" with lines lw 2' -persist
+5 best isochrones set stored in best_iso.dat -- see sol.c
+to draw it: 
+ gnuplot -e 'set size ratio -1; plot "best_iso.dat" u 3:4 with lines linecolor rgb "black", "best_iso.dat" i 0 u 3:4 with lines linecolor rgb "red", "noisy_iso.dat" u 3:4 with lines lw 2' -persist
+===================================================
+COMPUTED ISO before re-evaluation in simplifiedComputeFullIsoPathAndKeep
+## #iso #point x y time dist2dest source time2dest lat lon
+## iso -1 points 15 
+-1 0 -575.45 2300.76 0.00 403.76 -1 284687.91 50.01976 -9.35446
+-1 1 -610.76 2267.76 3.00 370.00 0 284684.91 49.37075 -10.10763
+-1 2 -644.31 2236.01 6.00 337.54 14 284713.78 49.13036 -10.44308
+-1 3 -673.89 2202.02 9.00 305.33 13 305332.81 48.47200 -11.13890
+-1 4 -694.34 2171.27 12.00 278.85 24 278854.69 48.23743 -11.34336
+-1 5 -737.64 2166.37 15.00 257.44 37 257442.94 48.19999 -12.17637
+-1 6 -782.40 2159.57 18.00 236.08 49 236083.78 48.14798 -13.02402
+-1 7 -824.39 2159.79 21.00 222.70 64 20.94 48.14964 -13.44392
+-1 8 -839.00 2125.05 24.00 194.47 81 17.86 47.48326 -13.58997
+-1 9 -861.23 2092.26 27.00 165.21 89 14.86 47.23072 -14.21233
+-1 10 -881.72 2058.55 30.00 135.71 96 11.85 46.57006 -14.41715
+-1 11 -901.00 2023.30 33.00 105.31 108 8.84 46.29613 -15.01003
+-1 12 -923.99 1985.93 36.00 72.29 130 5.81 46.00431 -15.23994
+-1 13 -941.04 1935.92 39.00 31.42 141 2.77 45.21127 -15.41038
+-1 14 -960.00 1899.97 41.77 0.00 0 0.00 44.52696 -16.00000
+
+
+===================================================
+===================================================
+COMPUTED ISO in simplifiedComputeFullIsoPathAndKeep
+## #iso #point x y time dist2dest source time2dest lat lon
+## iso -1 points 15 
+-1 0 -575.45 2300.76 0.00 436.25 -1 41.84 50.01976 -9.35446
+-1 1 -610.76 2267.76 3.01 370.00 0 284684.91 49.37075 -10.10763
+-1 2 -644.31 2236.01 6.02 337.54 14 284713.78 49.13036 -10.44308
+-1 3 -673.89 2202.02 9.03 305.33 13 305332.81 48.47200 -11.13890
+-1 4 -694.34 2171.27 12.06 278.85 24 278854.69 48.23743 -11.34336
+-1 5 -737.64 2166.37 15.04 257.44 37 257442.94 48.19999 -12.17637
+-1 6 -782.40 2159.57 18.04 236.08 49 236083.78 48.14798 -13.02402
+-1 7 -824.39 2159.79 21.03 222.70 64 20.94 48.14964 -13.44392
+-1 8 -839.00 2125.05 24.03 194.47 81 17.86 47.48326 -13.58997
+-1 9 -861.23 2092.26 27.04 165.21 89 14.86 47.23072 -14.21233
+-1 10 -881.72 2058.55 30.05 135.71 96 11.85 46.57006 -14.41715
+-1 11 -901.00 2023.30 33.05 105.31 108 8.84 46.29613 -15.01003
+-1 12 -923.99 1985.93 36.05 72.29 130 5.81 46.00431 -15.23994
+-1 13 -941.04 1935.92 39.07 31.42 141 2.77 45.21127 -15.41038
+-1 14 -960.00 1899.97 41.84 0.00 0 0.00 44.52696 -16.00000
+
+
+===================================================
+Journal of initial isochrone in noisy_isojournal.dat
+Detailed Journal of initial isochrone in noisy_isojournalwithsegments.dat
+starting with 4 archive
+archive front stored in noisy_archive0.dat
+7.67181 0.00000

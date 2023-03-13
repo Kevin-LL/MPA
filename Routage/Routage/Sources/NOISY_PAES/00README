@@ -1,0 +1,209 @@
+========================
+Fonctionnement de l'algo
+========================
+
+A chaque tours :
+En premier lieu il va générer du bruit et va faire muter une solution, si l'ancienne solution est meilleur il ne se passe rien, et l'algorithme recommence.
+Sinon si l'ancienne solution est "identique" ou moins bonne, il peut y avoir 3 cas possibles.
+Cas 1 : L'ancienne solution est meilleur, la nouvelle n'est pas sauvegardé
+Cas 2 : Si l'ancienne solution est moins bonne, la nouvelle est sauvegardé dans les archives et la grille est mise à jour. 
+Cas 3 : La nouvelle et l'ancienne solution ont un poids identique, mais le poids et répartis différement, si la répartition du poids entre les objectifs et meilleurs, celle-ci est sauvegardé.
+Pour tous les autres cas la nouvelle mutation n'est pas sauvegardé.
+L'algorithme determinera à la fin du tour si on doit conserver le nouveau chemin qui vient d'être générer.
+
+La mutation de solution peut échouer dans plusieurs cas :
+si celle si se retrouve face au vent
+Si le temps pratique et suppérieur au temps théorique
+
+Ici la notion de grille n'est pas une grille de trajectoire pour bateau, mais il s'agit d'une grille à multi objectifs. Pour determiner si une solution "identique" et meilleurs au niveau de la repartition des poids on utilise le front Pareto
+
+
+=========================
+= FICHIER DE PARAMETRES =
+=========================
+seed (int) un entier souche pour les randoms
+start (float) (float) deux flottants pour les coordonnees X Y de depart
+finish (float) (float) deux flottants pour les coordonnees X Y de fin
+polar (char *) le chemin relatif pour acceder au fichier de polaire du bateau
+weather (char *) le chemin relatif pour acceder au fichier meteo
+noise (float) la valeur max de bruit a ajouter sur les fichiers meteo
+gens (int) le nombre max de generation pour PAES
+alpha (int) le nombre solution a calculer dans a l initialisation
+depth (int) profondeur max a explorer lors des calcul
+outputfile (char *) le fichier de sortie
+
+========
+= MAIN = 
+========
+(paes.c)
+
+Ici notion de grille n'est pas une grille de trajectoire pour bateau, mais il s'agit d'une grille à multi objectifs. Pour determiner si une solution 
+"identique" et meilleurs au niveau de la repartition des poids on utilise Pareto
+
+
+appel : paes_init()
+
+boucle maxGen fois
+    appel : generateNoise pour creer  du bruit a appliquer au fichier meteo
+    appel : mutate_sol
+    comparaison de la solution initiale avec la solution mutee
+        solution initiale meilleure
+            pas de sauvegarde de la nouvelle
+        solution mutee meilleure
+            archive de la nouvelle solution
+            mise a jour de la grille
+        les solution ne sont pas comparable ( pareto )
+            archivage de la solution mutee
+       
+    la mutation echoue si
+        on se retrouve face au vent
+        si elle n est pas viable en temps (temps pratique > temps theorique)
+        
+            
+
+
+
+
+
+
+
+==========================
+EXPLICATION DES FONCTIONS
+==========================
+
+paes_init :: (paes.c)
+    @param nomDeFichierDeConfiguration
+    @return sol_t
+    
+    PRINCIPE : 
+        appel : read_local_parameter(nomDeFichierDeConfiguration)
+        @malloc!
+        
+        appel : newSol()
+        appel : paes_update_grid sur la solution qui vient d etre creee
+        appel : paes_archive_soln sur la solution qui vient d etre creee
+        boucle alpha fois
+            appel generateNoise pour creer  du bruit a appliquer au fichier meteo
+            appel : paes_update_grid sur la solution qui vient d etre creee
+            appel : paes_archive_soln sur la solution qui vient d etre creee
+            
+       retourne la premiere solution calculee (isochrone sans bruit)
+        
+read_local_parameter :: (paes.c)
+    @param nomDeFichierDeConfiguration
+    @return int (0 dans tous les cas)
+    
+    PRINCIPE :
+        assertion de la presence des parametre requis dans le fichier de config
+        integration dans variable globale (MODIF toDynamic?)
+        appel : read_polar(nomFichierPolar)
+        appel : read_weather(nomFichierWeather)
+        return 0
+        
+paes_update_grid :: (paes.c)
+    @param sol_t
+    @return void
+    
+    PRINCIPE :
+        Re-calcul la taille de la grille en fonction d une solution passee en parametre
+
+paes_archive_soln :: (paes.c)
+    @param sol_t
+    @return void
+    
+    PRINCIPE :
+        ajout de la solution en parametre dans PAES_ArcMac si
+            PAES_ArcMac est pas plein et s n est pas dominee ou equivalent ou domine toutes solution dans PAES_ArcMax
+    
+    
+mutate_sol :: (sol.c) 
+    @param sol_t *
+    @return sol_t *
+    
+    PRINCIPE : 
+        @malloc!
+        boucle 20 fois
+            appel : mutate_iso
+            applique les changements
+            
+        retourne la solution avec les mutations
+        
+    
+readPolar :: (model.c)
+    @param nomFichierPolar
+    @return void
+    
+    PRINCIPE :
+       Lecture des valeurs dans le fichier
+       @malloc!
+       
+readWeather :: (model.c)
+     @param nomDeFichierWeather
+     @return void
+     
+     PRINCIPE :
+        Lecture des valeurs dans le fichier
+        @malloc!
+        
+        
+newSol :: (sol.c)
+    @param none
+    @return sol_t
+    
+    PRINCIPE :
+        Si c est le premier appel
+            retourne simplifiedComputeFullIsoPath()
+        sinon
+            @malloc!
+            on passe 10 fois sur la solution
+            a chaque passe, on a :
+                60% de proba d'appliquer un random_iso
+                20% de proba d'appliquer un mutate_iso
+                20% de proba d'appliquer :
+                    mutate_iso sur un chemin direct entre le premier et le dernier point
+            
+        retourne la solution
+            
+            
+simplifiedComputeFullIsoPath :: (sol.c)
+    @param none
+    @return sol_t
+ 
+    @malloc!
+    appel : computeFullIsoPath(The_Model, The_Model->start.x, The_Model->start.y, The_Model->finish.x, The_Model->finish.y)
+    affectation des valeurs :
+        temps a destination
+        distance a destination
+        + au besoin:
+            stress a destination
+            ou
+            tack a destination
+    retourne la solution creee et completee
+    
+computeFullIsoPath :: (sol.c)
+    @param model_t, float xdeb, float ydeb, float xfin, float yfin
+    @return pointSet_t
+    
+    PRINCIPE :
+        Tente de creer un chemin complet du depart a l arrivee
+        Une fois fait, un parcours la liste de point de la fin au debut en creant un chemin
+        retourne le chemin (arrivee a depart)
+        
+
+mutate_iso:: (operators.c)    
+    @param int scen, float noise, pointSet_t * chrom
+    @return int       
+        
+    PRINCIPE :
+        calcul un random entre 1 et 3
+            en fonction du resultat soit :
+                -on supprime un waypoint
+                -on modify un waypoint
+                -on ajout un waypoint
+        return 1 si une modif a eu lieu, 0 sinon
+                
+        
+       
+       
+       
+       

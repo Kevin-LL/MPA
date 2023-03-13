@@ -1,0 +1,191 @@
+#ID Lat Lon speed time(hours) activity
+0 44.31725 -1.33679 0.00 0.9 
+1 44.35191 -1.51255 8.95 2.43 Upwind Port
+2 44.37472 -1.59905 9.23 3.15 Reaching Port
+3 44.40910 -2.08240 9.64 3.86 Reaching Port
+4 44.55493 -2.43455 8.83 6.86 Upwind Port
+5 45.11061 -3.14689 8.99 9.86 Upwind Port
+6 45.21955 -3.28535 9.99 11.36 Reaching Port
+7 45.33043 -3.42814 9.47 12.86 Upwind Port
+8 45.48452 -4.12557 7.77 15.83 Upwind Port
+9 46.03766 -4.38646 7.07 18.80 Upwind Port
+10 46.24100 -4.59432 7.38 21.91 Upwind Port
+11 46.39083 -5.19969 0.00 24.91 Upwind Port
+12 47.12421 -5.56711 6.85 30.91 Upwind Port
+13 47.29461 -6.14539 6.66 33.91 Upwind Port
+14 47.54304 -6.40641 6.58 38.51 Upwind Port
+#ID Lat Lon speed time(hours) activity
+0 44.31725 -1.33679 0.00 0.9 
+1 49.15141 -4.59026 0.00 36.13 Upwind Port
+2 47.54304 -6.40641 4.46 50.59 Upwind Starboard
+#ID Lat Lon speed time(hours) activity
+0 44.31725 -1.33679 0.00 0.9 
+1 44.35191 -1.51255 8.95 2.43 Upwind Port
+2 44.40910 -2.08240 9.45 3.87 Reaching Port
+3 44.55493 -2.43455 8.83 6.87 Upwind Port
+4 45.11061 -3.14689 8.99 9.87 Upwind Port
+5 45.30448 -3.44077 9.11 12.87 Upwind Port
+6 45.50824 -4.11532 8.37 15.86 Upwind Port
+7 46.08120 -4.36888 7.37 18.86 Upwind Port
+8 46.24100 -4.59432 6.82 21.85 Upwind Port
+9 46.39083 -5.19969 0.00 24.85 Upwind Port
+10 46.55498 -5.38401 6.92 27.85 Upwind Port
+11 47.12421 -5.56711 6.90 30.85 Upwind Port
+12 47.29461 -6.14539 6.66 33.85 Upwind Port
+13 47.54304 -6.40641 6.57 38.45 Upwind Port
+#ID Lat Lon speed time(hours) activity
+0 44.31725 -1.33679 0.00 0.9 
+1 44.35191 -1.51255 8.95 2.43 Upwind Port
+2 44.37472 -1.59905 9.23 3.15 Reaching Port
+3 44.40910 -2.08240 9.64 3.86 Reaching Port
+4 44.55493 -2.43455 8.83 6.86 Upwind Port
+5 45.11061 -3.14689 8.99 9.86 Upwind Port
+6 45.21955 -3.28535 9.99 11.36 Reaching Port
+7 45.33043 -3.42814 9.47 12.86 Upwind Port
+8 45.48452 -4.12557 7.77 15.83 Upwind Port
+9 46.03766 -4.38646 7.07 18.80 Upwind Port
+10 46.24100 -4.59432 7.38 21.91 Upwind Port
+11 46.39083 -5.19969 0.00 24.91 Upwind Port
+12 47.12421 -5.56711 6.85 30.91 Upwind Port
+13 47.54304 -6.40641 6.57 38.51 Upwind Port
+#ID Lat Lon speed time(hours) activity
+0 44.31725 -1.33679 0.00 0.9 
+1 44.35191 -1.51255 8.95 2.43 Upwind Port
+2 44.37472 -1.59905 9.23 3.15 Reaching Port
+3 44.40910 -2.08240 9.64 3.86 Reaching Port
+4 44.55493 -2.43455 8.83 6.86 Upwind Port
+5 45.11061 -3.14689 8.99 9.86 Upwind Port
+6 45.21955 -3.28535 9.99 11.36 Reaching Port
+7 45.48452 -4.12557 8.03 15.83 Upwind Port
+8 46.03766 -4.38646 7.07 18.80 Upwind Port
+9 46.24100 -4.59432 7.38 21.91 Upwind Port
+10 46.39083 -5.19969 0.00 24.91 Upwind Port
+11 47.12421 -5.56711 6.85 30.91 Upwind Port
+12 47.54304 -6.40641 6.57 38.51 Upwind Port
+#ID Lat Lon speed time(hours) activity
+0 44.31725 -1.33679 0.00 0.9 
+1 44.37472 -1.59905 9.10 3.18 Upwind Port
+2 44.40910 -2.08240 9.64 3.89 Reaching Port
+3 44.55493 -2.43455 8.83 6.89 Upwind Port
+4 45.11061 -3.14689 8.99 9.89 Upwind Port
+5 45.21955 -3.28535 9.99 11.39 Reaching Port
+6 45.48452 -4.12557 8.02 15.86 Upwind Port
+7 46.03766 -4.38646 7.06 18.83 Upwind Port
+8 46.24100 -4.59432 7.38 21.94 Upwind Port
+9 46.39083 -5.19969 0.00 24.94 Upwind Port
+10 47.12421 -5.56711 6.85 30.94 Upwind Port
+11 47.54304 -6.40641 6.57 38.55 Upwind Port
+#ID Lat Lon speed time(hours) activity
+0 44.31725 -1.33679 0.00 0.9 
+1 44.37472 -1.59905 9.10 3.18 Upwind Port
+2 44.40328 -2.08470 9.46 3.89 Reaching Port
+3 44.55493 -2.43455 8.87 6.89 Upwind Port
+4 45.11061 -3.14689 8.99 9.89 Upwind Port
+5 45.21955 -3.28535 9.99 11.39 Reaching Port
+6 45.48452 -4.12557 8.02 15.86 Upwind Port
+7 46.03766 -4.38646 7.06 18.83 Upwind Port
+8 46.24100 -4.59432 7.38 21.94 Upwind Port
+9 46.39083 -5.19969 0.00 24.94 Upwind Port
+10 47.12421 -5.56711 6.85 30.94 Upwind Port
+11 47.54304 -6.40641 6.57 38.55 Upwind Port
+#ID Lat Lon speed time(hours) activity
+0 44.31725 -1.33679 0.00 0.9 
+1 44.37472 -1.59905 9.10 3.18 Upwind Port
+2 44.40328 -2.08470 9.46 3.89 Reaching Port
+3 44.55493 -2.43455 8.87 6.89 Upwind Port
+4 45.11061 -3.14689 8.99 9.89 Upwind Port
+5 45.48452 -4.12557 8.13 15.86 Upwind Port
+6 46.03766 -4.38646 7.06 18.84 Upwind Port
+7 46.24100 -4.59432 7.38 21.95 Upwind Port
+8 46.39083 -5.19969 0.00 24.95 Upwind Port
+9 47.12421 -5.56711 6.85 30.95 Upwind Port
+10 47.54304 -6.40641 6.57 38.56 Upwind Port
+#ID Lat Lon speed time(hours) activity
+0 44.31725 -1.33679 0.00 0.9 
+1 44.37472 -1.59905 9.10 3.18 Upwind Port
+2 44.40328 -2.08470 9.46 3.89 Reaching Port
+3 44.55493 -2.43455 8.87 6.89 Upwind Port
+4 45.11061 -3.14689 8.99 9.89 Upwind Port
+5 45.48452 -4.12557 8.13 15.86 Upwind Port
+6 46.03766 -4.38646 7.06 18.84 Upwind Port
+7 46.24100 -4.59432 7.38 21.95 Upwind Port
+8 46.39083 -5.19969 0.00 24.95 Upwind Port
+9 47.54304 -6.40641 6.53 38.58 Upwind Port
+#ID Lat Lon speed time(hours) activity
+0 44.31725 -1.33679 0.00 0.9 
+1 44.32737 -1.42488 8.60 1.68 Upwind Port
+2 44.34890 -1.51295 9.08 2.42 Upwind Port
+3 44.40328 -2.08470 9.42 3.87 Reaching Port
+4 44.53023 -2.44465 8.79 6.87 Upwind Port
+5 46.03766 -4.38646 7.16 18.83 Upwind Port
+6 46.24100 -4.59432 7.38 21.95 Upwind Port
+7 47.54304 -6.40641 6.43 38.59 Upwind Port
+#ID Lat Lon speed time(hours) activity
+0 44.31725 -1.33679 0.00 0.9 
+1 44.34890 -1.51295 8.90 2.43 Upwind Port
+2 44.40328 -2.08470 9.42 3.88 Reaching Port
+3 44.53023 -2.44465 8.79 6.88 Upwind Port
+4 46.03766 -4.38646 7.16 18.84 Upwind Port
+5 46.24100 -4.59432 7.37 21.96 Upwind Port
+6 47.54304 -6.40641 6.43 38.60 Upwind Port
+#ID Lat Lon speed time(hours) activity
+0 44.31725 -1.33679 0.00 0.9 
+1 44.37472 -1.59905 9.10 3.18 Upwind Port
+2 44.40328 -2.08470 9.46 3.89 Reaching Port
+3 44.53023 -2.44465 8.79 6.89 Upwind Port
+4 46.03766 -4.38646 7.15 18.86 Upwind Port
+5 46.24100 -4.59432 7.37 21.98 Upwind Port
+6 47.54304 -6.40641 6.43 38.62 Upwind Port
+#ID Lat Lon speed time(hours) activity
+0 44.31725 -1.33679 0.00 0.9 
+1 44.40328 -2.08470 9.21 3.93 Upwind Port
+2 44.53023 -2.44465 8.79 6.93 Upwind Port
+3 46.03766 -4.38646 7.15 18.91 Upwind Port
+4 46.24100 -4.59432 7.36 22.02 Upwind Port
+5 47.54304 -6.40641 6.43 38.67 Upwind Port
+#ID Lat Lon speed time(hours) activity
+0 44.31725 -1.33679 0.00 0.9 
+1 44.32737 -1.42488 8.60 1.68 Upwind Port
+2 44.33521 -1.46919 8.83 2.05 Upwind Port
+3 44.34890 -1.51295 9.24 2.42 Reaching Port
+4 44.40328 -2.08470 9.42 3.87 Reaching Port
+5 44.53023 -2.44465 8.79 6.87 Upwind Port
+6 46.03766 -4.38646 7.16 18.83 Upwind Port
+7 46.24100 -4.59432 7.38 21.95 Upwind Port
+8 47.54304 -6.40641 6.43 38.59 Upwind Port
+#ID Lat Lon speed time(hours) activity
+0 44.31725 -1.33679 0.00 0.9 
+1 44.33521 -1.46919 8.71 2.06 Upwind Port
+2 44.34890 -1.51295 9.24 2.43 Reaching Port
+3 44.40328 -2.08470 9.42 3.87 Reaching Port
+4 44.53023 -2.44465 8.79 6.87 Upwind Port
+5 46.03766 -4.38646 7.16 18.84 Upwind Port
+6 46.24100 -4.59432 7.37 21.95 Upwind Port
+7 47.54304 -6.40641 6.43 38.60 Upwind Port
+#ID Lat Lon speed time(hours) activity
+0 44.31725 -1.33679 0.00 0.9 
+1 44.33521 -1.46919 8.71 2.06 Upwind Port
+2 44.34594 -1.51365 9.07 2.43 Upwind Port
+3 44.40328 -2.08470 9.46 3.88 Reaching Port
+4 44.53023 -2.44465 8.79 6.88 Upwind Port
+5 46.03766 -4.38646 7.16 18.84 Upwind Port
+6 46.24100 -4.59432 7.37 21.96 Upwind Port
+7 47.54304 -6.40641 6.43 38.60 Upwind Port
+#ID Lat Lon speed time(hours) activity
+0 44.31725 -1.33679 0.00 0.9 
+1 44.33521 -1.46919 8.71 2.06 Upwind Port
+2 44.34594 -1.51365 9.07 2.43 Upwind Port
+3 44.40328 -2.08470 9.46 3.88 Reaching Port
+4 44.53023 -2.44465 8.79 6.88 Upwind Port
+5 46.03766 -4.38646 7.16 18.84 Upwind Port
+6 46.24100 -4.59432 7.37 21.96 Upwind Port
+7 47.54304 -6.40641 6.43 38.60 Upwind Port
+#ID Lat Lon speed time(hours) activity
+0 44.31725 -1.33679 0.00 0.9 
+1 44.33521 -1.46919 8.71 2.06 Upwind Port
+2 44.34594 -1.51365 9.07 2.43 Upwind Port
+3 44.40328 -2.08470 9.46 3.88 Reaching Port
+4 44.53023 -2.44465 8.79 6.88 Upwind Port
+5 46.03766 -4.38646 7.16 18.84 Upwind Port
+6 46.24100 -4.59432 7.37 21.96 Upwind Port
+7 47.54304 -6.40641 6.43 38.60 Upwind Port
