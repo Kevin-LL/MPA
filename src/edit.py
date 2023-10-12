@@ -1,5 +1,5 @@
-import tools
 import re
+from . import tools
 
 class Edit:
     def __init__(self, map):
@@ -124,7 +124,7 @@ class Edit:
     """
     def validate(self):
             input_value = self.app.edit_input_value.get()
-            numeric = "^[\-+]?[0-9]*\.?[0-9]+$"
+            numeric = r"^[-+]?[0-9]*\.?[0-9]+$"
 
             # On vérifie si la valeur en entrée est bien numérique
             if re.match(numeric, input_value):

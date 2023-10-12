@@ -1,0 +1,14 @@
+name: grib-wind
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python
+  - pillow
+  - numpy
+  - xarray
+  - cfgrib
+  - eccodes
+  - python-eccodes

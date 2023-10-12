@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+src/api/*.[od]
+src/api/*.dll
+src/api/*.so
+
+# Temp files
+src/temp/

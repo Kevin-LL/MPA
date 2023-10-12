@@ -1,9 +1,9 @@
-import tools
-from move import Move
-from edit import Edit
-from grib import Grib
-from geojson import Geojson
-from history import History
+from . import tools
+from .move import Move
+from .edit import Edit
+from .grib import Grib
+from .geojson import Geojson
+from .history import History
 from pathlib import Path
 from PIL import Image, ImageTk
 

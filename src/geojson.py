@@ -1,5 +1,5 @@
-import tools
 import json
+from . import tools
 from pathlib import Path
 from PIL import Image, ImageTk
 from tkinter import filedialog as fd

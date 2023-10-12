@@ -1,6 +1,5 @@
-import tools
 import shutil
-import subprocess
+from . import tools
 from pathlib import Path
 from tkinter import filedialog as fd, messagebox as mb
 
@@ -109,24 +108,25 @@ class History:
 
     """
     Écrit dans un fichier les éditions effectuées.
+
+    @param destination_path: chemin de destination
     """
     def write(self, destination_path):
-        # On copie le fichier temporaire vers un chemin destination
+        # On copie le fichier temporaire vers un chemin de destination
         shutil.copy(self.temp_file_path, destination_path)
 
         # On exécute toutes les éditions sur le fichier
-        api_path = Path(__file__).parent.absolute() / "api" / "prog"
         for i in range(1, self.position + 1):
             date, time = tools.datetime64_to_params(self.map.grib.data_time + self.map.grib.data_step[self.history[i][0]])
-            min_latitude = str(self.history[i][1])
-            min_longitude = str(self.history[i][2])
-            max_latitude = str(self.history[i][3])
-            max_longitude = str(self.history[i][4])
+            min_latitude = self.history[i][1]
+            min_longitude = self.history[i][2]
+            max_latitude = self.history[i][3]
+            max_longitude = self.history[i][4]
             type = self.history[i][5]
-            is_offset = str(self.history[i][6])
-            input_value = self.history[i][7]
+            is_offset = self.history[i][6]
+            input_value = float(self.history[i][7])
 
-            subprocess.run([api_path, destination_path, date, time, min_latitude, min_longitude, max_latitude, max_longitude, type, is_offset, input_value])
+            self.app.api.set_wind_area_generic(str(destination_path), date, time, min_latitude, min_longitude, max_latitude, max_longitude, type, is_offset, input_value)
 
     """
     Sauvegarde l'édition.
@@ -211,7 +211,7 @@ class History:
         else:
             self.app.timeline.set(0)
             self.map.grib.update_datetime(0)
-            self.map.edit.restore("", "", "", "", "VAL_ANGLE", False, "")
+            self.map.edit.restore("", "", "", "", 0, False, "")
         self.map.grib.update_step(None)
 
         if from_start:
@@ -261,6 +261,8 @@ class History:
 
     """
     Lance une édition.
+
+    @param command: édition à exécuter
     """
     def execute(self, command):
         # Changement de position

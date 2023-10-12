@@ -1,7 +1,7 @@
-import tools
 import math
 import xarray as xr
 import numpy as np
+from . import tools
 from threading import Thread, Event
 from pathlib import Path
 from PIL import Image, ImageTk
@@ -307,11 +307,11 @@ class Grib:
 
                             if barb_bbox not in self.barbs_ref and tools.is_intersection(visible_bbox, barb_bbox):
                                 # Définition de la direction
-                                direction = int(tools.wind_uv_to_direction(u, v))
+                                direction = tools.wind_uv_to_direction(u, v)
 
                                 # Définition de la vitesse
-                                speed_in_ms = tools.wind_uv_to_speed(u, v)
-                                speed_in_knots = speed_in_ms / 0.514444
+                                speed_in_mps = tools.wind_uv_to_speed(u, v)
+                                speed_in_knots = tools.mps_to_knots(speed_in_mps)
                                 speed = 5 * round(speed_in_knots / 5) # Arrondi à un multiple de 5
                                 if speed > 150:
                                     speed = 150
@@ -339,43 +339,33 @@ class Grib:
                 if latitude >= min_latitude and latitude <= max_latitude and longitude >= min_longitude and longitude <= max_longitude:
                     u = self.data_u[step][index_latitude][index_longitude]
                     v = self.data_v[step][index_latitude][index_longitude]
+                    speed_in_mps = tools.wind_uv_to_speed(u, v)
 
                     # Type de modification
                     match type:
-                        case "VAL_ANGLE":
+                        case 0:
                             if is_offset:
-                                speed_in_ms = tools.wind_uv_to_speed(u, v)
                                 new_angle = math.atan2(v, u) - float(input_value) * math.pi / 180
-                                self.data_u[step][index_latitude][index_longitude] = speed_in_ms * math.cos(new_angle)
-                                self.data_v[step][index_latitude][index_longitude] = speed_in_ms * math.sin(new_angle)
                             else:
-                                speed_in_ms = tools.wind_uv_to_speed(u, v)
                                 new_angle = (270 - float(input_value)) * math.pi / 180
-                                self.data_u[step][index_latitude][index_longitude] = speed_in_ms * math.cos(new_angle)
-                                self.data_v[step][index_latitude][index_longitude] = speed_in_ms * math.sin(new_angle)
-                        case "VAL_SPEED":
+                            self.data_u[step][index_latitude][index_longitude] = speed_in_mps * math.cos(new_angle)
+                            self.data_v[step][index_latitude][index_longitude] = speed_in_mps * math.sin(new_angle)
+                        case 1:
                             if is_offset:
-                                speed_in_ms = tools.wind_uv_to_speed(u, v)
-                                new_speed = speed_in_ms + float(input_value) * 0.514444
-                                if new_speed <= 0:
-                                    new_speed = 0.514444
-                                self.data_u[step][index_latitude][index_longitude] = u * new_speed / speed_in_ms
-                                self.data_v[step][index_latitude][index_longitude] = v * new_speed / speed_in_ms
+                                new_speed = tools.knots_to_mps(speed_in_mps + float(input_value))
                             else:
-                                speed_in_ms = tools.wind_uv_to_speed(u, v)
-                                new_speed = float(input_value) * 0.514444
-                                if new_speed <= 0:
-                                    new_speed = 0.514444
-                                self.data_u[step][index_latitude][index_longitude] = u * new_speed / speed_in_ms
-                                self.data_v[step][index_latitude][index_longitude] = v * new_speed / speed_in_ms
-                        case "VAL_POURC":
+                                new_speed = tools.knots_to_mps(float(input_value))
+                            if new_speed <= 0:
+                                new_speed = tools.knots_to_mps(1)
+                            self.data_u[step][index_latitude][index_longitude] *= new_speed / speed_in_mps
+                            self.data_v[step][index_latitude][index_longitude] *= new_speed / speed_in_mps
+                        case 2:
                             if is_offset:
-                                speed_in_ms = tools.wind_uv_to_speed(u, v)
-                                new_speed = speed_in_ms + (speed_in_ms * float(input_value) / 100)
+                                new_speed = speed_in_mps + (speed_in_mps * float(input_value) / 100)
                                 if new_speed <= 0:
-                                    new_speed = 0.514444
-                                self.data_u[step][index_latitude][index_longitude] = u * new_speed / speed_in_ms
-                                self.data_v[step][index_latitude][index_longitude] = v * new_speed / speed_in_ms
+                                    new_speed = tools.knots_to_mps(1)
+                                self.data_u[step][index_latitude][index_longitude] *= new_speed / speed_in_mps
+                                self.data_v[step][index_latitude][index_longitude] *= new_speed / speed_in_mps
 
         # Suppression des images
         self.app.canvas.delete("barb")

@@ -24,6 +24,26 @@ def wind_uv_to_speed(u, v):
     return math.sqrt(u * u + v * v)
 
 """
+Transforme une valeur en mètres par seconde en valeur en noeuds.
+
+@param value: la valeur en mètres par seconde
+
+@return: la valeur en noeuds
+"""
+def mps_to_knots(value):
+    return value / 0.51444444444444444444
+
+"""
+Transforme une valeur en noeuds en valeur en mètres par seconde.
+
+@param value: la valeur en noeuds
+
+@return: la valeur en mètres par seconde
+"""
+def knots_to_mps(value):
+    return value * 0.51444444444444444444
+
+"""
 Converti un point en pixels (x, y) en point géographique (latitude, longitude).
 
 @param tiles_size: taille des tuiles
